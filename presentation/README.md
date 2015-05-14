@@ -12,17 +12,17 @@
 
 ##What do they do
 
-|Files|Functionality|
-|:----|:-----------|
-|autorun.sh|as a autograder?|
-|240365\_p1.train.txt|the training data|
-|nlp.py|finding pairs?|
-|train\_cut.c|from sentences to POS tags?|
-|p1.test.txt|the test data|
-|llh.py|learning from training data|
-|recover.py|add id to answer|
+|Files|Functionality|Usage|
+|:----|:-----------|:-----|
+|autorun.sh|*it does everything for you*| |
+|240365\_p1.train.txt|the given training data| |
+|nlp.py|finding pairs?|`python nlp.py`|
+|train\_cut.c|sentences => POS tags|compile with `gcc -I/usr/local/scws/include/scws -L/usr/local/scws/lib/ train_cut.c -lscws -o a.out` and run with `./a.out < [file full of sentences] > [file of POS tags of the sentences]`|
+|p1.test.txt|the given test data| |
+|llh.py|build up data set from training data and determine the answer to test data|`python llh.py [path to training data file] [path to test data file] [regular epsilon] [special epsilon]`
+|recover.py|add sentence ID to tmp\_result.txt|`python recover.py`|
 
-##Usage
+##Run
 
 ####Step1
 ```sh
