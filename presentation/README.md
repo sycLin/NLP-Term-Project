@@ -24,7 +24,7 @@
 
 ##Usage
 
-###Step1
+####Step1
 ```sh
 python nlp.py | tr -s $'\n' > tmp1.txt
 ```
