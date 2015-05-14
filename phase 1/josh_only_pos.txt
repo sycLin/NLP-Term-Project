@@ -1,0 +1,200 @@
+POS tags: r v p r uj n vn 
+POS tags: r p r uj nz n 
+POS tags: n p un n un uj n v n d v v uj 
+POS tags: r v d a 
+POS tags: n f m q i 
+POS tags: n p d n v a 
+POS tags: r uj v v r r v nz uj n d m v uj 
+POS tags: c v n v r vn 
+POS tags: r p ns d mt v 
+POS tags: n r p n m uj n 
+POS tags: p n v n uj n d d ad 
+POS tags: r v uj c v v mt 
+POS tags: en n ns f n v nz 
+POS tags: r a uj n d v r 
+POS tags: p m a n v v m a n 
+POS tags: r p r n v v v v r v uj 
+POS tags: d z v n uj an v d a uj n 
+POS tags: c r n p r v b nz 
+POS tags: c v r v uj vn 
+POS tags: v p n v v an 
+POS tags: r d d a v 
+POS tags: n d v v r n n 
+POS tags: n v v mq n p n c v 
+POS tags: n uj vn n uj v v v n uj vn n p n n v n 
+POS tags: v n v v r v p r v n uj 
+POS tags: d v uj n v n v r 
+POS tags: r n p n an c n n v a uj vn 
+POS tags: c r v v 
+POS tags: r d v p r n d v n 
+POS tags: nr v n y 
+POS tags: r uj n v d ad uj n v nr d uj n v v n 
+POS tags: n uj n vn v 
+POS tags: n v v m n 
+POS tags: r v m m n uj n v n v r ad uj n 
+POS tags: c v f 
+POS tags: c n v a v c n d d vn r 
+POS tags: r v n uj n v v v j n 
+POS tags: n n d d v n uj n 
+POS tags: r n v f r n d v v 
+POS tags: t r a mt q v 
+POS tags: n v n v vn r n p n uj n 
+POS tags: r v d p r uj n f uj v 
+POS tags: p n f uj n n 
+POS tags: c r v v v v v m n n v 
+POS tags: v v uj n v v ns 
+POS tags: n m v r d v un r r p nr vd 
+POS tags: r v v v ns 
+POS tags: d r v t 
+POS tags: p nz uj v n v n v ns v uj n 
+POS tags: r v n c n uj n n uj n 
+POS tags: v n vd v l mt v 
+POS tags: c v v m n d v v v n v 
+POS tags: t r n v v n n ad uj an 
+POS tags: r d v r 
+POS tags: p mt n mt uj v 
+POS tags: r d v r v 
+POS tags: v uj n n 
+POS tags: n v m n m 
+POS tags: p n uj v d v mt v v n v 
+POS tags: t nz n v v f 
+POS tags: r v v v r t v n m p n v c u n vn 
+POS tags: c p n uj v 
+POS tags: v un m n p v v n 
+POS tags: n f v v d a 
+POS tags: v v a v n 
+POS tags: r p v n v v t n v n 
+POS tags: n n b d ad uj n 
+POS tags: p un v un n f v uj n d v f k 
+POS tags: p v v n a 
+POS tags: t d v v m n n m 
+POS tags: v r v d a uj n 
+POS tags: v n 
+POS tags: r d v ng v b 
+POS tags: v r v a uj a b 
+POS tags: r r uj n d v mt 
+POS tags: p r v p vd f d l 
+POS tags: c a uj n v r d v v 
+POS tags: d v r v v d n uj n v uj n n uj n v r d d a 
+POS tags: r p r v nz v v mt 
+POS tags: v n 
+POS tags: p n uj n f d v un n r v 
+POS tags: z uj n v n c v n n v i 
+POS tags: n uj n k d d a c v r nr v 
+POS tags: r d v n 
+POS tags: c v n n 
+POS tags: c a q k v n 
+POS tags: r v mq r d v 
+POS tags: r n uj n c m v a d n v 
+POS tags: v vn n uj 
+POS tags: r p r c r n v v r nz f v 
+POS tags: r n n 
+POS tags: r d d d v r r n 
+POS tags: r t p r v uj vn v v 
+POS tags: a uj v v v f n 
+POS tags: t uj n uj n n n n 
+POS tags: n v q ad v uj n 
+POS tags: nr n n v v vn uj 
+POS tags: nz n k d v n uj n d v v r v uj n c r uj ad d u 
+POS tags: r d p m n nr n n v v n 
+POS tags: m v d n n v 
+POS tags: p vn n f d d v v m n c an 
+POS tags: r v v n v v nz 
+POS tags: r d v r nr 
+POS tags: v r r n v v 
+POS tags: f r v r m q n 
+POS tags: p ns uj vn d v v 
+POS tags: r r v v n v v v n uj n 
+POS tags: v n uj n v v n n v r d a uj n 
+POS tags: c p vn v v n v n r v v 
+POS tags: r v v uj n d a v 
+POS tags: l 
+POS tags: r p nz n v k n 
+POS tags: r p l k n 
+POS tags: v uj n v 
+POS tags: r n v un n v v m n 
+POS tags: v n a v uj v v 
+POS tags: n b p r n uj n d v n 
+POS tags: c d a uj v n n n v n r uj n 
+POS tags: n uj n n nr nz r 
+POS tags: v v m n f 
+POS tags: v r n d v d v r v uj 
+POS tags: v n v m d v 
+POS tags: d v v n uj n 
+POS tags: d v n v r v n 
+POS tags: rz n v r d m n v 
+POS tags: m q n n a n d v v p r v d a uj n 
+POS tags: c r v v v r n v 
+POS tags: f m n v t v 
+POS tags: r d v v n k v v a uj n v v r i n v 
+POS tags: n d v n f uj n 
+POS tags: d d v ns 
+POS tags: v r d v v r n uj n 
+POS tags: p n uj n v n 
+POS tags: t r v p ns v v m q n 
+POS tags: r d v v d a uj v n 
+POS tags: n d v 
+POS tags: m n d v n vn 
+POS tags: t n d v 
+POS tags: r t t d v l vn 
+POS tags: c n uj u n v i 
+POS tags: v v n f r n v n i v u uj 
+POS tags: v r v v v n v a v 
+POS tags: n v r n uj v v c v n uj n 
+POS tags: r d v v a m uj v 
+POS tags: p r v v un n uj n v uj n 
+POS tags: c m q n d v v v d v 
+POS tags: v v v f uj n 
+POS tags: c n v r r uj n y 
+POS tags: r v c r v 
+POS tags: d v n d l 
+POS tags: r n r t uj n 
+POS tags: r n r d v v n nz n 
+POS tags: n p v an uj n f vn v d v v a uj n n vn 
+POS tags: r v n uj n v ns uj n 
+POS tags: n p n v n d v 
+POS tags: c r d v v n p r d an 
+POS tags: n v n d v a n v v n p r n v 
+POS tags: n n v nz v v a uj vn 
+POS tags: r n p m n v v uj n 
+POS tags: c v r uj ad n 
+POS tags: v p p r n r uj n v 
+POS tags: r d n n 
+POS tags: ad a uj n f n n v r n uj n 
+POS tags: n n 
+POS tags: r p d u uj n n v v v 
+POS tags: r t m v 
+POS tags: r v vn v q n v 
+POS tags: n z v r r uj n r m n v v 
+POS tags: d v uj 
+POS tags: an v 
+POS tags: c r uj n v 
+POS tags: n r m v n p n uj v n 
+POS tags: r d l r d n r u v 
+POS tags: n v n n n ad a uj n 
+POS tags: r d d v 
+POS tags: v p n v uj vn 
+POS tags: n n d v v n 
+POS tags: un n un p r n n v 
+POS tags: r d v v r r uj n 
+POS tags: t r d v vn v r d a d a uj un n n un 
+POS tags: r uj n d l a uj v 
+POS tags: n v r 
+POS tags: r r v nz d a mt v 
+POS tags: p v c v n v n p v r v uj n 
+POS tags: f s uj vn y m v 
+POS tags: d p n f d v a v z uj n 
+POS tags: r t v n n 
+POS tags: c r d df r v 
+POS tags: r v v uj n a 
+POS tags: c n nr d d a 
+POS tags: n r uj n a r 
+POS tags: r d d v v an v uj n 
+POS tags: d v vn n n q uj vn 
+POS tags: n v r n v r v v uj n c v v c v n uj v 
+POS tags: i vd v r t uj vn 
+POS tags: p nr uj p v 
+POS tags: v un n un uj n n 
+POS tags: n v 
+POS tags: d v v b n a 
+POS tags: v n d v vn n v 
