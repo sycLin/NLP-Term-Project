@@ -9,7 +9,7 @@ This is a 3-member group project for NLP course.
 
 ###### Some Useful Links
 + [Slides from TAs] (https://docs.google.com/presentation/d/1wRvJ8zV5USEATn7TaTXmNE9jywlltaLL4yYlkCK1je8/edit#slide=id.p)
-+ Link #2
++ [scws (POS tagger APIs in C)](http://www.xunsearch.com/scws/index.php)
 + Link #3
 
 Latest News
