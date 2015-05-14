@@ -7,6 +7,11 @@ What is this about
 This is a 3-member group project for NLP course.
 (Natural Language Processing, at NTU CSIE.)
 
+###### Some Useful Links
++ Link #1
++ Link #2
++ Link #3
+
 Latest News
 -----------
 
