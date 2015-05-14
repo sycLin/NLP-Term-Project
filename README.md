@@ -28,4 +28,13 @@ Schedule
 --------
 |Date|Title|
 |:---|:----|
-|nothing|yet|
+|2015/4/27|Phase 1 test data released|
+|2015/5/4|Phase 1 due|
+|2015/5/5|Phase 2 training data released|
+|2015/5/21|Phase 1 **presentation**|
+|2015/6/2|Phase 2 test data released|
+|2015/6/9|Phase 2 due and report due|
+|2015/6/25|Final Exam|
+
+
+
