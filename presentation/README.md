@@ -17,9 +17,9 @@
 |autorun.sh|*it does everything for you*| |
 |240365\_p1.train.txt|the given training data| |
 |nlp.py|finding pairs?|`python nlp.py`|
-|train\_cut.c|sentences => POS tags|compile with `gcc -I/usr/local/scws/include/scws -L/usr/local/scws/lib/ train_cut.c -lscws -o a.out` and run with `./a.out < [file full of sentences] > [file of POS tags of the sentences]`|
+|train\_cut.c|sentences => POS tags|compile with `gcc` and run with `./a.out`|
 |p1.test.txt|the given test data| |
-|llh.py|build up data set from training data and determine the answer to test data|`python llh.py [path to training data file] [path to test data file] [regular epsilon] [special epsilon]`
+|llh.py|build up KB and determine the answer|`python llh.py [train_file] [test_file] [e1] [e2]`|
 |recover.py|add sentence ID to tmp\_result.txt|`python recover.py`|
 
 ##Run
