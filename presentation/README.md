@@ -63,5 +63,5 @@ python recover.py > p1.result.txt
 rm -f a.out tmp1.txt tmp_result.txt tmp_test.txt tmp_train.txt
 ```
 
-
+![test image](./snapshots/01_240365_p1.train.txt_snapshot.png)
 
