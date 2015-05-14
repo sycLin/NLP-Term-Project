@@ -28,6 +28,13 @@
 ```sh
 python nlp.py | tr -s $'\n' > tmp1.txt
 ```
+
+![train_data snapshot](./snapshots/01_240365_p1.train.txt_snapshot.png)
+
+![after nlp.py](./snapshots/02_after_nlp.py_snapshot.png)
+
+![tmp1.txt](./snapshots/03_tmp1.txt_after_nlp.py_snapshot.png)
+
 ####Step2
 ```sh
 gcc -I/usr/local/scws/include/scws -L/usr/local/scws/lib/ train_cut.c -lscws -o a.out
@@ -63,5 +70,4 @@ python recover.py > p1.result.txt
 rm -f a.out tmp1.txt tmp_result.txt tmp_test.txt tmp_train.txt
 ```
 
-![test image](./snapshots/01_240365_p1.train.txt_snapshot.png =511x228)
 
