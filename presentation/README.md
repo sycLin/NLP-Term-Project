@@ -19,7 +19,7 @@
 |nlp.py|finding pairs?|`python nlp.py`|
 |train\_cut.c|sentences => POS tags|compile with `gcc` and run with `./a.out`|
 |p1.test.txt|the given test data| |
-|llh.py|build up KB and determine the answer|`python llh.py [train_file] [test_file] [e1] [e2]`|
+|llh.py|build up KB and give answers|`python llh.py [train_file] [test_file] [e1] [e2]`|
 |recover.py|add sentence ID to tmp\_result.txt|`python recover.py`|
 
 ##Run
