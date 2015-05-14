@@ -45,7 +45,7 @@ cat p1.test.txt | cut -d $'\t' -f 2 > tmp1.txt
 
 ####Step5
 ```sh
-./a.out < tmp1.txt | grep -B 1 "===" | grep -E "0|1|POS" > tmp_train.txt
+./a.out < tmp1.txt | grep -B 1 "===" | grep -E "0|1|POS" > tmp_test.txt
 ```
 
 ####Step6
