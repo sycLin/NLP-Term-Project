@@ -22,7 +22,7 @@
 |llh.py|build up KB and give answers|`python llh.py [train_file] [test_file] [e1] [e2]`|
 |recover.py|add sentence ID to tmp\_result.txt|`python recover.py`|
 
-##Run
+##Execution Overview
 
 ####Step1
 ```sh
