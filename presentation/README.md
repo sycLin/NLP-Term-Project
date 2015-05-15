@@ -29,54 +29,55 @@
 python nlp.py | tr -s $'\n' > tmp1.txt
 ```
 
-> snapshots: 01, 02, 03.
+> snapshots: [01], [02], [03].
 
 ####Step2
 ```sh
 gcc -I/usr/local/scws/include/scws -L/usr/local/scws/lib/ train_cut.c -lscws -o a.out
 ```
 
-> snapshots: 
+> snapshots: **none**.
 
 ####Step3
 ```sh
 ./a.out < tmp1.txt | grep -B 1 "===" | grep -E "0|1|POS" > tmp_train.txt
 ```
 
-> snapshots: 
+> snapshots: [04], [05].
 
 ####Step4
 ```sh
 cat p1.test.txt | cut -d $'\t' -f 2 > tmp1.txt
 ```
 
-> snapshot: 
+> snapshot: [06], [07].
 
 ####Step5
 ```sh
 ./a.out < tmp1.txt | grep -B 1 "===" | grep -E "0|1|POS" > tmp_test.txt
 ```
 
-> snapshots: 
+> snapshots: [07], [08].
 
 ####Step6
 ```sh
 python llh.py tmp_train.txt tmp_test.txt 2.0 3.0 > tmp_result.txt
 ```
 
-> snapshots: 
+> snapshots: [09].
 
 ####Step7
 ```sh
 python recover.py > p1.result.txt
 ```
 
-> snapshots:
+> snapshots: [10].
 
 ####Step8
 ```sh
 rm -f a.out tmp1.txt tmp_result.txt tmp_test.txt tmp_train.txt
 ```
 
-> snapshots: 
+> snapshots: **none**
+
 
