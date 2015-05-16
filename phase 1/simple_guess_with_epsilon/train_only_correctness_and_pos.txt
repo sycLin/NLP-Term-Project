@@ -1,0 +1,11848 @@
+0
+POS tags: n v v n d p n uj s 
+1
+POS tags: r v un n un v n uj 
+0
+POS tags: r v v n n uj n v d v 
+0
+POS tags: c v i 
+1
+POS tags: r v v v n vn 
+0
+POS tags: d a v v 
+0
+POS tags: v uj n d v p v un v n un c v n v 
+0
+POS tags: c v n uj n v n r v v 
+1
+POS tags: v p n uj v v d vn n uj v n 
+1
+POS tags: r v d a uj v n uj v v c v n 
+0
+POS tags: v p r uj v c nz uj n 
+0
+POS tags: v m n v p r vn d n v r n v 
+1
+POS tags: d c n mt uj n uj n c n v 
+0
+POS tags: v v 
+0
+POS tags: r v v n n p v un n un d a 
+0
+POS tags: n r vd r vn n 
+0
+POS tags: v vn n v m r n n uj n p v m n 
+1
+POS tags: d d v v p vn n f v n uj n 
+0
+POS tags: r v p ad vn v a uj n v 
+1
+POS tags: n vn f d d v uj v n nr p v nr 
+0
+POS tags: r t v ns vn nz uj n n p r n 
+0
+POS tags: v v f r a 
+0
+POS tags: r v v r vn nz 
+0
+POS tags: un n un n c d m 
+1
+POS tags: v v un n un n r n 
+1
+POS tags: t nr vn m q n p v v d m c v v v 
+0
+POS tags: n n vn v c v 
+0
+POS tags: r r n d v vn v n v 
+0
+POS tags: r vn v 
+1
+POS tags: n a uj v vn r n 
+1
+POS tags: r v an uj m 
+0
+POS tags: r n v t d v r uj n 
+0
+POS tags: m v t r d v r v v 
+1
+POS tags: r v v y 
+1
+POS tags: vn n nr en q v d p v v uj n n a v 
+1
+POS tags: v v v uj n 
+1
+POS tags: n v m n 
+0
+POS tags: n v 
+0
+POS tags: r v v m q n 
+1
+POS tags: ns d v v 
+1
+POS tags: v r v b d v v r n 
+1
+POS tags: c m q f v ns vn v n uj n 
+0
+POS tags: p n v p n uj vn v v 
+1
+POS tags: a v r v r v uj 
+0
+POS tags: r v m i uj n 
+1
+POS tags: n n n v v d a uj v 
+1
+POS tags: c n p p n v n d n v uj n v n k uj n v 
+1
+POS tags: n l 
+1
+POS tags: r d d v v l 
+0
+POS tags: v r d v r 
+0
+POS tags: r v n c n v 
+1
+POS tags: d d ad n v n n 
+1
+POS tags: p v n n f uj n v v v p p d v n v 
+0
+POS tags: v n k v n v r uj n 
+1
+POS tags: n d a uj n n v n m v d v f c f v n 
+0
+POS tags: r v r v ns t uj n 
+1
+POS tags: n v n r n 
+1
+POS tags: n c s vn 
+1
+POS tags: i uj n y 
+1
+POS tags: p c r uj v c l d d v 
+1
+POS tags: d v v n v uj n 
+1
+POS tags: d v c r m u v a 
+0
+POS tags: r v n v n y 
+1
+POS tags: p n v uj r v 
+0
+POS tags: v s uj n n 
+1
+POS tags: c d d v v n 
+0
+POS tags: v i 
+0
+POS tags: c l v vn 
+0
+POS tags: r n 
+1
+POS tags: c n v r v v 
+0
+POS tags: c n v r v 
+0
+POS tags: r d v r uj r vn 
+0
+POS tags: n v v n r mt nz v vn n 
+0
+POS tags: v r n d v v n uj vn 
+1
+POS tags: r c v n v v d a 
+1
+POS tags: r d v r r v d v 
+1
+POS tags: v r d v v v 
+1
+POS tags: n d d v p r vn f v uj n f v vn n uj v 
+1
+POS tags: n m uj n p n v d v 
+0
+POS tags: r v n v 
+0
+POS tags: r v vn r m v nz q uj n 
+1
+POS tags: c d v m v n v n 
+0
+POS tags: vn 
+0
+POS tags: c n d v n uj n un n un n v v 
+1
+POS tags: p n r v d a uj 
+0
+POS tags: t n f v uj n m 
+1
+POS tags: c r v uj n d v l 
+0
+POS tags: r n v r n 
+0
+POS tags: t uj m n 
+1
+POS tags: p ns uj n uj n v v un v v un uj n 
+0
+POS tags: p v c v v v n c v uj n 
+1
+POS tags: b v v uj n 
+1
+POS tags: c un n v un n d a d v d n uj n v n 
+0
+POS tags: v r s d d v v v 
+1
+POS tags: r d r v uj 
+1
+POS tags: r v p d v n c r uj n uj n v v an n v r 
+1
+POS tags: c r n n d v n v p n l uj n 
+1
+POS tags: r v v v 
+0
+POS tags: v z z uj 
+0
+POS tags: r c v v r vn d v 
+1
+POS tags: r d v ns uj n 
+1
+POS tags: v n d q d n 
+0
+POS tags: d n v r a uj n 
+0
+POS tags: t r d v v v r v uj n 
+0
+POS tags: p t n 
+0
+POS tags: r d v vn 
+0
+POS tags: v v 
+1
+POS tags: ns d v d t v y 
+1
+POS tags: m v n d v v n v vn 
+1
+POS tags: r vn v v d uj vn n 
+1
+POS tags: c r uj d d v uj n v ns 
+0
+POS tags: n v v 
+1
+POS tags: r uj n p d r uj vn 
+1
+POS tags: t r v v r d d d ad v 
+0
+POS tags: r uj n n v d v v 
+0
+POS tags: r v v v r uj n e 
+1
+POS tags: m n n p n uj n v v n v 
+0
+POS tags: v n uj n v v un n un 
+0
+POS tags: r v un r uj n c a 
+0
+POS tags: v r mt n v v r v an n n v n n 
+1
+POS tags: r d v n uj vn v v 
+0
+POS tags: nz v nz n 
+0
+POS tags: n m n d v v v n 
+1
+POS tags: n p v uj n d v mt n v 
+1
+POS tags: r d v v r m q t r 
+1
+POS tags: d v v r p r d a 
+1
+POS tags: v r n f 
+1
+POS tags: v mt v n m n d n n v a v uj m n v 
+1
+POS tags: r v v ns v m q n n 
+0
+POS tags: r v v n a 
+1
+POS tags: v v v 
+1
+POS tags: r v v m n 
+1
+POS tags: r v nz n 
+1
+POS tags: d v v m m n uj n 
+0
+POS tags: c r n uj n vn d ad v 
+0
+POS tags: n v n uj vn ad a 
+0
+POS tags: n uj n v an v 
+0
+POS tags: v r q n c d d d r v v uj n 
+0
+POS tags: r p n v un r r uj n d d vd 
+1
+POS tags: r d d v r v n v 
+1
+POS tags: s v r uj 
+1
+POS tags: v t uj n d d vn c n uj n d a 
+1
+POS tags: c p r n v uj v r v v n n 
+0
+POS tags: c p n v s c c m z uj n v r v 
+0
+POS tags: n uj v 
+1
+POS tags: v vn n v m v m r n n uj n p v m n 
+0
+POS tags: n a uj n n v n m v d v f c f v n 
+0
+POS tags: r v n v 
+0
+POS tags: n f v 
+1
+POS tags: r d a r v nz c v r n v v nz 
+1
+POS tags: v uj n uj n uj n d v d d v v 
+0
+POS tags: c t t uj v v t v d u 
+1
+POS tags: c n t d v uj v p r uj an 
+0
+POS tags: r uj n d d c r a v 
+0
+POS tags: p u uj n v c v n uj n uj n p m n l 
+0
+POS tags: c v 
+1
+POS tags: r v v v n a 
+0
+POS tags: r n v v i uj vn 
+1
+POS tags: d v v c v r n v v n a 
+0
+POS tags: r d v r un n un n 
+0
+POS tags: r v v n uj n 
+0
+POS tags: vn uj n mt p mt 
+1
+POS tags: c r v d a uj n y 
+0
+POS tags: d m n v n p r n uj n vn n 
+0
+POS tags: n v m q v n uj n 
+1
+POS tags: r v v nz c r v r uj vn 
+1
+POS tags: r v n a d v v n uj 
+0
+POS tags: v r 
+0
+POS tags: n b n v uj n uj v 
+1
+POS tags: p n uj n s d v v un nz v n un r m n 
+1
+POS tags: r d v v n n v vn 
+1
+POS tags: r v n d v uj un v n un 
+0
+POS tags: r n n uj n d v 
+1
+POS tags: v r uj n r d v v 
+1
+POS tags: v v r d v a uj n 
+1
+POS tags: v f n uj n f r v v t r p r vn nz 
+1
+POS tags: r d v v 
+0
+POS tags: r d v r 
+0
+POS tags: v n vn d a 
+1
+POS tags: d v n v v 
+0
+POS tags: n v p n d n 
+0
+POS tags: r c n n v ns n n n v uj z n c z n n n 
+0
+POS tags: c t vn v v r v 
+1
+POS tags: r d v v r v t d v an uj n 
+0
+POS tags: n v 
+0
+POS tags: r v p n v n r 
+0
+POS tags: v n n uj n 
+0
+POS tags: p nz v nr v ng v nz v a n v 
+1
+POS tags: r d v d n v vn 
+1
+POS tags: r r v v r n uj n d v n 
+0
+POS tags: v m n 
+0
+POS tags: r p a n v ns uj n v d uj vn 
+1
+POS tags: p r vn a uj m n v r uj d a uj n 
+1
+POS tags: c v n f 
+0
+POS tags: r v r v f uj n 
+0
+POS tags: c v v uj n v v n b uj n 
+1
+POS tags: r n n v 
+1
+POS tags: r v uj n v ns n ns v 
+1
+POS tags: v r v d a 
+0
+POS tags: r v n v r d a uj n 
+0
+POS tags: r v v n a 
+1
+POS tags: r v v t v v s vn 
+0
+POS tags: n ng n n v v 
+1
+POS tags: r v v ns m 
+0
+POS tags: v p n uj v v d vn n uj v n 
+0
+POS tags: r n t mt q 
+0
+POS tags: v ad a uj n 
+0
+POS tags: v n vn n v uj n 
+1
+POS tags: r d v r vn n f 
+0
+POS tags: n n v 
+0
+POS tags: n v v a n v n uj n 
+0
+POS tags: ns uj n v v v v 
+1
+POS tags: v v n uj v v n v n uj vn 
+1
+POS tags: r d v p d v v v un n un uj n 
+1
+POS tags: c v m q uj n f 
+0
+POS tags: v r d u 
+0
+POS tags: d uj v t uj n d v m n v 
+1
+POS tags: d nz f v uj n 
+0
+POS tags: s d v rr n n 
+1
+POS tags: n d b n s v n n 
+1
+POS tags: p n r n d i 
+0
+POS tags: d v p n an v v 
+1
+POS tags: d r v p n v 
+0
+POS tags: r d v ns c ns n vn v v uj n 
+0
+POS tags: c n uj n v v 
+0
+POS tags: c r d v n m v n v 
+1
+POS tags: n d p n uj vn c vn v uj n v 
+0
+POS tags: p n v d an 
+1
+POS tags: r d v p r 
+0
+POS tags: u n uj n 
+0
+POS tags: p r uj nz n d d a c v v m d an uj n 
+1
+POS tags: v r v d v v 
+0
+POS tags: d vn r uj n n d n 
+1
+POS tags: r uj t n v v v 
+0
+POS tags: r d a n v v r uj n n p r v uj ad 
+0
+POS tags: r v v n uj n v v vn r 
+0
+POS tags: n v n v n 
+1
+POS tags: c nz r v a v 
+0
+POS tags: r p n v un n un y 
+1
+POS tags: r d v v a v 
+1
+POS tags: v r y 
+1
+POS tags: p r an uj n f v c vn v v uj n d v v a uj 
+0
+POS tags: r v un v un d v n uj n 
+0
+POS tags: t n n v n 
+1
+POS tags: p r r d d a v 
+1
+POS tags: v z c ns uj n un n v m 
+0
+POS tags: r n v vd uj 
+1
+POS tags: c n a uj n 
+0
+POS tags: p r n v uj m q v 
+0
+POS tags: v m uj n n 
+0
+POS tags: v v r n v r n 
+1
+POS tags: d an v 
+0
+POS tags: r v ns f 
+1
+POS tags: n d a n v un v un 
+0
+POS tags: c un n un uj n nz v m vn v n uj n uj n 
+1
+POS tags: n f v d v n uj r 
+1
+POS tags: c n m uj n uj s v uj m q n 
+0
+POS tags: c p r n v r v uj n ns uj l 
+0
+POS tags: d v @ nr n v ns 
+1
+POS tags: r n d v v c vn v a n n v n 
+0
+POS tags: d v v ad v v a 
+1
+POS tags: d v v n v n v v 
+0
+POS tags: r d v v r v ns m a uj n v r i uj vn 
+0
+POS tags: n r uj n n mt p n n n v uj vn f v uj 
+0
+POS tags: r uj t d an 
+1
+POS tags: r d v v r d v v v n uj n v 
+1
+POS tags: t p nt v p n n v v m q 
+0
+POS tags: d v n f v v n n 
+1
+POS tags: k vn k v mt 
+0
+POS tags: r r ns v vn v n v 
+1
+POS tags: n v v n v n v a v n 
+0
+POS tags: d n v r n p vn v v un v n un uj n y 
+0
+POS tags: p n v 
+1
+POS tags: p n nz n m v v m n n vn c v n n 
+0
+POS tags: p p r n v n b c b m q n 
+1
+POS tags: r t p ns vn uj 
+1
+POS tags: d c k n v r m q uj l 
+0
+POS tags: ns uj n uj n v v un v v un uj n 
+0
+POS tags: v r r n 
+1
+POS tags: n t v v uj 
+1
+POS tags: v m d p v m n v t uj n d d a 
+0
+POS tags: d d p n v v m n n 
+0
+POS tags: c r v n m q p n uj n n 
+1
+POS tags: r d v m v uj n 
+0
+POS tags: d v v ns n 
+0
+POS tags: r n r d v vn v r v 
+0
+POS tags: r d d v 
+1
+POS tags: a v m q 
+1
+POS tags: n uj v v vn uj d v 
+1
+POS tags: c r uj vn d v 
+0
+POS tags: r t v v r r p r uj s v r uj 
+0
+POS tags: n n v n d v r 
+0
+POS tags: c p v n c n uj n a 
+0
+POS tags: r r p r uj n v v 
+0
+POS tags: d ad uj v v uj n 
+1
+POS tags: c r n v p n v v 
+1
+POS tags: un an v n un nz nz m 
+1
+POS tags: n c n d v v v 
+0
+POS tags: n v n 
+0
+POS tags: r nz v v r v uj 
+0
+POS tags: n p n v ad uj vn 
+1
+POS tags: p n y 
+0
+POS tags: r v v r uj nr vn r 
+0
+POS tags: r v v p n uj v c v r m n uj n 
+1
+POS tags: r v a v v v 
+1
+POS tags: n v v an v v l 
+0
+POS tags: m v n p n uj l d v c n vn 
+0
+POS tags: n r uj n 
+0
+POS tags: n d v v r n v n r v uj m n uj n 
+1
+POS tags: r s n d v p s uj n v vn 
+1
+POS tags: v m n v r v nr j r q n 
+1
+POS tags: p r p b uj n f v n 
+1
+POS tags: t v n s v vn v 
+1
+POS tags: t r d v n k d v v r n 
+1
+POS tags: r d a n v v r uj n n p r v uj p ad 
+1
+POS tags: v n v n 
+1
+POS tags: v d an v r 
+0
+POS tags: p r v d v v m ns n 
+1
+POS tags: c n ad d an uj n @ d v r v v f d n v uj n 
+1
+POS tags: v v n 
+1
+POS tags: r p n v v un r r uj n d d vd 
+0
+POS tags: vn r n uj n 
+0
+POS tags: r v d a uj v n uj v v v n 
+1
+POS tags: r d v r n v uj n 
+1
+POS tags: d v n n p n d ad v r 
+0
+POS tags: r n q d z uj n 
+1
+POS tags: c d n n p n v n uj 
+1
+POS tags: r v v v a n uj n 
+1
+POS tags: n r v a v m n 
+0
+POS tags: v n uj n r d v 
+0
+POS tags: n r n v rr v 
+0
+POS tags: p ns v r r d a 
+1
+POS tags: c v t d v v v 
+0
+POS tags: n p n n uj d v n uj n 
+1
+POS tags: r b v m v v r p n n uj n 
+1
+POS tags: n v v v n n v v 
+0
+POS tags: r n un n v u n u r v u n 
+1
+POS tags: r v r m v vn uj n 
+1
+POS tags: r vn v uj n v n 
+1
+POS tags: r d v v v u uj n 
+0
+POS tags: v n uj n f r v v t r p r vn nz 
+1
+POS tags: r n v c r d v r d v v ad uj nz 
+1
+POS tags: c r d v v p m v n n c r v v uj n 
+0
+POS tags: r v s n 
+0
+POS tags: r uj n v n v v uj n 
+0
+POS tags: n v n f d v uj n 
+1
+POS tags: r d n v m q uj n n v 
+1
+POS tags: n v n r n u n v d v 
+1
+POS tags: v v d v v 
+0
+POS tags: n r uj m t 
+1
+POS tags: p s v v v v n n 
+0
+POS tags: r p n vn uj n v l k uj 
+1
+POS tags: v n v n c v v r u v p s 
+0
+POS tags: c r uj n d v v r v n l 
+1
+POS tags: v r v p r v m n c n 
+1
+POS tags: r d v d 
+0
+POS tags: r v v m q n 
+0
+POS tags: c r n n d v n p n l uj n 
+0
+POS tags: v ng uj f 
+0
+POS tags: n n s v m n 
+1
+POS tags: v m n c d n uj n 
+1
+POS tags: r d an v 
+0
+POS tags: r d v p m n 
+0
+POS tags: d v ns n uj n 
+0
+POS tags: c v n uj n v n uj 
+0
+POS tags: r v n v p r n v vn 
+1
+POS tags: r m d v v q n uj v 
+1
+POS tags: v v q n 
+0
+POS tags: c n v n 
+1
+POS tags: nz n v m q v n uj n 
+0
+POS tags: p l n n a 
+1
+POS tags: c v r uj n r d v r v v uj n 
+1
+POS tags: c p n f vn r d v r an 
+0
+POS tags: d d v v v r v 
+0
+POS tags: d v l v v n a 
+0
+POS tags: p v n uj n uj n d v vn n d v v r n uj a v 
+0
+POS tags: r n v n vn uj n 
+1
+POS tags: r v r p r vn r n c n v 
+1
+POS tags: p s v v v m n 
+1
+POS tags: c v b n uj n n d z v v vn uj an 
+1
+POS tags: c n v v n uj 
+0
+POS tags: v ns v 
+0
+POS tags: r v p s v 
+1
+POS tags: r p ns d v v p n v v p n uj n 
+1
+POS tags: r v d v c v r n vn n 
+1
+POS tags: c t c n n n d v c r v n uj n 
+1
+POS tags: r v l n n a n v m q n c i uj n 
+1
+POS tags: n n nz v v p n an v uj v 
+0
+POS tags: c r v c v n m ad uj n v n un r v r v p a n v d v v m n 
+1
+POS tags: v v n uj 
+0
+POS tags: c p r uj v n 
+1
+POS tags: p n n uj v m uj 
+1
+POS tags: r n v n uj 
+1
+POS tags: d n p v n vn uj n vn uj n v un n un 
+0
+POS tags: c n p n uj n d d a 
+1
+POS tags: m v r t r d v r v v 
+1
+POS tags: r d v v ns v v vn 
+1
+POS tags: r c n uj n d d u 
+0
+POS tags: p mt q uj n v v 
+0
+POS tags: v m n 
+1
+POS tags: n v v vn 
+1
+POS tags: p r uj n uj v 
+1
+POS tags: v v m n 
+1
+POS tags: r d v v n n uj a uj vn i 
+0
+POS tags: l v t n n v uj n 
+1
+POS tags: r n v m n vn uj 
+0
+POS tags: r v p n v v r uj n 
+1
+POS tags: r c v v r uj vn d v 
+0
+POS tags: r v d v v r n vn n 
+0
+POS tags: d p n m ng v v 
+1
+POS tags: n n uj n v a uj 
+1
+POS tags: vn v r d v v v v n nz 
+0
+POS tags: p v n m r d v vn 
+0
+POS tags: n n p r v d a 
+1
+POS tags: n p nt vn t nz 
+1
+POS tags: n uj v d n 
+0
+POS tags: v an m m n v n 
+1
+POS tags: p n uj r v uj n f v m d v r uj 
+0
+POS tags: r v n f v v mq 
+0
+POS tags: r n m v r v nr r v 
+0
+POS tags: v f v s 
+1
+POS tags: p r n v m n uj m q v 
+0
+POS tags: n p n v un n un v d ad uj n 
+1
+POS tags: d m n d v v v 
+0
+POS tags: r n v p u uj n ad v m 
+0
+POS tags: r uj n v v v nz 
+0
+POS tags: r d v s nr v d v 
+0
+POS tags: c n v vn m n v n v 
+0
+POS tags: c d l 
+0
+POS tags: c v v l v d uj vn 
+1
+POS tags: p nz uj n v t n v uj n v a uj n 
+0
+POS tags: r n v n v uj 
+0
+POS tags: n r n uj n 
+1
+POS tags: p r n v d v v d vn uj n c r v n 
+0
+POS tags: r c v c n d v r n 
+0
+POS tags: n f d v n uj r 
+1
+POS tags: p a uj n d v v a uj n 
+0
+POS tags: c n v n vn 
+0
+POS tags: v n c n v v n p n n n 
+0
+POS tags: d v n m q n 
+0
+POS tags: a uj v vn r n 
+1
+POS tags: r t nt p p n v v 
+1
+POS tags: n n uj t f f v v s uj m n un un ns 
+0
+POS tags: n n v m uj un n un d d v r 
+1
+POS tags: r d v r vn v 
+1
+POS tags: r d v ns ns v 
+0
+POS tags: vn nr n r l v v uj 
+0
+POS tags: p v c v m v v v 
+1
+POS tags: r m uj vd v n 
+1
+POS tags: r uj n d d c r d a v 
+1
+POS tags: r v p r d a 
+0
+POS tags: n n ad uj n f v v v a n 
+0
+POS tags: n v v n r uj v v ad 
+1
+POS tags: n v v v m q n 
+0
+POS tags: r q f n v v uj v r y 
+0
+POS tags: v n an uj n 
+0
+POS tags: r v t uj r m n 
+1
+POS tags: r d v uj n v d p v n n uj n 
+0
+POS tags: c r uj n d v v m 
+0
+POS tags: c r v n i 
+0
+POS tags: a p r 
+0
+POS tags: v r uj n 
+0
+POS tags: vn n n v 
+1
+POS tags: v uj p v v n n uj m n 
+0
+POS tags: r v m n 
+0
+POS tags: v t 
+0
+POS tags: d v n 
+1
+POS tags: r d a v uj n 
+1
+POS tags: c r p f v uj r v n v v uj n c d ad uj v l c v n an v l n uj 
+0
+POS tags: n r v ns ad a 
+1
+POS tags: n p t v 
+0
+POS tags: n p ns uj m d uj n f 
+1
+POS tags: p v r r n 
+1
+POS tags: n d n n v nr r n 
+1
+POS tags: r uj n d d v v m n m v 
+0
+POS tags: p t uj n c v ad vn uj n c n 
+0
+POS tags: r d v v a 
+1
+POS tags: m m f r c m n s v mq ng v v 
+0
+POS tags: r p n uj n d r v n v 
+1
+POS tags: r vn 
+0
+POS tags: v m m q a uj n 
+0
+POS tags: r v l n n a v m q n c i uj n 
+0
+POS tags: n v m 
+0
+POS tags: p nz uj vn f 
+1
+POS tags: an n v p v uj n 
+1
+POS tags: v v n c v v n 
+0
+POS tags: r m i n v v 
+1
+POS tags: c t vn v v v r v 
+0
+POS tags: d v d uj n 
+1
+POS tags: t n uj v v v ad uj n 
+0
+POS tags: n v n uj n vn 
+0
+POS tags: p r d d p r s v v n v uj n 
+0
+POS tags: v v n 
+0
+POS tags: r uj t d r d n 
+0
+POS tags: d c n mt n uj n c n v 
+0
+POS tags: c v r uj n r d v r v v uj n 
+1
+POS tags: r v v p n uj v c v r r m n uj n 
+0
+POS tags: c n n v r n d d ad 
+1
+POS tags: d c n p vn uj n ad uj n 
+1
+POS tags: r v r q uj n p r v d a 
+1
+POS tags: r n v v f n v v nz 
+0
+POS tags: p p ad n uj v p n v d v n 
+0
+POS tags: v p n uj v v d vn n uj v n 
+0
+POS tags: v p n n uj n v vn uj n 
+0
+POS tags: i d v n uj an 
+1
+POS tags: n v p v v v 
+1
+POS tags: v n v n m 
+1
+POS tags: v r p r d v m 
+0
+POS tags: n d v 
+0
+POS tags: n vn c b vn f uj r n 
+1
+POS tags: c p n k n v uj n d p v 
+0
+POS tags: n m q n f d v v n p an uj n 
+0
+POS tags: r c p r n p r d n 
+1
+POS tags: r v p vn vn 
+1
+POS tags: p r nz v q r d v uj n 
+0
+POS tags: d v r 
+1
+POS tags: c v v v m q n uj v f d ad v v 
+1
+POS tags: v p n n uj n v v vn uj n 
+1
+POS tags: n v v m n uj n 
+1
+POS tags: r c m q ns n n vn un m n un v p r v ns uj n uj n d a 
+0
+POS tags: p ns l f n uj n v v v 
+1
+POS tags: d d v v v 
+0
+POS tags: p s v v v n n 
+1
+POS tags: v v n 
+1
+POS tags: r n v t mt q 
+0
+POS tags: c r n n a 
+0
+POS tags: d v r v v 
+1
+POS tags: p r uj n uj vn v d a uj 
+0
+POS tags: r n p r d a 
+0
+POS tags: r d v l 
+0
+POS tags: rr p r v l 
+0
+POS tags: d n d d d v p n n uj 
+0
+POS tags: c r ad uj n v p n q a 
+0
+POS tags: r v v p n uj j n v v 
+0
+POS tags: n p l uj n v v v m q 
+0
+POS tags: v v n n n c vn n v 
+1
+POS tags: n v d vn v v t n p n uj v 
+0
+POS tags: c r uj n c n v d v 
+1
+POS tags: n v uj 
+0
+POS tags: r r un q uj n nr v a uj 
+0
+POS tags: p nz n n d an v 
+0
+POS tags: n uj n d v v m q n nz 
+1
+POS tags: p ns v v n q c n uj v 
+0
+POS tags: c r d d v v p n c v mt n 
+1
+POS tags: c t j n d a uj 
+1
+POS tags: r uj n k v v n v r 
+1
+POS tags: s v n 
+1
+POS tags: nz v p t t vd f vn 
+0
+POS tags: n r n d v n uj n 
+0
+POS tags: r v v r n uj vn 
+0
+POS tags: n f uj n d v b uj 
+1
+POS tags: p v t n uj n p n c n uj vn v v 
+1
+POS tags: r d v nz 
+0
+POS tags: b v uj n 
+0
+POS tags: c m q f v ns vn v n n 
+0
+POS tags: c r uj nz d n u uj n 
+1
+POS tags: c r v v r uj 
+1
+POS tags: t n uj i n vn 
+0
+POS tags: t v n 
+1
+POS tags: v n n v v 
+0
+POS tags: r n v f n v v nz 
+1
+POS tags: v v ns v 
+0
+POS tags: v r n uj an uj n 
+1
+POS tags: p r n p r s d v v n an c v uj r 
+1
+POS tags: r d v p ns c ns n vn v v uj n 
+1
+POS tags: r df v v 
+0
+POS tags: ns t r v un a n v v v a n 
+1
+POS tags: n vn uj n v n v uj 
+0
+POS tags: n d p nr uj 
+1
+POS tags: r r d v d n n d v p n v 
+1
+POS tags: v nz n 
+1
+POS tags: d n p n 
+0
+POS tags: r v v n vn 
+1
+POS tags: c r n v v v n v uj v 
+1
+POS tags: r d v v n vd v v vn 
+0
+POS tags: r d v t r n v v d a 
+1
+POS tags: c m v n uj p n f v mq n 
+0
+POS tags: v t c n n 
+1
+POS tags: p v a n v v uj n 
+0
+POS tags: r p s c s d v v r v 
+1
+POS tags: r uj n n d v nz f r nz v 
+0
+POS tags: un q r v ns v n 
+0
+POS tags: n v n v 
+0
+POS tags: r v r v vn r n vn 
+1
+POS tags: c r d uj n r d v v 
+0
+POS tags: r n v f p ns v nz 
+1
+POS tags: r r m v v v n v a uj n 
+1
+POS tags: un n un v p n d n uj n 
+1
+POS tags: c m n v p n uj v m 
+1
+POS tags: r v vn n v n uj n 
+0
+POS tags: r uj n p r uj vn 
+0
+POS tags: v mt uj z 
+0
+POS tags: v n d v n uj n 
+0
+POS tags: c n p p n v n a v uj n v n k uj n v 
+0
+POS tags: r r v v r uj l v v r uj n 
+1
+POS tags: p q n v v r uj v i 
+1
+POS tags: r d v r v 
+0
+POS tags: p n v uj m n 
+0
+POS tags: mq n v n v d ad 
+1
+POS tags: d nr d v 
+1
+POS tags: p n vn i 
+1
+POS tags: c nz n uj v v v d v v v v r 
+1
+POS tags: c v r n d p r v uj 
+1
+POS tags: p n v n uj n n uj n v d n ad uj 
+1
+POS tags: r v v v m an 
+1
+POS tags: n v p v p n d a 
+1
+POS tags: c p n v s c c m z uj n v r v uj 
+0
+POS tags: r n v n r n v m q n uj v 
+1
+POS tags: p r r f d v v n v v uj 
+0
+POS tags: p n n f 
+1
+POS tags: r p a n v n m ng 
+0
+POS tags: r v p vn nz nz v n vn 
+0
+POS tags: r un m un m un n 
+1
+POS tags: nt f v r nz s uj a n v 
+1
+POS tags: v n v r n v n 
+0
+POS tags: c un n un uj n c d a 
+0
+POS tags: r v r v a 
+0
+POS tags: c an n uj vn v n d uj v 
+0
+POS tags: n d v r uj 
+1
+POS tags: n r d v y 
+1
+POS tags: d v v n v n 
+1
+POS tags: c r d ad v r v 
+1
+POS tags: d v v v 
+1
+POS tags: r n v ns uj n n v 
+0
+POS tags: n v n v n 
+1
+POS tags: vn an v d n vn u c v n u 
+1
+POS tags: r d a v 
+1
+POS tags: c r uj 
+0
+POS tags: v n v n uj an 
+0
+POS tags: n r nz v r v 
+1
+POS tags: r n p ns d v uj v 
+1
+POS tags: r d v n v v 
+1
+POS tags: t p n v m n 
+0
+POS tags: v v r uj n v p r vn a uj m n 
+0
+POS tags: r v d a 
+1
+POS tags: r n v v n uj v v uj n uj 
+0
+POS tags: r p n r n v n 
+1
+POS tags: l v a uj 
+0
+POS tags: p r n v v uj n v i uj 
+1
+POS tags: r v s uj n n 
+0
+POS tags: c r v nz a mt v 
+1
+POS tags: r n d v v 
+1
+POS tags: c un n un uj n c v a 
+0
+POS tags: p v a n uj n 
+1
+POS tags: d k p t n n v 
+0
+POS tags: v m n v r v v ns 
+0
+POS tags: m n uj vn v v 
+1
+POS tags: r d p n v un m n ns v un r v 
+1
+POS tags: d df v 
+1
+POS tags: p r a n v v m q r n uj r n p n n 
+0
+POS tags: m m n v df v d n n vn 
+0
+POS tags: r v n v f 
+0
+POS tags: n p r n vn 
+0
+POS tags: ns p t m n v m n v 
+0
+POS tags: n k d v v v n vn 
+1
+POS tags: r v q r uj n uj n r 
+1
+POS tags: r v t d v v n c n uj 
+0
+POS tags: d a n p n a 
+0
+POS tags: n n s v p m n v v v m 
+1
+POS tags: n v z v uj 
+0
+POS tags: r p r n v mt uj n v 
+1
+POS tags: r v n v v v r m n d v i uj 
+1
+POS tags: r v q n n v 
+1
+POS tags: r r v j n t v an n v 
+0
+POS tags: d v v 
+1
+POS tags: v r 
+1
+POS tags: t uj v m n 
+1
+POS tags: d n n uj vn a uj 
+0
+POS tags: d v 
+0
+POS tags: r n n n n uj 
+1
+POS tags: r p n n vn uj n v l k uj 
+1
+POS tags: c n r v v v 
+1
+POS tags: p n v v p n uj an 
+1
+POS tags: p r v 
+1
+POS tags: r n n p v v v 
+1
+POS tags: c r m n d v n vn 
+1
+POS tags: c r d v q a n 
+1
+POS tags: n q d n uj m n 
+0
+POS tags: c v a n v m a uj n 
+0
+POS tags: p v n 
+1
+POS tags: n ad n ad uj n 
+1
+POS tags: r v d n uj v m n 
+1
+POS tags: n c n v v 
+1
+POS tags: r n p n uj n v v n uj vn 
+1
+POS tags: r p r p v n c v uj n n y 
+0
+POS tags: r m nr nz n 
+0
+POS tags: nz nz r c r t v r 
+1
+POS tags: n v d n uj n v n uj 
+0
+POS tags: n n a c v uj vn 
+1
+POS tags: n v n uj vn n c n uj o n uj n 
+0
+POS tags: r n d v 
+0
+POS tags: r n v r 
+0
+POS tags: p r vn uj d v a uj 
+1
+POS tags: v v uj 
+0
+POS tags: nt v 
+0
+POS tags: r d v v p an c n n v r n 
+1
+POS tags: d n v n v v uj 
+1
+POS tags: r d v r n v 
+1
+POS tags: r d p n v uj n v uj vn v v 
+1
+POS tags: c n uj d vn n v m an 
+1
+POS tags: r v t uj ns uj n v n uj n v n c n d v n k uj n uj n uj n 
+1
+POS tags: c r v vn v 
+1
+POS tags: p r f p b n f v n 
+0
+POS tags: d v n v n 
+0
+POS tags: d v r uj n r 
+0
+POS tags: p r c v m n v n uj n uj r uj n 
+1
+POS tags: t p ns uj n n a 
+1
+POS tags: d v uj 
+1
+POS tags: d p v v r v uj n 
+1
+POS tags: p ns uj n 
+0
+POS tags: r v p a n vn 
+0
+POS tags: d v n v f uj n 
+1
+POS tags: r n d v n v v v 
+0
+POS tags: v uj n uj n d v d d v v 
+0
+POS tags: p r n v n v v v v uj n 
+0
+POS tags: t n d v n 
+0
+POS tags: m a d v v uj n 
+0
+POS tags: v a d a 
+0
+POS tags: c r d n vd v v en c en d v v m v uj n 
+0
+POS tags: n d s v 
+0
+POS tags: r p n n c v v n uj n 
+1
+POS tags: n r uj n v uj vn 
+0
+POS tags: t n uj ad v d p r 
+1
+POS tags: n a uj n d d v 
+0
+POS tags: r m n d v v n 
+0
+POS tags: v n vn r 
+0
+POS tags: v b n vn d a uj n 
+0
+POS tags: p r n 
+1
+POS tags: r v v r uj v k 
+0
+POS tags: p q n v v r uj i 
+1
+POS tags: t d v ns m 
+0
+POS tags: vn b n v m n 
+0
+POS tags: r v r n v n r v r v n 
+1
+POS tags: n v v v n 
+0
+POS tags: c r v vn p n v vn 
+1
+POS tags: r d n v v vn uj n 
+0
+POS tags: r v t t d p r v 
+1
+POS tags: r n n p r v v uj n v r v uj 
+0
+POS tags: r d d a uj 
+0
+POS tags: r r v n b vn v q i uj n 
+1
+POS tags: d n v r n nz p vn v v un v n un uj n y 
+1
+POS tags: v d v n uj n 
+0
+POS tags: c r uj n n 
+0
+POS tags: f r d v r v n 
+0
+POS tags: r n c v i 
+1
+POS tags: n ad v n an uj n 
+1
+POS tags: v p n uj n 
+0
+POS tags: n n un vn un n 
+1
+POS tags: v i uj 
+1
+POS tags: r r d n v v r v un v 
+0
+POS tags: r v n m 
+0
+POS tags: v n d s v 
+1
+POS tags: p ns m q v un ns un uj n v nz n 
+0
+POS tags: c v r an 
+1
+POS tags: c v r n v v f d v vn r 
+1
+POS tags: n r v n v d n 
+0
+POS tags: r uj n f m q n v d v 
+0
+POS tags: r d n v v r v un v 
+1
+POS tags: n d p n uj v d n v 
+1
+POS tags: n v q v r s v vn uj 
+0
+POS tags: v p r vn a uj n 
+1
+POS tags: r v n v v r uj n 
+0
+POS tags: c v r n f d a uj n 
+0
+POS tags: c r n d v n vn 
+0
+POS tags: c r v n v r p n uj an 
+0
+POS tags: r m vd v n 
+1
+POS tags: d d ad n vn 
+0
+POS tags: r n n v un n un r n 
+1
+POS tags: v n r v vn 
+0
+POS tags: v r 
+1
+POS tags: r n r n 
+0
+POS tags: r v vn nz 
+1
+POS tags: c r uj n n d n v 
+1
+POS tags: r n v m v vn uj n v 
+0
+POS tags: m v 
+1
+POS tags: v v n n 
+0
+POS tags: r d v r v uj n d v n 
+1
+POS tags: t r d v v v r p v uj n 
+0
+POS tags: c r d v r 
+0
+POS tags: v n n n vn p r d a 
+0
+POS tags: p v ns uj n f 
+1
+POS tags: d v n uj n 
+0
+POS tags: v vn n n 
+0
+POS tags: s v v 
+1
+POS tags: n d v q ad vn uj n 
+1
+POS tags: p r v d n uj v d nz f d v v 
+1
+POS tags: r n n k t n vn 
+0
+POS tags: p r n d d a 
+0
+POS tags: v vn f d v d a uj t 
+0
+POS tags: r v r d v vn r r uj n 
+0
+POS tags: n v an v v l 
+0
+POS tags: nz n 
+0
+POS tags: c t r uj n v p v n 
+0
+POS tags: r v un v un uj d a uj n v v un v un uj n uj an y 
+0
+POS tags: c v r v v m n 
+1
+POS tags: d v d v nz vn 
+0
+POS tags: p r uj vn v n 
+0
+POS tags: r n d v p n f v 
+1
+POS tags: d v n d v v 
+1
+POS tags: r r n d v v v l 
+1
+POS tags: n v v v r uj p r d v n 
+0
+POS tags: c d v m v r n 
+1
+POS tags: p r n v v uj n n 
+1
+POS tags: u v r un i un d v p v nz 
+0
+POS tags: r d v r uj n 
+1
+POS tags: n p n n r d v v r uj n 
+0
+POS tags: p p n v uj n 
+1
+POS tags: r v v m q p n uj n 
+1
+POS tags: r n n v ns vn 
+1
+POS tags: p p n k n v k d v v 
+1
+POS tags: v r v v i uj n n 
+1
+POS tags: c r t v v r r p r uj s v r uj 
+0
+POS tags: n p r v n q d a uj n 
+1
+POS tags: c r d c n s v p r n 
+0
+POS tags: r n v r v n 
+1
+POS tags: d v n n p r f uj m q a n v v uj n 
+0
+POS tags: r d v v d v v 
+1
+POS tags: d m a uj c ad uj n n 
+1
+POS tags: r v p v v n f c v uj 
+1
+POS tags: v ng uj f f 
+1
+POS tags: c v v ns uj n n 
+0
+POS tags: r n n v n 
+1
+POS tags: v n n m an uj n 
+1
+POS tags: n r uj n v v n m n uj n 
+0
+POS tags: d 
+0
+POS tags: n n uj n v a uj 
+1
+POS tags: n d v r b uj 
+1
+POS tags: c r v n v r uj p n uj an 
+1
+POS tags: un v un p r n n a 
+1
+POS tags: p n v v v r l v v uj n 
+0
+POS tags: c m v n uj n f v mq n 
+1
+POS tags: p p r n v n b c b m q uj n 
+1
+POS tags: r d n v 
+0
+POS tags: v v r uj a n 
+1
+POS tags: r d v v r c n v ad a uj n 
+0
+POS tags: i v v n uj 
+1
+POS tags: v m n n p n v n v m 
+1
+POS tags: p r v r n vn ns n c n 
+0
+POS tags: t v 
+0
+POS tags: d v n y 
+0
+POS tags: n d v u d r n 
+1
+POS tags: r uj n v en nr 
+0
+POS tags: r v r uj n uj n r 
+0
+POS tags: c r v a uj n 
+1
+POS tags: c r n n v a 
+1
+POS tags: r r r p v v vn 
+1
+POS tags: m d v v n 
+0
+POS tags: c mt v d l 
+1
+POS tags: f v v d uj an uj n 
+1
+POS tags: c d v v d a uj nz 
+1
+POS tags: p m n 
+1
+POS tags: c d v p r v c v r nr v uj 
+0
+POS tags: r n v n 
+0
+POS tags: v p n uj l vn d a 
+0
+POS tags: d v b n v uj a uj n v 
+1
+POS tags: v p r vn a uj m n v r v uj n 
+0
+POS tags: v n v ad v 
+0
+POS tags: c m n v n uj n d v 
+0
+POS tags: p v v uj n v uj n 
+1
+POS tags: p n uj vn c n uj v c n d v v m 
+0
+POS tags: t v v r c n uj v n 
+0
+POS tags: r v n v m n 
+0
+POS tags: r n v c r d v v ad uj nz 
+1
+POS tags: c n v n v d vd 
+0
+POS tags: r n d v l 
+0
+POS tags: r v r m r v d n 
+0
+POS tags: p n uj n s d v v un nz v n un r n 
+0
+POS tags: r r v d v v v n 
+1
+POS tags: d b v m n r n m q i 
+0
+POS tags: n d d v n 
+1
+POS tags: c d n v d v n 
+1
+POS tags: n un un v v an uj r b un 
+0
+POS tags: c r n p r v d a v 
+1
+POS tags: r v v vn v nz f d n uj 
+1
+POS tags: r v t uj n p f uj n an v m v 
+1
+POS tags: v nr uj v 
+1
+POS tags: d v n uj 
+0
+POS tags: v v t uj r 
+1
+POS tags: c n uj n d v v r v n 
+1
+POS tags: c v r v k f uj n n v uj vn p v k r d ad 
+0
+POS tags: v un n un v n uj nz q 
+1
+POS tags: v n c n v v n p n uj n n 
+1
+POS tags: v v n v uj n f r 
+1
+POS tags: p r d v r un n un n 
+0
+POS tags: c v n uj n v b uj 
+1
+POS tags: r vn v v 
+0
+POS tags: p n v n d v v 
+0
+POS tags: v p n n uj n 
+0
+POS tags: r r v p r nr p d n uj n 
+1
+POS tags: c r p v vn un v un 
+1
+POS tags: d a v 
+0
+POS tags: r t vn d v 
+0
+POS tags: r v n uj n 
+0
+POS tags: r n d v n 
+1
+POS tags: r v a uj n v v m l v n 
+0
+POS tags: r vn p p r v uj d ad 
+0
+POS tags: p r uj n d m 
+1
+POS tags: v n uj t vn v v 
+1
+POS tags: c t uj n n r v v m q n 
+0
+POS tags: n n n uj v n v d v uj 
+1
+POS tags: c r t d v v 
+0
+POS tags: p vn an 
+1
+POS tags: c r vn f v v v n uj n 
+1
+POS tags: v uj n d v p v un v n un c v n v uj 
+1
+POS tags: r v v v uj n d m 
+0
+POS tags: r f v v m 
+0
+POS tags: n d v v p n uj n 
+1
+POS tags: t v n v a n n n v n 
+0
+POS tags: r n v n a uj n v r v m v 
+1
+POS tags: t m q n n r uj vn d n 
+1
+POS tags: n v nz n n 
+0
+POS tags: c v a n vn vn 
+1
+POS tags: r d v c r n vn d d a 
+1
+POS tags: p v n v ad v 
+1
+POS tags: t r v r v v v r 
+0
+POS tags: p s d m n d r v 
+1
+POS tags: n v d v v n uj n c n 
+1
+POS tags: c r r n d v n c n n 
+1
+POS tags: c r v p a n v vn 
+1
+POS tags: r v r v v v v r 
+1
+POS tags: n uj n d p r uj s f 
+0
+POS tags: n uj n d v v 
+1
+POS tags: v uj n v v v uj mq n 
+1
+POS tags: v p a uj n uj r uj n 
+0
+POS tags: v d c r s uj n vn 
+0
+POS tags: c r p v v d uj n 
+1
+POS tags: r v p r uj n v m q n 
+1
+POS tags: r v n k d v v v m q n 
+0
+POS tags: v n ad n v v 
+0
+POS tags: r v t t uj n d v ns 
+1
+POS tags: r v r n uj n p r d n 
+0
+POS tags: s i c n n v v n uj s 
+1
+POS tags: r n v nz v d an 
+0
+POS tags: p r n v n v v v v uj n 
+1
+POS tags: v r v 
+0
+POS tags: d d a 
+0
+POS tags: p ns m d v v nz 
+0
+POS tags: r v m n a uj vn 
+1
+POS tags: v vn v v r ad v 
+0
+POS tags: v r r n d l uj n 
+1
+POS tags: vn n uj m v v v 
+1
+POS tags: p n ad uj n f d n d m 
+1
+POS tags: r v n v uj a n 
+0
+POS tags: n v v r v uj n m vn v uj n 
+1
+POS tags: r p n n f v v ns v 
+0
+POS tags: n v n v vn vn 
+1
+POS tags: r r v p r nr p d n uj n 
+1
+POS tags: r v n uj m m n v n uj 
+1
+POS tags: c d v m n d v v k n v uj n 
+0
+POS tags: c mt d v v 
+1
+POS tags: t r v n m n 
+1
+POS tags: r p n un n m v v v 
+0
+POS tags: r v r uj n f a uj 
+1
+POS tags: vn d ad uj n uj n 
+0
+POS tags: v n nz v n v d a uj n 
+0
+POS tags: c n n 
+1
+POS tags: r v l t m n uj l d v m uj n uj 
+0
+POS tags: d r v d uj n 
+1
+POS tags: c v v n n i 
+0
+POS tags: m v p n uj n 
+0
+POS tags: r d v i 
+1
+POS tags: d v a vn uj 
+1
+POS tags: p n f uj n d vn n 
+1
+POS tags: c v r n n p j d v n 
+0
+POS tags: r r v un v vn un 
+1
+POS tags: r v m s a uj n 
+0
+POS tags: r n d a v 
+0
+POS tags: n n v v ad v v uj v 
+0
+POS tags: r p n vn v m 
+1
+POS tags: p r n d v r uj an v uj 
+0
+POS tags: r d v n uj n 
+1
+POS tags: v uj n d v v v c f v r n uj n 
+1
+POS tags: d p n v v r uj n 
+1
+POS tags: r v v a uj n 
+0
+POS tags: r r v v m q n 
+1
+POS tags: p n uj v p n k uj n n v n uj vn 
+0
+POS tags: c r d v a n 
+0
+POS tags: r n v n uj vn n v c vn v v 
+0
+POS tags: v v m q n 
+1
+POS tags: c d v 
+0
+POS tags: r v v n uj vn v m q n 
+0
+POS tags: p nt v 
+0
+POS tags: n n s vn 
+0
+POS tags: r v v l c v v n 
+1
+POS tags: r v v uj n v v uj n 
+1
+POS tags: n r n n uj n 
+1
+POS tags: r vn f a uj m v v l uj 
+0
+POS tags: v n k d v v 
+0
+POS tags: r n uj n v p v p an uj vn uj n 
+1
+POS tags: n d v r n d v d uj n n 
+0
+POS tags: r d v ns m v v nz 
+1
+POS tags: n n p v n vn uj n vn uj n v un n un 
+0
+POS tags: r r v d r v v uj v v n y 
+0
+POS tags: l d d n v v r n 
+1
+POS tags: v v m v n uj 
+1
+POS tags: d d v v v r v uj 
+0
+POS tags: v m n n p n v n v 
+1
+POS tags: r p s c s v d v v r v 
+1
+POS tags: v v r m n uj m q vn v 
+0
+POS tags: c r d d n v n uj n c n 
+1
+POS tags: t r d d v n v 
+1
+POS tags: r uj v v n v v vn uj 
+0
+POS tags: r d n v vn uj n 
+1
+POS tags: n p r n v uj m q v 
+0
+POS tags: p n v p n k uj n n v n uj vn 
+1
+POS tags: v r uj n 
+0
+POS tags: r n r d v v r v 
+0
+POS tags: r d v v 
+1
+POS tags: v r r n u 
+1
+POS tags: r d a n v un r v d d ad uj 
+1
+POS tags: n a r 
+1
+POS tags: v v r n v m q d a uj m q n 
+1
+POS tags: r t t m v v v ns 
+1
+POS tags: m r v n c v r n uj n 
+1
+POS tags: d vn nz uj n d v n v p v c n 
+0
+POS tags: n t un n f d v n un p ns s v m nz un c d v d n v v n 
+1
+POS tags: n v n v n uj 
+0
+POS tags: n r m n d a uj n v n n 
+1
+POS tags: r r v r n d v v 
+0
+POS tags: r n v m n uj 
+0
+POS tags: r n n v r n 
+1
+POS tags: l uj vn c v p v uj n v n q v a v a uj 
+1
+POS tags: n t uj n v v f uj vn f v uj n 
+1
+POS tags: n d m n v v v n 
+0
+POS tags: r r n uj n n v un n un 
+1
+POS tags: c d v v y 
+0
+POS tags: r v d v n v 
+1
+POS tags: p n v d v n v an 
+0
+POS tags: r p ns ns v 
+0
+POS tags: c r uj n v r v 
+0
+POS tags: t 
+1
+POS tags: c r d uj n v r uj 
+1
+POS tags: r d v r 
+1
+POS tags: r uj n d v v t mt v r v v 
+0
+POS tags: r un n p n v 
+1
+POS tags: r r n d v vn c v n v 
+1
+POS tags: v r d v r v 
+0
+POS tags: r an v 
+1
+POS tags: r z n v vn uj n v 
+1
+POS tags: n uj v d p n uj v v a vn uj n 
+1
+POS tags: v v nz vn c n 
+1
+POS tags: p r vn v r n uj n 
+0
+POS tags: p v t n uj n n c n uj vn v v 
+1
+POS tags: r v n uj n d v 
+1
+POS tags: c a n uj n v v 
+1
+POS tags: r v n m nz uj an d a 
+0
+POS tags: r d v r n n v n 
+0
+POS tags: r v r v v n 
+1
+POS tags: c n d v v d v n uj n 
+1
+POS tags: r n v v uj un n un 
+1
+POS tags: n v v uj v un r p r v q n 
+0
+POS tags: t nt v p n n v v m q 
+0
+POS tags: r d v v v n v uj r a vn 
+0
+POS tags: r p v n c v r d n m n 
+1
+POS tags: d d v v v vn 
+1
+POS tags: p v n uj n uj n d c v vn n d v v r n uj a v 
+1
+POS tags: v v an m m n v n 
+0
+POS tags: c d a 
+0
+POS tags: v v nz n 
+0
+POS tags: c r d v v n c n v v n 
+0
+POS tags: p r v j 
+1
+POS tags: v p r vn a uj m n v n 
+1
+POS tags: r d v v uj n d v v a uj 
+1
+POS tags: r v v uj m n v r vn m l p ns a uj n uj n 
+1
+POS tags: n nr n f v a r uj n 
+0
+POS tags: c r t un n n a vn v n uj n 
+0
+POS tags: d a 
+1
+POS tags: t r v r v uj n c v uj n 
+0
+POS tags: n v r n v m q a uj vn 
+1
+POS tags: vn n r mt df v y 
+0
+POS tags: vn v n 
+1
+POS tags: d p n vn uj n uj m r v 
+1
+POS tags: r v mt q d v v r d v r 
+0
+POS tags: r v m nz v r 
+0
+POS tags: r vn v l n v uj m n 
+0
+POS tags: v r v m n vn m 
+1
+POS tags: p r r uj vn f r a uj n 
+1
+POS tags: r d v v un n v v an 
+0
+POS tags: p r r v r 
+0
+POS tags: r v n uj n 
+0
+POS tags: c r d d v v p n c v mt n 
+1
+POS tags: d uj v t uj n d v m n v v 
+1
+POS tags: v d p c r s uj n vn 
+0
+POS tags: n v ns v n 
+0
+POS tags: n c n v v m n s v m vn 
+0
+POS tags: n k d v m p n v 
+1
+POS tags: r d v d p ns v m ad uj n 
+0
+POS tags: r d v d uj n 
+0
+POS tags: vn n v 
+0
+POS tags: c v mt r vn n vn 
+1
+POS tags: r t f n d nr 
+1
+POS tags: r r v v m n n 
+1
+POS tags: v n v ad n v 
+1
+POS tags: c m q f v ns v vn v n n 
+0
+POS tags: r v nz a n v v n v n 
+1
+POS tags: v v r uj n 
+1
+POS tags: d v p n m ng v v 
+0
+POS tags: r c n v v n vn 
+0
+POS tags: r p vn v r v uj n 
+1
+POS tags: d v r uj n v 
+0
+POS tags: r p nr vn mt f 
+1
+POS tags: v m v n n uj v uj n 
+0
+POS tags: n d v d d a 
+0
+POS tags: d c v n v v r uj vn n 
+0
+POS tags: v n d v v 
+0
+POS tags: v uj nz p n 
+1
+POS tags: c n n v r uj n d d ad 
+1
+POS tags: r uj d n v n uj n v vn uj 
+1
+POS tags: d v v v d v v v n 
+0
+POS tags: n m n v v v n 
+0
+POS tags: r v v r n d v r uj n an 
+0
+POS tags: r v p r uj vn n v n uj 
+1
+POS tags: un r v v un r v y 
+1
+POS tags: n n v n 
+1
+POS tags: n m n v v a uj n 
+0
+POS tags: r v m n v n k s v vn 
+0
+POS tags: n p f d 
+1
+POS tags: m n uj n vd c r n v v 
+0
+POS tags: n n n n v ad v uj n n 
+1
+POS tags: v r v l v v t n uj v c r uj n 
+0
+POS tags: d 
+1
+POS tags: r n v v r v m v n uj 
+1
+POS tags: vn v un n un n n 
+0
+POS tags: r m n r v n 
+1
+POS tags: c v r r v v v r p ns d v m q n 
+0
+POS tags: v v n n v n a 
+0
+POS tags: c d v r n uj n d n vd v r n 
+1
+POS tags: v n p r v v d v v 
+0
+POS tags: n n ad v v m q d d n n v uj n 
+1
+POS tags: v v m n c n 
+1
+POS tags: c t y r d v 
+1
+POS tags: nr a n v r uj n v 
+0
+POS tags: c n v uj n v p r u n v v 
+1
+POS tags: r d d v v r v vn 
+0
+POS tags: m v t d v n 
+1
+POS tags: r p n v v v n nr uj vn 
+1
+POS tags: m n d c n b vn 
+0
+POS tags: p r v en v n nz n uj n 
+0
+POS tags: p vn n 
+0
+POS tags: n v p a n v v n m ng 
+1
+POS tags: v v v r uj p v n uj n 
+1
+POS tags: v uj n v v nr v f uj n 
+1
+POS tags: c c p r n d v v v n 
+0
+POS tags: v m q v uj i uj n 
+0
+POS tags: r v p a n v m n 
+1
+POS tags: v n vn r v 
+0
+POS tags: n uj v n 
+1
+POS tags: p r uj r uj vn f 
+0
+POS tags: c v v v m q n uj v f d ad v 
+1
+POS tags: r n v m d a uj m n 
+1
+POS tags: r v r uj n v p n n vn 
+1
+POS tags: r v n uj n v n c v v uj 
+1
+POS tags: v n c d v n uj n v 
+1
+POS tags: r uj n p r v v r uj n 
+0
+POS tags: t r v r d d d ad v 
+1
+POS tags: r n p n v d a uj 
+0
+POS tags: c l uj n n 
+1
+POS tags: c ad v r vn 
+0
+POS tags: c ad v vn 
+1
+POS tags: d v d a 
+0
+POS tags: v m n v p n v uj n c n 
+0
+POS tags: nt f v nz s uj a n v 
+0
+POS tags: r r n n v n vn 
+1
+POS tags: r v v un n un r n z vn v 
+1
+POS tags: n n d d v v v n n v 
+1
+POS tags: c r v a uj n v 
+0
+POS tags: r d v n v v n 
+0
+POS tags: r v r n d mt v 
+1
+POS tags: c r v r uj n d p r uj n f 
+1
+POS tags: r v v r uj vn nz 
+0
+POS tags: p u uj n v n p v v v d p n f 
+1
+POS tags: u n n d v ad vn uj 
+0
+POS tags: c v b n uj n n d z v v vn uj an 
+1
+POS tags: r v rz n v uj ad v m q v n uj m q n 
+0
+POS tags: v n t n uj n uj n f n r v n 
+0
+POS tags: v v v r n v f 
+0
+POS tags: r d v d v n 
+0
+POS tags: r v z n v 
+0
+POS tags: m n p v v v uj n 
+0
+POS tags: v m nz r z n nr n p r ng uj vn d v v uj 
+0
+POS tags: d v v r n n u v n 
+0
+POS tags: v v n p ns uj n 
+1
+POS tags: c d 
+1
+POS tags: p ns f uj n v v v d a 
+0
+POS tags: r v r nz m n uj n n v r v y 
+1
+POS tags: r v z n v v 
+1
+POS tags: t n n v m 
+1
+POS tags: n v ns v 
+0
+POS tags: t ns b n uj n v 
+1
+POS tags: r v v q n c v v n f uj n uj n 
+0
+POS tags: p n v n uj n n uj n v d n uj 
+1
+POS tags: d v r d a uj n 
+1
+POS tags: r n q d z uj m n 
+0
+POS tags: r d d v r v n 
+1
+POS tags: c n c an v d a uj 
+0
+POS tags: v m n r p r uj n c n v r 
+1
+POS tags: v n n v v b uj v 
+1
+POS tags: c n v v vn 
+0
+POS tags: p n m n v uj n 
+0
+POS tags: v v m n 
+1
+POS tags: r c p ns v r uj n d m 
+0
+POS tags: r d v v v u uj n 
+1
+POS tags: nz v nz n 
+0
+POS tags: c d d v n 
+0
+POS tags: t v n s v vn 
+0
+POS tags: d v n v v 
+1
+POS tags: p r j q uj n v r uj n uj n 
+0
+POS tags: r r n v ns uj n n n v 
+1
+POS tags: n d v m n 
+0
+POS tags: r v v nt v v n 
+0
+POS tags: p n uj v vn n 
+0
+POS tags: n m q t v uj v 
+0
+POS tags: r p r uj n p n uj vn c d v v 
+1
+POS tags: c f uj n p v 
+0
+POS tags: c r n v uj v r v v n n 
+1
+POS tags: n v v r v uj 
+1
+POS tags: r t d v uj 
+1
+POS tags: c n uj n d v n 
+0
+POS tags: p r r f d v v n v v 
+1
+POS tags: r v v v r an v v n uj n 
+1
+POS tags: p vn n v 
+0
+POS tags: t r v uj v n uj n n c n l 
+0
+POS tags: n d v n uj n 
+0
+POS tags: r n uj n v v nz v vn n n uj v 
+1
+POS tags: r n v n uj 
+1
+POS tags: p r n d v r v v 
+1
+POS tags: d d p n vn uj 
+1
+POS tags: n c v 
+1
+POS tags: r p r c v n 
+1
+POS tags: n uj n v c n vn 
+0
+POS tags: c r v v uj n r n v d v n p v v uj n 
+0
+POS tags: r d nz v r 
+1
+POS tags: r d v q m q n 
+1
+POS tags: c p r n n v v 
+1
+POS tags: r n uj n v v n v v vn n n uj v 
+1
+POS tags: v q n v nz uj d v v v uj 
+1
+POS tags: r v ns f d v mt n v 
+1
+POS tags: c r d un q v v 
+0
+POS tags: v r v p r v m n 
+1
+POS tags: v p v f v n v 
+0
+POS tags: r v v v v r 
+0
+POS tags: r n d v un n un r n 
+1
+POS tags: p n v v v m n 
+1
+POS tags: p n b v uj n d v v v 
+1
+POS tags: p n c m n p v c v v v n c v uj n 
+1
+POS tags: d r uj n d v 
+1
+POS tags: n v uj n c n u v v d u uj 
+0
+POS tags: r m f v mt v 
+1
+POS tags: v m m q uj a uj n 
+0
+POS tags: d v b n v uj a uj n v 
+0
+POS tags: n p n n r d v r uj n 
+0
+POS tags: n d d v p r vn v uj n f v vn n uj v 
+0
+POS tags: p n f n d m 
+1
+POS tags: p r vn v 
+1
+POS tags: n v v r uj 
+1
+POS tags: p n n v m q v n 
+0
+POS tags: n d v vn n 
+0
+POS tags: r v n uj n n m vn 
+1
+POS tags: r p n v v v n 
+1
+POS tags: c r uj n n d v v r n v 
+0
+POS tags: n v n v n v a uj v q 
+0
+POS tags: d v uj n v v n uj n v d a 
+1
+POS tags: d v n n v uj a uj n v 
+0
+POS tags: v v n n uj an n m p ns c ns 
+1
+POS tags: v n c n p n uj an d v an 
+1
+POS tags: v m n v r nr j r q n v 
+1
+POS tags: un n un d v d uj v 
+0
+POS tags: p r n n v r v f uj a n 
+0
+POS tags: n r d v v 
+0
+POS tags: r d d v l 
+0
+POS tags: v p n uj v v v d uj n 
+0
+POS tags: r d v n n 
+1
+POS tags: n v nr n f p r v uj n v 
+0
+POS tags: c r c d v r n v v r 
+0
+POS tags: n n n d v v n n 
+0
+POS tags: r v t uj n p f uj n an m v 
+1
+POS tags: c m n v n uj n m v 
+1
+POS tags: v n v v n 
+1
+POS tags: n v t d a 
+0
+POS tags: r nr n d nz 
+1
+POS tags: n d v v n uj n v n uj 
+0
+POS tags: r v p d v n c r uj n uj n v an n v r 
+0
+POS tags: c m n v v n v vn 
+0
+POS tags: r n r uj n d v p v n v v c v n 
+0
+POS tags: d v r uj n c v r uj n 
+1
+POS tags: n p u n n uj u 
+1
+POS tags: r d v ns t v v r mt q uj n 
+1
+POS tags: p d v 
+0
+POS tags: n s v 
+1
+POS tags: n t uj n f 
+1
+POS tags: c n n d v v m n 
+1
+POS tags: r d v p r d v uj n 
+0
+POS tags: d v b n 
+1
+POS tags: p n v uj n u 
+1
+POS tags: p p r t vn f 
+0
+POS tags: c r v v n v a n uj n vn 
+1
+POS tags: r n un q 
+1
+POS tags: vn uj n mt p mt uj m 
+0
+POS tags: c r v s v vn n 
+0
+POS tags: n p r uj v v vn r 
+0
+POS tags: r z r n v 
+1
+POS tags: n c n v v m n n s v m vn 
+0
+POS tags: nz n p n v n v v 
+0
+POS tags: c t n v m n 
+0
+POS tags: t r d v r uj an 
+0
+POS tags: p r v t uj t v m v uj t 
+0
+POS tags: v r uj n 
+0
+POS tags: r mt q uj n v n v v ng 
+1
+POS tags: r v r n c n f n r uj v c v uj n v 
+0
+POS tags: p n v p n uj vn v v 
+1
+POS tags: v uj n v m n d v c m n v uj n y 
+0
+POS tags: c l uj n n 
+1
+POS tags: c n ns v r m l d v v mq 
+0
+POS tags: v r v l v t n uj v c r uj n 
+0
+POS tags: v m v d v v 
+0
+POS tags: p v m n f d v ns 
+1
+POS tags: d n v r m a uj n 
+1
+POS tags: n v ad un n uj nz v n un 
+1
+POS tags: v d v d d v 
+1
+POS tags: v v m n r m n 
+0
+POS tags: d v v n f 
+0
+POS tags: r r n d v d uj ad v 
+1
+POS tags: v v n v a n v uj an 
+1
+POS tags: p a uj n n r q n v r d v v uj 
+0
+POS tags: n v n v n m r d v v 
+0
+POS tags: r n n v n v n uj n 
+0
+POS tags: f r v v 
+1
+POS tags: r t d v v v m t 
+1
+POS tags: r v n v p r d a uj n 
+0
+POS tags: c r uj n n v r un n d an 
+0
+POS tags: d v ns m 
+1
+POS tags: r v p un v un i 
+0
+POS tags: n r d v 
+0
+POS tags: c d v m n v v k n v uj n 
+1
+POS tags: r d v v m n d v v ns v 
+0
+POS tags: v rr uj n r 
+0
+POS tags: v n v d n p n c v 
+0
+POS tags: c v r n u n n d v v 
+0
+POS tags: r uj n v n v v a uj v 
+0
+POS tags: v n 
+0
+POS tags: v r n 
+0
+POS tags: r uj n v d v n 
+0
+POS tags: ad n vn 
+0
+POS tags: r d d c r vn 
+0
+POS tags: c n v v a uj n 
+0
+POS tags: vn d v d a 
+0
+POS tags: n v r uj 
+1
+POS tags: c v n uj n v b v uj 
+0
+POS tags: c d v v 
+0
+POS tags: n v nr n f r v uj n v 
+1
+POS tags: p p ad n v uj v p n v d v n 
+0
+POS tags: n d v n 
+0
+POS tags: r b v m v v r n n uj n 
+0
+POS tags: c n uj vn n v vn l uj n 
+1
+POS tags: n v n m q n 
+1
+POS tags: p n v n uj n n uj n v d n p uj 
+0
+POS tags: n r n r n i 
+1
+POS tags: r v ad vn v 
+0
+POS tags: c t r uj r n v n vn v 
+0
+POS tags: un v un r n vn v d v n uj v 
+0
+POS tags: c n v n v v v r u uj n 
+0
+POS tags: a uj n d v v a uj n 
+0
+POS tags: r p a n n m ng 
+1
+POS tags: n v p n v n 
+0
+POS tags: r d v r 
+1
+POS tags: nr z n v uj n nz n d a v v n 
+0
+POS tags: d r n uj n d u 
+1
+POS tags: un n un n d a uj n v d v v n 
+1
+POS tags: r n d a v 
+1
+POS tags: r v vn d l v 
+0
+POS tags: m v n c n uj n uj n 
+0
+POS tags: n uj vn r an 
+0
+POS tags: r p mq uj v v vn uj n 
+0
+POS tags: r a uj n p nz d k n 
+1
+POS tags: r v ns f v v v m n 
+1
+POS tags: n d v m n uj n 
+0
+POS tags: r d v n r nr 
+0
+POS tags: d v v 
+0
+POS tags: p r uj v f 
+1
+POS tags: d n v f v s n 
+0
+POS tags: r v mt q d v r d v r 
+1
+POS tags: p r v v v b n uj n 
+1
+POS tags: vn v n v 
+1
+POS tags: r r v nr r v v uj v v n y 
+0
+POS tags: vn nz uj n d m 
+1
+POS tags: r v uj r n uj n v an uj t uj v m n 
+1
+POS tags: c r n uj an d a 
+1
+POS tags: d v v p n v uj v uj n uj 
+1
+POS tags: c r v v nz a mt v 
+0
+POS tags: p n a 
+0
+POS tags: r r v uj n v ad 
+1
+POS tags: p mt q uj n v v n 
+1
+POS tags: un v un r n vn v d v n uj v v 
+1
+POS tags: p nt uj n 
+1
+POS tags: c r n uj a n d v a uj n v 
+0
+POS tags: r d v r v uj n 
+0
+POS tags: m n d d v l 
+1
+POS tags: m n d v r vd f v v 
+1
+POS tags: c r v v d v v d an uj n 
+1
+POS tags: nz n v n uj vn 
+1
+POS tags: v p p r uj v c nz uj n 
+0
+POS tags: p r r n n n v f 
+0
+POS tags: c f uj n d v r 
+1
+POS tags: d v l uj n d p v r uj n d v v n uj n 
+0
+POS tags: n v n a 
+1
+POS tags: p n r r v n v r v 
+0
+POS tags: c r v v r n uj n uj n n m v 
+1
+POS tags: p r uj i 
+0
+POS tags: d v n uj n v n v 
+1
+POS tags: r r v v v a n uj v 
+1
+POS tags: r uj t uj vn d v 
+0
+POS tags: n v v f d r d c v 
+1
+POS tags: t r m v v v 
+1
+POS tags: v b n vn d a uj n 
+1
+POS tags: p r uj nz n d d a c v v m d an uj m n 
+1
+POS tags: r q n d v r n v 
+1
+POS tags: vn v v uj vn n 
+0
+POS tags: f n v m d d n v d nz v 
+1
+POS tags: p n v uj n d d vd r n uj n a v 
+0
+POS tags: p n v v n uj 
+0
+POS tags: c d p a n vn r uj n 
+0
+POS tags: r p n v n uj n 
+1
+POS tags: r v v n uj n m v 
+0
+POS tags: r v d v v p n v d a uj 
+1
+POS tags: c r n d v 
+1
+POS tags: c v mt r vn n uj vn 
+0
+POS tags: c m q f v ns vn v n n 
+1
+POS tags: c r v d n uj n v v n nz 
+1
+POS tags: p n v n uj n an v 
+1
+POS tags: p r v n y 
+1
+POS tags: r n uj n d v r v 
+1
+POS tags: r n n v p r n v uj n v m 
+0
+POS tags: mt v m q 
+1
+POS tags: r n r uj n n un q v 
+0
+POS tags: v v n 
+0
+POS tags: r v n an n uj vn v m a uj n 
+0
+POS tags: c d a uj 
+1
+POS tags: s v p v uj n d m v 
+0
+POS tags: c v r n d p r v 
+0
+POS tags: n v n vn a 
+0
+POS tags: a uj a n 
+1
+POS tags: d v b n uj n v uj a uj n v 
+1
+POS tags: d v v ad v v a uj 
+0
+POS tags: c n d v d v r uj n v v 
+0
+POS tags: un n un d v n c n 
+0
+POS tags: n v n uj n an v 
+1
+POS tags: n vn v p n uj vn n v v n uj 
+0
+POS tags: c n r d v a 
+1
+POS tags: r nr v p v 
+0
+POS tags: n v v n uj an p l 
+0
+POS tags: n n n 
+1
+POS tags: d v v v 
+1
+POS tags: c t uj r uj n v p v n 
+0
+POS tags: d v c r u v a 
+1
+POS tags: v c r n uj n ng d a 
+0
+POS tags: d v v a uj n 
+1
+POS tags: r d v v 
+1
+POS tags: c r v r v n v m p r p n a uj n 
+0
+POS tags: r r uj n d ad v 
+1
+POS tags: p r an d v v 
+1
+POS tags: m v t d v n v 
+0
+POS tags: r p n vn v n 
+0
+POS tags: c n uj n d a 
+0
+POS tags: c t a n d n v r v 
+1
+POS tags: c c v r n u n n d v v 
+0
+POS tags: v v v a n n 
+1
+POS tags: r t v n n 
+1
+POS tags: n v n v n n 
+0
+POS tags: v r an 
+0
+POS tags: d v v r v a n 
+1
+POS tags: p r r d v r 
+0
+POS tags: d vn d v 
+1
+POS tags: n n v n uj n v n uj n 
+1
+POS tags: r r t d v v v d m q n uj n 
+1
+POS tags: ad n v v uj n v p r uj n d v n uj n 
+1
+POS tags: d d v v an 
+1
+POS tags: m n c d an uj t uj r 
+1
+POS tags: c r d v p v n c n v v n 
+1
+POS tags: d p r uj v f 
+1
+POS tags: r n r v v d a v 
+1
+POS tags: p r d v v vn v 
+1
+POS tags: r d v n 
+1
+POS tags: c n v v v c v p r uj an n 
+1
+POS tags: c p v n c n uj n nz v 
+0
+POS tags: uj v 
+0
+POS tags: v v n v v n v n uj vn 
+1
+POS tags: vn v r n d d v v v n v n 
+0
+POS tags: d p n f vn 
+1
+POS tags: r p r uj n v n v 
+0
+POS tags: v v v r uj v n uj n 
+1
+POS tags: c n v d v r d r uj n 
+0
+POS tags: r d d v r v vn 
+0
+POS tags: r v uj r n uj n v an uj t uj m n 
+1
+POS tags: r n d v vd p l 
+1
+POS tags: r v p a n v vn 
+0
+POS tags: n c t n n vn v n 
+1
+POS tags: p c v m n n i c v n v u d p an n 
+0
+POS tags: r p m f n vn 
+1
+POS tags: r v p n v 
+1
+POS tags: c t r d v v m q v d v uj an un r d v r 
+0
+POS tags: r 
+0
+POS tags: n v r uj n 
+1
+POS tags: c r n n v v an uj a n 
+0
+POS tags: d v f uj r uj an 
+1
+POS tags: p v v uj n v v uj n 
+1
+POS tags: r uj n f m q n v d uj v 
+0
+POS tags: v r uj n r d v 
+0
+POS tags: c n d v 
+1
+POS tags: d c ns n v v ns n 
+1
+POS tags: r v v n v a v n n 
+0
+POS tags: r v v nt 
+0
+POS tags: r uj 
+1
+POS tags: v n c an 
+0
+POS tags: r n p ns d v v 
+0
+POS tags: r n v n d v a 
+0
+POS tags: p v n n f uj n v v v p d v n v 
+1
+POS tags: r d d v n 
+0
+POS tags: vn r d v v v v n nz 
+1
+POS tags: v m n n uj n 
+0
+POS tags: r uj n d d v v m n v 
+0
+POS tags: d v v n v nz v n 
+1
+POS tags: p u uj n v n p v v v d p n f v 
+0
+POS tags: d p v n n s 
+0
+POS tags: r uj n n v p d v v v v 
+1
+POS tags: r v v n y 
+1
+POS tags: r n v m v v vn uj n 
+0
+POS tags: v r v d p r v v uj n 
+0
+POS tags: c v a 
+1
+POS tags: r p vn v r v v uj n 
+0
+POS tags: n v d vn v v n p n uj v 
+0
+POS tags: v v l 
+1
+POS tags: c n v vn m n v a n v 
+1
+POS tags: v f mt n p ns v n n 
+0
+POS tags: ns uj ns d v v p n v 
+0
+POS tags: v r 
+1
+POS tags: r d d v r v a uj vd 
+1
+POS tags: n v r n uj vn s uj n 
+1
+POS tags: p v vn f d v uj n uj n v 
+0
+POS tags: r d v b ng v 
+0
+POS tags: c r v a vn nz f uj n 
+0
+POS tags: n uj n d d a m d v 
+0
+POS tags: r s v m n v 
+0
+POS tags: un n n v n vn un r n 
+0
+POS tags: r v v un i un 
+0
+POS tags: d v v s vn 
+0
+POS tags: n v n v a uj n 
+0
+POS tags: r v v d v n n v uj n 
+1
+POS tags: v m n v r v v ns m 
+1
+POS tags: n d v d v n 
+0
+POS tags: r v n 
+0
+POS tags: r v n b vn v d a uj 
+0
+POS tags: n c r n d v m n 
+1
+POS tags: r v v v r m n 
+0
+POS tags: d v nz uj v 
+0
+POS tags: d v v un v un n k v n u 
+0
+POS tags: n n v uj n v n a uj vn m uj n uj vn 
+0
+POS tags: r v r n uj n d v n 
+1
+POS tags: v v v r n v v f 
+1
+POS tags: r n q nr m q 
+1
+POS tags: r v uj n v p n s 
+0
+POS tags: s v v vn y 
+1
+POS tags: n n t n n vn v n 
+1
+POS tags: d d l 
+1
+POS tags: c r d d v v un n un uj n 
+1
+POS tags: c n m n p s v n f r v vn 
+1
+POS tags: v nz d v v v q d 
+0
+POS tags: r p r n uj n v r 
+1
+POS tags: r v v ns v f v v n d v ns n r v vn 
+1
+POS tags: vn v p ad uj n f vn d v n uj 
+1
+POS tags: f d n d v r v 
+0
+POS tags: n v n v r uj v n 
+0
+POS tags: d an r r v v vn v uj n y 
+1
+POS tags: p c v m n n i c v n uj v u d p an n 
+0
+POS tags: n k d v vn f v v n d nz 
+0
+POS tags: n k r d v v vn v d ad uj n 
+1
+POS tags: r vn p t a m 
+1
+POS tags: r ad p a uj n an v n 
+1
+POS tags: c r p d v v 
+1
+POS tags: r v r v v a 
+1
+POS tags: r v r r n v uj v n 
+0
+POS tags: r d v v v n v a uj n 
+1
+POS tags: p ns uj n v v v v 
+1
+POS tags: v ad n a uj n 
+0
+POS tags: m q n n v z vn 
+1
+POS tags: un v un uj n d v a 
+1
+POS tags: c v r m s n v v n uj n 
+1
+POS tags: n v nz k 
+1
+POS tags: n v uj vn d ad 
+1
+POS tags: n vn c b vn f uj r n f 
+0
+POS tags: n d v uj n n v m 
+0
+POS tags: v n k n v vn 
+0
+POS tags: r n d v r v v 
+1
+POS tags: r n v r uj n p n d v n n n 
+1
+POS tags: c n v v uj v v an 
+1
+POS tags: n v v n r r mt nz v vn n 
+1
+POS tags: r p ns ns v v 
+1
+POS tags: c p n f v 
+1
+POS tags: c r uj n n v d v v 
+0
+POS tags: c r d v 
+0
+POS tags: n n v r v n v v uj n 
+0
+POS tags: c v d n p r n n uj v 
+1
+POS tags: d r v v v c n v n v n 
+1
+POS tags: r p n v vn v m 
+0
+POS tags: d v m q n v r n q v 
+0
+POS tags: n v n v v n 
+0
+POS tags: d n v r m q uj l 
+1
+POS tags: r v n uj n 
+1
+POS tags: s v v 
+0
+POS tags: r v n n a uj n n n vn n 
+0
+POS tags: p n uj an n r 
+0
+POS tags: m n d v n b vn 
+0
+POS tags: d v a r n v v 
+1
+POS tags: r d v v n v n m r d v v 
+1
+POS tags: v p n uj an n r 
+1
+POS tags: v d d p f uj n d v n 
+0
+POS tags: r v uj n 
+1
+POS tags: c r v v n v v a n uj n vn 
+1
+POS tags: v n uj n uj 
+0
+POS tags: r n v r 
+1
+POS tags: r n v r v n u 
+0
+POS tags: vn v v n 
+0
+POS tags: n uj v d nr v 
+0
+POS tags: r n v d v n 
+0
+POS tags: ns v r n n 
+0
+POS tags: vn nz c a p v n 
+1
+POS tags: r n d v p v n v an n 
+0
+POS tags: f v ad uj v m 
+1
+POS tags: p a uj n uj v p a uj n uj v 
+1
+POS tags: v r c n p n v m c d v ad uj j n 
+0
+POS tags: c p ns vn v n 
+0
+POS tags: v un m v n a v uj n d v a vn uj n v m nr 
+0
+POS tags: c r v vn un v un 
+1
+POS tags: v v n n nr a 
+0
+POS tags: r d v v m n c n v vn r 
+1
+POS tags: p n f n v d m 
+1
+POS tags: n v d p n uj v v a vn uj n v 
+1
+POS tags: r n d v p n f uj v 
+1
+POS tags: v r d v r v v r n uj n 
+1
+POS tags: r r p r uj vn a 
+1
+POS tags: v v n a v n c r m n df d v n v v v uj 
+0
+POS tags: c p r uj n v 
+1
+POS tags: n r nz v r v uj 
+1
+POS tags: p v p n vn uj n p v 
+1
+POS tags: r v r v m n uj vn v 
+0
+POS tags: v r uj v d v t uj r 
+1
+POS tags: n v v uj n uj an v i uj 
+1
+POS tags: r d v p s v 
+1
+POS tags: d vn nr v f uj r uj vn uj n 
+1
+POS tags: v p n v n r m n v v u v 
+0
+POS tags: c n v n d vd 
+1
+POS tags: p ns v n v ns n l 
+1
+POS tags: c t uj n n p v v m q n 
+0
+POS tags: c n m n p 
+1
+POS tags: p r n r d p n v 
+1
+POS tags: n f d i uj 
+0
+POS tags: d v n 
+1
+POS tags: t p ns uj v m n 
+1
+POS tags: d an uj n r r d v uj 
+1
+POS tags: n v ns v n v 
+0
+POS tags: p r v n v 
+0
+POS tags: d v v d v c d v n 
+1
+POS tags: n k d v v p v n vn 
+1
+POS tags: r d v v r v p ns m a uj n v r i uj vn 
+0
+POS tags: v v r n v m q d a uj n 
+1
+POS tags: p r v n f 
+0
+POS tags: p nt n 
+1
+POS tags: p ns m d v v v nz 
+1
+POS tags: n r n d v n n uj n 
+0
+POS tags: v v un n un r n 
+1
+POS tags: r r un q uj n nr v q a uj 
+1
+POS tags: r nt r n nz uj 
+0
+POS tags: m n d v vn 
+0
+POS tags: r m v t 
+0
+POS tags: c n v l 
+1
+POS tags: r v v uj 
+1
+POS tags: r v vn d a y 
+0
+POS tags: f n d v r v 
+1
+POS tags: r uj t d an uj 
+0
+POS tags: n r t v d m 
+1
+POS tags: t m n y 
+0
+POS tags: c r v n v v m n v n 
+0
+POS tags: r n r n vn r s uj n 
+1
+POS tags: r n d d v v uj 
+1
+POS tags: n v v n vn 
+1
+POS tags: r r n uj n d v n v r v n uj n uj n 
+0
+POS tags: r v s v v n 
+0
+POS tags: n d vn n uj n d v r n v uj n 
+1
+POS tags: n d un n un c v v n n uj n n d v 
+1
+POS tags: c d v v n 
+1
+POS tags: n d v v ns 
+0
+POS tags: c r uj n r d v v 
+1
+POS tags: p r n d v vd uj 
+0
+POS tags: p n r r v n v r 
+0
+POS tags: c n v uj 
+0
+POS tags: r v f d v n v 
+0
+POS tags: r t d d v r v v uj n c v v uj n 
+1
+POS tags: r d a v 
+1
+POS tags: r v f d v n f v 
+1
+POS tags: c n r v v a uj n 
+0
+POS tags: r v n n d v v 
+1
+POS tags: v v p r n uj t v d v vn uj 
+1
+POS tags: r v r n v p r uj n v v n 
+0
+POS tags: c p v vn vd n n uj n 
+0
+POS tags: r d n v m q uj n v 
+0
+POS tags: d v n vn v 
+1
+POS tags: p un n n v n vn un r n 
+0
+POS tags: r n d v v 
+0
+POS tags: mt df d i 
+1
+POS tags: r v v m b m b uj 
+1
+POS tags: f v v v r uj n 
+1
+POS tags: r n m n p v v v 
+1
+POS tags: c vn v v 
+0
+POS tags: n a uj n v v n uj n 
+1
+POS tags: r z r v v vn 
+0
+POS tags: n v r v 
+1
+POS tags: r v v uj an uj n n vn f d ad uj n 
+0
+POS tags: n p n vn uj n v n 
+1
+POS tags: r v p r v n v d a uj n 
+1
+POS tags: r v r v m d a uj n 
+1
+POS tags: v n uj v p r uj n uj n v v n 
+0
+POS tags: r n v v v p r n v v 
+1
+POS tags: r v n d ad v v mq n uj n c v u n uj vn 
+1
+POS tags: r d uj n n v v d v 
+1
+POS tags: v m n v v a uj n 
+1
+POS tags: r n r d a uj n c n v v r a n 
+1
+POS tags: v v n n uj an n m v ns c ns 
+1
+POS tags: vd uj 
+1
+POS tags: r v vn r v m v nz q uj n 
+0
+POS tags: r n r uj n p n d v n n n 
+0
+POS tags: v v d an 
+0
+POS tags: i nr r d v t uj r 
+0
+POS tags: r v n d ad v mq n uj n c v u n uj vn 
+1
+POS tags: s v v v 
+1
+POS tags: c n v v v ad 
+0
+POS tags: c n uj n d n 
+0
+POS tags: r d v v r t d v an uj n 
+0
+POS tags: c r d uj n v r uj 
+0
+POS tags: d d v v v 
+1
+POS tags: r v r uj n f d n uj 
+1
+POS tags: p n d v p v v vn v 
+1
+POS tags: r uj n d v uj 
+0
+POS tags: p n v v r an 
+1
+POS tags: c l uj n v n 
+1
+POS tags: d uj v p n an v v 
+1
+POS tags: n n p un vn un n 
+0
+POS tags: r v v vn v nz f d n 
+1
+POS tags: r d d v c r vn 
+1
+POS tags: n v v uj v un n un uj n v z v 
+1
+POS tags: r v n v f p ns v nz 
+0
+POS tags: r n v r m n vn uj 
+1
+POS tags: m uj n d q p s 
+0
+POS tags: p f n v n k nr v 
+0
+POS tags: v d an v r 
+1
+POS tags: r v v v v uj n 
+0
+POS tags: v n uj n v uj n c n v uj n 
+1
+POS tags: r d v v d v v uj 
+0
+POS tags: d d v 
+1
+POS tags: r m n f v n uj a n 
+0
+POS tags: n v d vn v v n p n uj v 
+1
+POS tags: v v n n n c vn n uj v 
+1
+POS tags: c v p n n v n 
+1
+POS tags: r d v m uj v n 
+1
+POS tags: r v r v v n an 
+1
+POS tags: d r n n d v 
+0
+POS tags: t n v v v n uj n n 
+1
+POS tags: n v r n 
+1
+POS tags: n v q v n 
+1
+POS tags: f r n d v v v uj n 
+0
+POS tags: n d ad 
+1
+POS tags: r d d v r r v v 
+0
+POS tags: c r v c v n m ad uj n v n un r v r v p a n v d v v m n 
+0
+POS tags: c t c n n n d v r v n uj n 
+1
+POS tags: c v v d v n r n uj n 
+0
+POS tags: v m n d d r v v 
+1
+POS tags: n n m n p r n a 
+0
+POS tags: r uj n p n c n f v r a 
+1
+POS tags: d d r d v l uj 
+0
+POS tags: r v n v v r n 
+0
+POS tags: r v r n n v vn r v r n 
+0
+POS tags: d v v c v r n v v n 
+0
+POS tags: n r m n uj 
+0
+POS tags: r t t p ns n v 
+0
+POS tags: c r vn f v v n uj n 
+1
+POS tags: c r d v v m 
+1
+POS tags: v n vn n uj v uj n 
+0
+POS tags: vn f un v un c un v un uj n d d v v 
+1
+POS tags: c p ns f vn v n 
+0
+POS tags: c r d v r vd v 
+0
+POS tags: p n k n v uj n d p v 
+0
+POS tags: b v v n 
+0
+POS tags: r v v r uj v 
+1
+POS tags: v r m n d v v n uj vn 
+0
+POS tags: r q v n v 
+1
+POS tags: r v n c n p s v 
+1
+POS tags: p vn r uj v 
+0
+POS tags: u n c n a uj n d v l 
+1
+POS tags: d v uj n v r n v r n 
+1
+POS tags: r r n uj n v v i uj 
+1
+POS tags: v v r n uj 
+1
+POS tags: t v r un n un uj n v 
+1
+POS tags: v c n v n 
+0
+POS tags: d v r d v a uj n 
+0
+POS tags: r a uj n d v n v n 
+1
+POS tags: r d p v r 
+1
+POS tags: t n d an 
+1
+POS tags: p r v n 
+0
+POS tags: r v r r v r uj vn v r uj an 
+1
+POS tags: c v r v n uj n 
+0
+POS tags: c v m n uj vn d v v n v n 
+1
+POS tags: c r d a v v v uj an 
+0
+POS tags: d r t ad v 
+0
+POS tags: d v r uj n n uj n 
+0
+POS tags: c r n v v n v uj v 
+0
+POS tags: r d v v r c n v ad a uj n 
+1
+POS tags: r vn p r v d a uj 
+1
+POS tags: n uj n p m l uj n v d uj a uj n 
+1
+POS tags: r d v nz v uj n 
+0
+POS tags: n v c v r n 
+1
+POS tags: r n v t ad d u uj 
+1
+POS tags: d nz n 
+0
+POS tags: nr a n v r uj n 
+1
+POS tags: n d n r n v p f n v a m 
+1
+POS tags: v v 
+0
+POS tags: n d m v n v v 
+0
+POS tags: n t v v 
+0
+POS tags: v v p n nz n uj n 
+0
+POS tags: p v r v v uj 
+1
+POS tags: r d t p ns v uj 
+0
+POS tags: v r r v v 
+0
+POS tags: n vn c n uj vn 
+1
+POS tags: t r n r v v uj n 
+0
+POS tags: r v d a 
+0
+POS tags: d r n n v r a uj n 
+0
+POS tags: r c v n v d a 
+0
+POS tags: t v v uj n n n uj v n 
+1
+POS tags: v v v a n uj n 
+1
+POS tags: b uj v en nr f 
+1
+POS tags: c r n n 
+1
+POS tags: v v n uj f uj n 
+1
+POS tags: n r n v r n s vn n r m n 
+0
+POS tags: d v n 
+0
+POS tags: r n 
+1
+POS tags: v v d v an 
+0
+POS tags: r n d v 
+1
+POS tags: v n v 
+1
+POS tags: c p r v r n v q d n n v 
+1
+POS tags: r n m a v r uj v n d v v 
+1
+POS tags: d c v m n 
+0
+POS tags: v un n un r m n d n t n uj n 
+0
+POS tags: v r uj n r m q n v v d uj n 
+1
+POS tags: n v n uj vn uj n 
+1
+POS tags: v v v v n 
+0
+POS tags: un v v n r un 
+1
+POS tags: r d a uj mt d v r v ns v vn nz 
+0
+POS tags: c r d v n 
+1
+POS tags: r d v ns uj m 
+0
+POS tags: t n n a 
+1
+POS tags: r uj n n n uj 
+1
+POS tags: p r i uj 
+1
+POS tags: p n r n v d ad uj m n 
+1
+POS tags: c r v v n v v 
+1
+POS tags: v r uj n d d an 
+1
+POS tags: c n n n d v v r v n 
+1
+POS tags: r n d v vn v 
+0
+POS tags: r d v d v v v un n un uj n 
+1
+POS tags: r v n n v v v n uj 
+1
+POS tags: c n uj p n uj n d d a 
+1
+POS tags: d v r uj v 
+0
+POS tags: c m n v p n uj v 
+0
+POS tags: v n d q n 
+0
+POS tags: d v v r n m n uj n 
+1
+POS tags: r p r n uj n n v un n un 
+0
+POS tags: n v n v k v v r n c v n uj n 
+1
+POS tags: d n d s v uj n d d m 
+0
+POS tags: r v r n uj v d a 
+1
+POS tags: v v m n v 
+0
+POS tags: v ns v 
+0
+POS tags: p n 
+0
+POS tags: v m n v v un n un p n d a 
+0
+POS tags: v un n un v vn n 
+1
+POS tags: v r v d n p r v v uj n 
+0
+POS tags: r v r uj n 
+1
+POS tags: d p r v vn nz uj nr v m 
+0
+POS tags: p r vn a uj n n r uj n 
+1
+POS tags: v n v n v v v 
+1
+POS tags: d d p n v v m c m n n 
+1
+POS tags: nz un n r uj v 
+0
+POS tags: r uj n n v un nz un 
+0
+POS tags: v v r uj n c n t n 
+1
+POS tags: r p t d nr 
+0
+POS tags: r n v r n d v 
+0
+POS tags: d c n uj n ad uj n 
+0
+POS tags: p ns v uj d v un n un uj n c n 
+1
+POS tags: n uj n v v d d v 
+0
+POS tags: r an d v v 
+1
+POS tags: n n v n uj nz v n uj 
+1
+POS tags: r n v m n a uj vn 
+1
+POS tags: r p n v v k 
+0
+POS tags: v r c n s v uj n 
+0
+POS tags: c n v n uj n 
+0
+POS tags: n v 
+1
+POS tags: n p v uj n v n 
+1
+POS tags: v n uj vn 
+0
+POS tags: f r v r v 
+1
+POS tags: c u n uj n 
+0
+POS tags: v p n vn uj n p v 
+1
+POS tags: c r v n v v v nz 
+0
+POS tags: p n a 
+1
+POS tags: d v nz uj n v k d v m v 
+0
+POS tags: d p n v r uj n 
+1
+POS tags: r uj q v v vn 
+0
+POS tags: r v n 
+1
+POS tags: n n n uj v n v d v uj 
+0
+POS tags: t r p ns n vn nz 
+0
+POS tags: v m b uj p f k v k v 
+1
+POS tags: n v d ad 
+0
+POS tags: r p r uj n v n 
+1
+POS tags: r r n uj n v ad 
+0
+POS tags: c r d n vn r d n v r 
+1
+POS tags: n f d v vn v n 
+1
+POS tags: d a uj n v a uj n n v 
+1
+POS tags: c r v c v n m ad uj n v n un r v r v p a n n v d v v m n 
+1
+POS tags: n v n uj f d v uj n 
+1
+POS tags: n d v v a n v n uj n 
+0
+POS tags: c r n n v v 
+0
+POS tags: un n uj n v n v uj 
+0
+POS tags: vn n v r p r d ad 
+1
+POS tags: r d v vn uj 
+0
+POS tags: v v vn uj n 
+1
+POS tags: c n r d v nr 
+1
+POS tags: c d v v n k s n uj n 
+1
+POS tags: r r n n v n v vn 
+0
+POS tags: r v v m b m b 
+1
+POS tags: r p nz n v v n 
+1
+POS tags: r r d v r y 
+1
+POS tags: c c r uj vn d v uj n 
+0
+POS tags: t n v v v ad uj n 
+1
+POS tags: m q n n v v an v l uj n 
+0
+POS tags: mt f 
+1
+POS tags: n c n uj n v i uj n 
+1
+POS tags: v m n p r v v mq n m 
+0
+POS tags: r n d v uj 
+1
+POS tags: c v r uj n c f uj n p r an 
+1
+POS tags: c r n v n c vn f d v v r an c n 
+1
+POS tags: v v v 
+0
+POS tags: d v v r uj n 
+0
+POS tags: c p n v 
+1
+POS tags: c t a n d n v v r v 
+0
+POS tags: c vn v f n uj n 
+0
+POS tags: r d p n v uj n v vn v v 
+1
+POS tags: c r v l v m a uj 
+0
+POS tags: v ns v v r n f 
+0
+POS tags: c r v n r v n v r n 
+1
+POS tags: d d v r p ns uj vn v 
+1
+POS tags: r v n n v d v v 
+1
+POS tags: r p n uj n d r v n v v 
+1
+POS tags: p u uj v vn uj n n 
+1
+POS tags: t r uj s d ad 
+1
+POS tags: r v u p n n a 
+1
+POS tags: c r v a 
+0
+POS tags: r v r uj n v m q n 
+0
+POS tags: r d v v v c n n v c v v v f vn 
+0
+POS tags: m m f r c m n s v mq ng v 
+0
+POS tags: p ns v v n c n uj v 
+0
+POS tags: c d p n n 
+1
+POS tags: r v v y 
+0
+POS tags: r r v r uj n p r n l uj n 
+1
+POS tags: v v a n v v uj an 
+1
+POS tags: v v n c v v v 
+1
+POS tags: r n n r uj n 
+1
+POS tags: c d r n uj n vn d ad v 
+0
+POS tags: v r d v v 
+0
+POS tags: r v r v v n 
+1
+POS tags: r uj n v n vd uj 
+1
+POS tags: n n n m v vn an 
+1
+POS tags: r d v r d d v r uj r uj n 
+1
+POS tags: n n s vn v 
+0
+POS tags: r n vn v r v r n 
+1
+POS tags: p r uj n v 
+1
+POS tags: c v d p v uj n 
+1
+POS tags: c v n a uj n uj n 
+1
+POS tags: f k v n uj n k d v uj v n p r n f uj n c v v n 
+1
+POS tags: r uj n p r v v nr uj vn 
+0
+POS tags: t r v v v r 
+1
+POS tags: v n uj v z v v r mt 
+1
+POS tags: p r vn uj d v v a uj 
+0
+POS tags: c n nr v nz v n 
+1
+POS tags: n r uj n n 
+0
+POS tags: r v uj ns d v r n r 
+0
+POS tags: v n an 
+1
+POS tags: p ns d v v d uj n 
+0
+POS tags: m nz n 
+1
+POS tags: v n vn d v v 
+0
+POS tags: v v uj n 
+1
+POS tags: c t v r 
+0
+POS tags: n uj vn 
+0
+POS tags: un r v un r v y 
+1
+POS tags: r v v v y 
+1
+POS tags: v p p n v n 
+0
+POS tags: t n n vn 
+0
+POS tags: d p v uj n d v n v v n 
+1
+POS tags: n r v v v n r n uj l 
+1
+POS tags: v n n v un v un n m 
+0
+POS tags: d d v an 
+0
+POS tags: c m n v v 
+0
+POS tags: p r s uj n d d a 
+1
+POS tags: p m n mt vn r n uj vn nz 
+0
+POS tags: d v v 
+1
+POS tags: r n v d v n uj 
+1
+POS tags: f v r v n uj n d p vn v 
+1
+POS tags: c d n n n 
+1
+POS tags: d m n v n uj p r n uj n vn n 
+1
+POS tags: n v d vn v v n p n uj v 
+0
+POS tags: l v r a 
+1
+POS tags: d t ns vn v v uj n r m 
+0
+POS tags: p v p n d n 
+0
+POS tags: c r n 
+0
+POS tags: n r d v v v r uj n d n d v r uj m q v 
+0
+POS tags: f v v d an uj n 
+0
+POS tags: r n v d 
+0
+POS tags: p n uj n v 
+1
+POS tags: r r d v v r v an 
+0
+POS tags: d v n v 
+0
+POS tags: d p ns n v v ns n 
+0
+POS tags: c r v un n v n uj nz v n un 
+0
+POS tags: v v v r d v r v v r uj n u 
+0
+POS tags: r p r v a d v n d a v uj n 
+0
+POS tags: r v v v r n 
+0
+POS tags: v r v i 
+1
+POS tags: n n d z n v v 
+1
+POS tags: r d v v v 
+0
+POS tags: r v v n 
+0
+POS tags: ad 
+1
+POS tags: v r v ns uj n 
+1
+POS tags: c v v d n uj n v v n nz 
+1
+POS tags: n v v r uj n 
+1
+POS tags: n n d v vn n 
+0
+POS tags: r r v m n n 
+1
+POS tags: r d v n v v n uj 
+0
+POS tags: v n uj vn d mt 
+0
+POS tags: n d vd p r n 
+1
+POS tags: p r n n f 
+0
+POS tags: d v n uj n 
+1
+POS tags: v un ns uj m n v 
+0
+POS tags: r n d d v v 
+0
+POS tags: c d vn v r uj n 
+1
+POS tags: b v uj n n d v v r v a 
+0
+POS tags: r d v v n v 
+1
+POS tags: c v n uj n v b uj 
+0
+POS tags: m m n v v a v uj n f v d a 
+0
+POS tags: n d n v n d v v n 
+1
+POS tags: r d v v m p n c n v vn r 
+1
+POS tags: i uj v v n uj 
+0
+POS tags: n v v r 
+0
+POS tags: d v v m m r 
+1
+POS tags: v s p v uj n d m v 
+1
+POS tags: v d n nz uj n v v ns v vn v 
+0
+POS tags: r p n n v v mt v uj n 
+0
+POS tags: p n n n uj vn 
+1
+POS tags: r n d v v n nz f d v v n 
+0
+POS tags: c d n v 
+0
+POS tags: r v v ns n s v n v n uj 
+1
+POS tags: v n v v r vd v vn vn v uj n 
+1
+POS tags: v m nz r z n nr n p r ng uj vn d v v uj 
+0
+POS tags: n p v r vn uj r n 
+0
+POS tags: r d v v r v n m r d v 
+1
+POS tags: d v v n v n uj 
+1
+POS tags: d v v v 
+0
+POS tags: r v v v c n v n v n 
+1
+POS tags: p n d v n 
+1
+POS tags: r n k v n vn uj n 
+0
+POS tags: d v n p n d ad v r 
+1
+POS tags: p r n v r v un n u v v an uj 
+1
+POS tags: d a v 
+0
+POS tags: c r v r d v nr uj n 
+0
+POS tags: d m n d v v 
+0
+POS tags: c v n a uj n 
+0
+POS tags: p r v r v r v uj b uj un n un 
+1
+POS tags: n c v t n uj vn 
+1
+POS tags: r r v p v m q n 
+0
+POS tags: r v r n uj n p r n 
+1
+POS tags: m v v m n 
+0
+POS tags: d v n n v n v 
+0
+POS tags: n r d v a 
+1
+POS tags: d v r v r v r n 
+0
+POS tags: r v ns 
+1
+POS tags: n d v v vn 
+1
+POS tags: nz n d v a uj n y 
+0
+POS tags: v n n uj n 
+0
+POS tags: un v un uj n d v a 
+0
+POS tags: r v d v p n n uj vn uj n 
+1
+POS tags: r p un n p n v 
+1
+POS tags: r v n uj v 
+0
+POS tags: r d v v n n 
+1
+POS tags: r p v n c v r d n m n v 
+0
+POS tags: c r v n v uj n d v 
+0
+POS tags: vn v r v uj y 
+0
+POS tags: n v v uj v un r p r v n 
+0
+POS tags: p v t n uj n n c n uj vn v v 
+1
+POS tags: r p n p n c n f v un v un uj n 
+1
+POS tags: r v q r nz nr v r uj n y 
+1
+POS tags: n uj 
+1
+POS tags: c n m n p r 
+1
+POS tags: n v d v p r r s 
+1
+POS tags: n uj v 
+1
+POS tags: n d v n 
+0
+POS tags: r v r 
+1
+POS tags: p r v j y 
+1
+POS tags: v v nz n uj n d v d v r n 
+1
+POS tags: r mt uj t n v s vn v 
+0
+POS tags: r a uj n v v m l v n 
+1
+POS tags: r d z n vn v 
+0
+POS tags: r uj n r t v n s v n c r n v 
+0
+POS tags: p n v p n 
+0
+POS tags: n d v r n d v d uj n 
+1
+POS tags: r v r uj n uj v d a 
+0
+POS tags: v ns uj n v un r n n k c n v v uj n 
+1
+POS tags: p un n n v n vn un r q n n v uj r n uj m n n un un n v an uj 
+0
+POS tags: n v v n 
+1
+POS tags: r d v v v n n 
+1
+POS tags: r v n v v n uj r n 
+0
+POS tags: d v r v 
+1
+POS tags: l v t v n n v uj n 
+0
+POS tags: c r v p a n vn 
+1
+POS tags: ns p t m n v m n m v v 
+0
+POS tags: v t 
+0
+POS tags: r n d v t vn 
+0
+POS tags: r v r n p n an d n y 
+0
+POS tags: c r v n v uj n d v 
+1
+POS tags: d t d v v 
+0
+POS tags: r c n d v r n n 
+1
+POS tags: r m n n n p r v a y 
+1
+POS tags: c t p ns v a uj vn n 
+0
+POS tags: v m n r m n 
+1
+POS tags: r n r uj n vn r s uj n 
+1
+POS tags: v r v n 
+1
+POS tags: c r v v n k uj vn n 
+1
+POS tags: n p n uj n d d v r n m 
+1
+POS tags: p n v n v vn vn 
+1
+POS tags: v n c n v vn uj n 
+0
+POS tags: n t n a 
+1
+POS tags: c r uj n c n v v d v 
+1
+POS tags: d v v v r uj n 
+1
+POS tags: d v v v 
+1
+POS tags: r n vn v p r v r n 
+0
+POS tags: v un n un c v un n un d v r uj un v n un v 
+1
+POS tags: r v r n b vn v d a uj 
+1
+POS tags: v v r r n 
+1
+POS tags: r n d v d r vd v d v a uj n 
+0
+POS tags: a uj n n r q n v r d v v uj 
+1
+POS tags: r v v n nt 
+1
+POS tags: n v n v d nz 
+0
+POS tags: r uj n v n vd uj 
+0
+POS tags: r d v r un n un n 
+0
+POS tags: p n r n v d ad uj 
+1
+POS tags: r n r p vn v r uj n 
+0
+POS tags: r p ns m n uj n v 
+1
+POS tags: c un nz v un c d v n 
+0
+POS tags: r n d v 
+1
+POS tags: c d vn v uj v 
+0
+POS tags: p r nz v r d v uj n 
+1
+POS tags: n k uj v d v v n uj f v v m n n 
+0
+POS tags: r d v l ad 
+0
+POS tags: r v n uj t v ns v 
+0
+POS tags: v r v n v r uj vn 
+1
+POS tags: r v v f v v r 
+1
+POS tags: n t n uj a 
+1
+POS tags: p t n v 
+0
+POS tags: r n r v v m r uj t 
+0
+POS tags: n v n n 
+1
+POS tags: n d v v n n 
+1
+POS tags: r v v n n 
+0
+POS tags: r v r v v r 
+0
+POS tags: d vn v n uj n v r s n v uj r 
+0
+POS tags: d r n d v l 
+1
+POS tags: r uj p r n uj n v r 
+1
+POS tags: un v v m q n r un 
+0
+POS tags: p vn vn 
+1
+POS tags: p nt n f 
+0
+POS tags: p nt n 
+0
+POS tags: p v uj l v q n 
+1
+POS tags: vn v nr v uj y 
+0
+POS tags: r v ns m 
+1
+POS tags: c n v v t n uj t 
+1
+POS tags: p n uj vn 
+0
+POS tags: r n v ns vn 
+0
+POS tags: m n uj n vn n uj v 
+1
+POS tags: r a uj 
+0
+POS tags: n uj n n d v l 
+1
+POS tags: r ng vn 
+1
+POS tags: r uj s d v r r uj n 
+0
+POS tags: p n f r uj n v v 
+0
+POS tags: t r v p r uj nz v v v 
+1
+POS tags: r d uj v v 
+0
+POS tags: d d v nz vn 
+1
+POS tags: d d v v uj 
+1
+POS tags: r d d v r uj n c r uj a uj n 
+1
+POS tags: n v v r d d p v r uj n uj n n 
+0
+POS tags: r n v 
+0
+POS tags: c nz n uj v v v d v v r 
+1
+POS tags: r r n uj v v v n uj 
+1
+POS tags: d vn v n 
+0
+POS tags: d vn nr v f vn uj n 
+1
+POS tags: p r v t uj t v m v uj t v 
+0
+POS tags: r v v n a v n n 
+1
+POS tags: c p n v uj n v 
+0
+POS tags: c r a r a f d v r uj n 
+1
+POS tags: p v r n 
+0
+POS tags: d v r v 
+0
+POS tags: c un n un v a 
+1
+POS tags: r n v n r n v m q n uj v c 
+0
+POS tags: r d v uj n v d v n n uj n 
+0
+POS tags: v n n uj n 
+1
+POS tags: r d v ns m a v v nz 
+0
+POS tags: n ns d v ad v v uj m a uj n 
+0
+POS tags: r v t v v m n v v v uj n c n 
+0
+POS tags: c t uj n n v v m q n 
+1
+POS tags: v m n d v n vn n f v v v 
+1
+POS tags: n d v v r n d v n r v uj m n uj n 
+0
+POS tags: r p n v v v nr uj vn 
+1
+POS tags: p ns ns s v v v m n 
+1
+POS tags: c r t a un n n a vn v n uj n 
+0
+POS tags: r v t n r a uj n k uj n d d 
+1
+POS tags: d p n f vn v 
+1
+POS tags: n v v d an uj n c v v n vn r 
+0
+POS tags: p r v 
+1
+POS tags: d a n n p n a 
+0
+POS tags: p l d v a uj v 
+0
+POS tags: c n m n uj s v uj m q n 
+1
+POS tags: d r v r d an uj 
+1
+POS tags: n v v n v d v p n f v uj n 
+0
+POS tags: n v v d v v n uj an c r vn uj n v 
+0
+POS tags: c t r v p ns v nz c v ns n 
+1
+POS tags: r n p n uj n v v n uj vn 
+0
+POS tags: r d v n d a y 
+0
+POS tags: c p n v v m an n c n 
+1
+POS tags: r c v ns uj n n v 
+0
+POS tags: d n v n v uj 
+1
+POS tags: r t v v m n f uj n 
+1
+POS tags: v r m v v nz 
+1
+POS tags: d v v r v q a n 
+1
+POS tags: v p ns d v v 
+1
+POS tags: t r d v v v r v uj n v 
+0
+POS tags: r s d v b uj 
+1
+POS tags: p v n f uj n uj n d v vn n d v v r n uj a v 
+1
+POS tags: n v v d v n d p n uj s 
+1
+POS tags: r c m q ns n n vn un m n un v p r ns uj n uj n d a 
+1
+POS tags: r v t uj t uj n d v ns 
+0
+POS tags: v r v 
+1
+POS tags: r v v p r v d v c an uj n 
+0
+POS tags: v n v n v v 
+0
+POS tags: r n d v vn v a n n v n 
+0
+POS tags: c r d a v m n 
+0
+POS tags: r v r 
+0
+POS tags: v r v n 
+1
+POS tags: r uj n d v a v mt 
+0
+POS tags: r n v c v r n d v p n v 
+0
+POS tags: r uj n v n 
+0
+POS tags: n r v uj n p n d v v v r v 
+0
+POS tags: c d v f 
+1
+POS tags: c r d n v nr v v 
+0
+POS tags: n v n vn uj n 
+1
+POS tags: r v n v n v v nr uj 
+0
+POS tags: r d v v v r p r an uj n f v 
+1
+POS tags: c t r v p ns v nz c v ns n uj 
+0
+POS tags: r d v r d v v v n uj n v 
+1
+POS tags: r v v uj n 
+0
+POS tags: n en v vn v d n 
+0
+POS tags: r t uj vn d v a uj v v ns v v 
+0
+POS tags: n v vn v d v 
+0
+POS tags: d v n k uj v n uj n 
+0
+POS tags: v n 
+1
+POS tags: v m n p n v n m d v v v uj n 
+0
+POS tags: r n nr r a un q 
+1
+POS tags: r t v ns uj n v un r n n k c n v v uj n 
+1
+POS tags: c r l uj n n 
+1
+POS tags: r n d v v v 
+1
+POS tags: r d q an uj n 
+0
+POS tags: n d v p n v v p vn n 
+1
+POS tags: un n un v n c d m 
+0
+POS tags: d v v v v v n 
+0
+POS tags: r c a 
+1
+POS tags: v v v 
+1
+POS tags: p s uj n d n m 
+1
+POS tags: p v d v n uj n 
+0
+POS tags: n v v v n n v n 
+0
+POS tags: n v un n uj nz v n un 
+1
+POS tags: c r d v r uj vd v 
+0
+POS tags: n d v v n uj n v a uj 
+1
+POS tags: r d v v v d v n 
+0
+POS tags: v f m n p ns v n n 
+0
+POS tags: n v d p n uj v v a vn uj n 
+0
+POS tags: c v v ns n n 
+0
+POS tags: n v n v r uj v n 
+1
+POS tags: n n c r 
+0
+POS tags: r v n v r p r v n d v v m q vn 
+0
+POS tags: d v n 
+0
+POS tags: n d v q vn uj n 
+0
+POS tags: d r v d d an 
+0
+POS tags: r v a n 
+1
+POS tags: p r n v 
+0
+POS tags: p r n v n 
+1
+POS tags: c p n v n uj vn v v m n 
+0
+POS tags: r v r n c n f n r v c v uj n v 
+0
+POS tags: r v v v r an v v n uj n 
+0
+POS tags: n v r n vn s uj n 
+0
+POS tags: b v uj n n d v v r a 
+1
+POS tags: v n c n v p n uj an d an 
+1
+POS tags: p n t uj n 
+1
+POS tags: r v p t v v v n uj n c n n 
+1
+POS tags: b n uj n v d a uj 
+1
+POS tags: v r v m n uj vn m 
+0
+POS tags: p n v uj v 
+1
+POS tags: r r u vn f d v v v 
+0
+POS tags: v r v r v uj 
+1
+POS tags: n p r q n f d v v 
+1
+POS tags: c r nr uj n d v vn v 
+1
+POS tags: p r n en v n nz n uj n 
+1
+POS tags: d v v n 
+0
+POS tags: v n 
+0
+POS tags: t r v n n v v d nz f 
+1
+POS tags: r d v n v 
+1
+POS tags: p m n p v v 
+1
+POS tags: r n mt v uj n n ns 
+0
+POS tags: r n v vn 
+1
+POS tags: n d v q vn uj m q n 
+0
+POS tags: p vn n an c n n un v vn p n v 
+0
+POS tags: v p n an c n n uj vn d v a 
+1
+POS tags: p n v ng f 
+0
+POS tags: v r m n v n p r v n d a v uj 
+0
+POS tags: r d a 
+1
+POS tags: v v n n v uj n r 
+0
+POS tags: c n t d v uj v r uj an 
+0
+POS tags: n n r vn uj n 
+1
+POS tags: c v n k d v v 
+0
+POS tags: n v n uj n 
+0
+POS tags: v v n c v n 
+0
+POS tags: d v l uj n p v r uj n d v v n uj n 
+0
+POS tags: r v v q n v v n f uj n uj n 
+0
+POS tags: p d v n uj n 
+0
+POS tags: r d a v n 
+0
+POS tags: d d ad v n n 
+1
+POS tags: p m n n n 
+1
+POS tags: c d d v m v r n 
+1
+POS tags: c nz v r p r uj vn v v m 
+1
+POS tags: c m n v n uj n v d v 
+1
+POS tags: r v v nt v v q n 
+1
+POS tags: r v vn r vn vd v 
+0
+POS tags: n r uj n n mt p n n n v uj vn f v uj 
+0
+POS tags: r v v c v v uj n uj n 
+0
+POS tags: r r n p m n v n vn 
+1
+POS tags: p t uj n c v ad vn uj n c n a 
+1
+POS tags: r n n r v n uj 
+0
+POS tags: n c d v m n v r v 
+1
+POS tags: mt df d v i 
+1
+POS tags: t n n uj a 
+1
+POS tags: c n v uj n v v p r u n v v 
+1
+POS tags: nz d n n n f v z uj n 
+0
+POS tags: s v 
+1
+POS tags: n c n v v m n s v uj m vn 
+0
+POS tags: r c m q ns n n vn un m n un v p r ns uj n uj n d a 
+1
+POS tags: r v m q v uj i uj n 
+0
+POS tags: n v vn 
+1
+POS tags: c v r vq v m n 
+0
+POS tags: d n c v m m n d v n uj n 
+0
+POS tags: r r p v v vn 
+1
+POS tags: d v v m q n v r n q v 
+0
+POS tags: n d v v 
+0
+POS tags: c vn v r uj n uj n 
+1
+POS tags: r d v v r y 
+1
+POS tags: c n v l 
+1
+POS tags: v n v v 
+1
+POS tags: v un n un v n d uj nz q 
+0
+POS tags: r q n uj m n 
+0
+POS tags: v n n v b uj v 
+1
+POS tags: m q v n c n uj n uj n 
+1
+POS tags: r v vn r v un v un v n uj 
+0
+POS tags: n r a d d v 
+1
+POS tags: f p r v n v 
+0
+POS tags: l r 
+1
+POS tags: r r n p d m n v n vn 
+1
+POS tags: r r n d v v r v v v v r 
+1
+POS tags: n uj n d v v v 
+0
+POS tags: r mt df v r m vn e 
+0
+POS tags: l v a uj 
+0
+POS tags: v n c n p n uj an d an 
+1
+POS tags: c n v m n v v m q d a c an uj n 
+1
+POS tags: r uj n k r t v n s v n c r n v 
+1
+POS tags: p r q n uj m n 
+0
+POS tags: d v n a uj n 
+1
+POS tags: c r d d v v p n c v mt uj n 
+1
+POS tags: p r n un v un r n v m q f v n n uj n 
+0
+POS tags: d v n 
+0
+POS tags: v v v 
+0
+POS tags: r v v t v s vn 
+0
+POS tags: p r v d n uj v d nz f d v 
+0
+POS tags: p v v v uj n v 
+0
+POS tags: p m d r n v d v v r a uj n 
+0
+POS tags: r n r uj n n un q 
+0
+POS tags: v r d v r v v n uj n 
+0
+POS tags: v n uj v z v v r mt 
+1
+POS tags: mt v m q v 
+1
+POS tags: c p r m v d d v v 
+0
+POS tags: d v m a n v uj n 
+1
+POS tags: r n uj m q n n n v v un n n uj v uj vn un 
+0
+POS tags: p u n n uj u 
+0
+POS tags: d v z n v p n 
+0
+POS tags: c d v m uj an 
+0
+POS tags: v n v 
+0
+POS tags: p r vn a uj m n v r d a uj n 
+0
+POS tags: vn v v vn n 
+0
+POS tags: n v n 
+1
+POS tags: n v n v v 
+1
+POS tags: r d ad v 
+1
+POS tags: n t v 
+0
+POS tags: r v b d v v r n 
+1
+POS tags: p r v a v uj v v vn m n uj n v n v 
+0
+POS tags: l v l 
+1
+POS tags: n m v 
+0
+POS tags: r i 
+1
+POS tags: n d vd c r m n v v 
+0
+POS tags: d p v r v uj n 
+1
+POS tags: r v v p n uj j n v v 
+1
+POS tags: r v v f n f d v ns v 
+1
+POS tags: r l uj 
+1
+POS tags: p un n uj n v n v uj 
+1
+POS tags: r n uj n p nz d k n 
+1
+POS tags: r q v n v q n 
+0
+POS tags: p vn r v 
+0
+POS tags: c t r d v 
+0
+POS tags: c d v r an 
+0
+POS tags: n n m v vn an 
+1
+POS tags: c v r uj ns 
+0
+POS tags: v v n a v n c r m n df d v n v v v 
+1
+POS tags: r n v d vd uj 
+1
+POS tags: m v vn f d v d a uj t 
+1
+POS tags: d p n vn v n uj 
+0
+POS tags: r p r uj vn d a e 
+1
+POS tags: v n n n v vn p r d a 
+0
+POS tags: ns n d n v v uj n 
+0
+POS tags: n 
+1
+POS tags: r n v n a uj n v r v m v r 
+0
+POS tags: n p r l v n v uj n a c r uj n uj vn p n v v 
+1
+POS tags: r uj n v v ns vn 
+1
+POS tags: r v v v v r uj 
+0
+POS tags: m n c n n v r n vn 
+0
+POS tags: c r uj v n v d n v 
+0
+POS tags: r v m n 
+0
+POS tags: r n v v r v m n uj 
+1
+POS tags: t r v v n n uj n v d v 
+0
+POS tags: r m n v v d v v nz q 
+1
+POS tags: c v m n uj vn d v v uj n v n 
+0
+POS tags: n v vn 
+0
+POS tags: n d n uj m n 
+0
+POS tags: r d nr a nz n uj z n n 
+0
+POS tags: r r d v un v t un v vn 
+0
+POS tags: p r vn a uj n n r uj n 
+0
+POS tags: c r d v m 
+1
+POS tags: nz n v n v n v v 
+0
+POS tags: t r v r uj n c v uj n 
+0
+POS tags: d v r a uj n 
+1
+POS tags: v t uj n v a uj 
+1
+POS tags: d v v ns n uj 
+0
+POS tags: n c t n uj vn 
+0
+POS tags: r d v c r n vn d a 
+0
+POS tags: v n v uj n d m 
+1
+POS tags: r m f v mt uj v 
+1
+POS tags: t l a uj v n r v v f r a 
+0
+POS tags: r r n n nr n v v r an 
+1
+POS tags: p n n uj nz n v m nr v j n 
+0
+POS tags: r v v p n uj n 
+0
+POS tags: r n n d m v 
+1
+POS tags: r d v t r p n v v d a 
+0
+POS tags: vn nz uj a p nr mt v vn nz 
+1
+POS tags: d n v m n 
+1
+POS tags: v v n v v n 
+1
+POS tags: c p n f uj n d v b uj 
+0
+POS tags: v p n an n v 
+1
+POS tags: d v n uj v 
+0
+POS tags: c mt uj t uj r m n 
+0
+POS tags: n p r q n d v v 
+0
+POS tags: l 
+1
+POS tags: t uj r uj vn v d v r uj n 
+0
+POS tags: r v n d v v 
+0
+POS tags: n r d vn uj n en un 
+0
+POS tags: r uj n k v n v r 
+0
+POS tags: c r v a vn nz f uj n 
+1
+POS tags: r v f v m n v 
+0
+POS tags: c v d n uj n v v n nz 
+1
+POS tags: v n ad n v v uj 
+0
+POS tags: d v r p ns uj vn v 
+1
+POS tags: r r uj n v v v an uj 
+0
+POS tags: v v vn 
+0
+POS tags: n v r n vn r uj n 
+0
+POS tags: r n v v uj n n 
+1
+POS tags: v n nz v n v d a uj n 
+0
+POS tags: f v r v n uj n d p vn 
+1
+POS tags: v r v d u 
+1
+POS tags: c r d d v v n d 
+0
+POS tags: v v v nr uj 
+1
+POS tags: c r d n vn r d nr v r 
+1
+POS tags: v nz n d v l uj n v 
+0
+POS tags: v r v r n d a 
+0
+POS tags: c d n n p n v n 
+1
+POS tags: r v p s v d v n uj n 
+1
+POS tags: d v n d vn v p r d a uj vn n 
+1
+POS tags: v p r vn a uj m n v r n 
+0
+POS tags: v n n v 
+1
+POS tags: r uj m n v d v m n n uj n 
+0
+POS tags: n d v q vn uj n 
+0
+POS tags: i uj n 
+0
+POS tags: r r n n v n vn 
+0
+POS tags: r n r uj n d v p v n v v c v n 
+1
+POS tags: v p r c n v v 
+1
+POS tags: r p s v y 
+0
+POS tags: d uj s m v q n 
+0
+POS tags: r v n nt 
+1
+POS tags: p r v n v v 
+1
+POS tags: r r v v v r uj l v v r uj n 
+0
+POS tags: c r r r n d v v 
+1
+POS tags: v v p n nz n uj n vn 
+1
+POS tags: r d nr a nz n uj z n n 
+0
+POS tags: r v r d v n uj vn 
+0
+POS tags: n f uj n d vn n 
+0
+POS tags: v m q n d d v v 
+0
+POS tags: n a uj n d d v 
+0
+POS tags: c r n v p n v 
+0
+POS tags: v vn r uj n v 
+0
+POS tags: r t d v v v q t 
+0
+POS tags: t p ns v m n 
+0
+POS tags: ad v uj n 
+1
+POS tags: r p r n v v mt uj n v 
+1
+POS tags: r v n v d v r p r v n d v v m q vn 
+0
+POS tags: r p r n v v un v un uj n 
+0
+POS tags: n v r p n 
+1
+POS tags: r r n v mt n p n n uj n s v uj 
+1
+POS tags: p n uj v n v v v r uj n v 
+1
+POS tags: v m n v p r vn d n v r n p v 
+1
+POS tags: c c n m n d v 
+1
+POS tags: d v 
+1
+POS tags: d vn v n uj n p v r s n v uj r 
+1
+POS tags: d v v r n n u v n v 
+0
+POS tags: p d v uj n v 
+0
+POS tags: n v r uj n r uj n uj 
+1
+POS tags: m v p n uj n m 
+0
+POS tags: p f v n p n uj n uj v v j uj vn 
+0
+POS tags: r v r q n p r v d a 
+0
+POS tags: n v n v n 
+1
+POS tags: r d r v r c r n m 
+0
+POS tags: p r n r d v 
+0
+POS tags: c nz n r n v n v uj nz n m 
+0
+POS tags: d d v v 
+0
+POS tags: v r r v r 
+0
+POS tags: r v vn 
+1
+POS tags: r v v uj m q n 
+0
+POS tags: r r n n nr n v v r an 
+1
+POS tags: d un n un v d d v 
+0
+POS tags: p p n v n 
+1
+POS tags: c r v vn v n 
+1
+POS tags: c v n uj vn n v vn l uj n 
+0
+POS tags: v n n 
+1
+POS tags: n nz r p n vn uj 
+0
+POS tags: r d a 
+1
+POS tags: a uj n v m v v v uj 
+0
+POS tags: v r d d v r n 
+1
+POS tags: r v p r uj v n d n 
+1
+POS tags: n v v v r uj v n 
+1
+POS tags: c n v n vn v 
+0
+POS tags: t r d v r r v 
+1
+POS tags: r v r uj n 
+1
+POS tags: d v v v b n n 
+1
+POS tags: un v un n v r v d a v 
+1
+POS tags: r n k v r n 
+1
+POS tags: p r v r v q r v uj b uj un n un 
+1
+POS tags: p v r v c v uj 
+1
+POS tags: c t uj n d v r v v v 
+1
+POS tags: n k d v m p n m v 
+1
+POS tags: r n v v m v 
+0
+POS tags: d t ns v v uj n r m 
+1
+POS tags: n v ns uj m d uj n f 
+1
+POS tags: c p r v a 
+1
+POS tags: n r v ns ad a uj 
+1
+POS tags: p n n uj n uj vn 
+0
+POS tags: n v uj n d d vd r n uj n a v 
+1
+POS tags: r q n f uj n p n uj v v v vn n v 
+0
+POS tags: p r j q uj n v r n uj n 
+1
+POS tags: v vn uj a uj n 
+1
+POS tags: r q n f uj n p n uj v v v vn n v 
+0
+POS tags: r r d v t v n v v v uj n 
+1
+POS tags: p t n v n n n uj vn 
+0
+POS tags: d v uj v n k p v v uj v v 
+1
+POS tags: v m n n d v p un n un n v ad v c d v v 
+0
+POS tags: r d v n v 
+1
+POS tags: n r m n m d a uj n v n n 
+1
+POS tags: v ns v v r n f 
+1
+POS tags: c r uj n v n vd d vd v v r uj n 
+0
+POS tags: an 
+0
+POS tags: r v v n uj v d v m q n 
+0
+POS tags: n v d p n uj v v a vn uj n 
+1
+POS tags: r uj n d v v 
+0
+POS tags: n d a n v 
+1
+POS tags: mq v n c r uj v 
+1
+POS tags: r t v v p m n a nz nz v 
+1
+POS tags: c r uj m n v v m d v v 
+0
+POS tags: l 
+1
+POS tags: v r nz uj n 
+1
+POS tags: r uj n uj n v n 
+1
+POS tags: c p f n v n k nr v 
+0
+POS tags: m nz v v un n un 
+0
+POS tags: n un un v v an r b un 
+0
+POS tags: r uj m n d v m n n uj n 
+1
+POS tags: r v p r n d v uj n i uj n 
+1
+POS tags: c n v v r r n d p v uj n 
+1
+POS tags: s v n uj 
+1
+POS tags: r r n m n m q m p a uj v v r v 
+1
+POS tags: r n p n c n f v p un v un uj n 
+0
+POS tags: r v t uj n uj n v v n m q vn 
+1
+POS tags: r n c vn p p r v uj d ad 
+1
+POS tags: v v v v uj v v 
+1
+POS tags: p v n uj n uj n d v vn n df v v r n uj a v 
+1
+POS tags: ns d un v n m n 
+1
+POS tags: vd n d v v 
+1
+POS tags: f r d v r v v n 
+1
+POS tags: r d vd uj v 
+1
+POS tags: r n v f d v v 
+1
+POS tags: r v nr n 
+1
+POS tags: d v v 
+1
+POS tags: v v f uj r a 
+0
+POS tags: r n m v r r v m q n d v p r r v v 
+1
+POS tags: r v v un v un uj 
+0
+POS tags: l 
+0
+POS tags: r t d v vn 
+1
+POS tags: n v uj 
+1
+POS tags: t r p ns n n nz 
+1
+POS tags: r n r d v l 
+1
+POS tags: r c p r d n p r d n 
+0
+POS tags: c r r m v v r v v 
+1
+POS tags: p r d d v 
+1
+POS tags: r v n c n n v 
+1
+POS tags: r d v ns uj n d v v v r uj n 
+1
+POS tags: l v r uj a 
+0
+POS tags: p n p r d a 
+1
+POS tags: d v n uj n uj v 
+0
+POS tags: r v p v p n v n 
+0
+POS tags: v d uj n v p v n 
+1
+POS tags: d v r uj v 
+0
+POS tags: r v un n un v a uj 
+0
+POS tags: r q n d v r n 
+0
+POS tags: v t n 
+0
+POS tags: r d v un n v v an 
+1
+POS tags: t v v r d d v r r r r v 
+0
+POS tags: r v n vn p n v 
+1
+POS tags: r c n v d v r n n 
+0
+POS tags: v r v d v 
+0
+POS tags: r d v d v vn 
+1
+POS tags: r v n n n v f p nt v n 
+0
+POS tags: v n nz uj n v v ns v vn v 
+1
+POS tags: r uj a a uj n d p r r a uj n v v v 
+1
+POS tags: l v t d v m q v v 
+0
+POS tags: n un n un c v v n n uj n n d v 
+1
+POS tags: c n v n n s vn uj n 
+0
+POS tags: v n d a d v 
+1
+POS tags: c n v d v v 
+0
+POS tags: m n c d an uj t 
+0
+POS tags: v ns a n r v v r p n uj v d v v 
+0
+POS tags: r v f uj n m a 
+0
+POS tags: d p n vn uj n uj m r v 
+0
+POS tags: c d r uj f v r an vn 
+0
+POS tags: c n p v r n v v v 
+1
+POS tags: v a v v 
+0
+POS tags: r uj n p r v v r uj vn 
+1
+POS tags: r v p vn nz nz c v n vn 
+0
+POS tags: p n uj n r f nz f 
+0
+POS tags: v d a 
+1
+POS tags: r d v p s nr v d v 
+1
+POS tags: rr p r v l 
+0
+POS tags: r v ns f 
+0
+POS tags: d v v v p n an uj v c p t a uj v c v vn uj n uj 
+0
+POS tags: n v 
+0
+POS tags: v n n n v v uj 
+1
+POS tags: r n d v m n 
+0
+POS tags: vn n v 
+0
+POS tags: c r v v n uj n c v uj 
+1
+POS tags: r n n p r v 
+1
+POS tags: v uj nz v n 
+1
+POS tags: v v mq n v uj 
+0
+POS tags: r n m n y 
+0
+POS tags: v un n un 
+0
+POS tags: p a uj n r d v r r uj vn 
+1
+POS tags: d v f 
+0
+POS tags: r v n uj n v v v 
+1
+POS tags: v v mt uj n 
+0
+POS tags: r v r v vn r n vn 
+0
+POS tags: r n p mt q uj n d v v 
+1
+POS tags: r uj m n p n v v 
+0
+POS tags: n uj v d v f r a v 
+1
+POS tags: c r v n r v n v r n 
+0
+POS tags: c r uj n v n vd d vd v r uj n 
+0
+POS tags: r v n uj an d a 
+0
+POS tags: c p r m v d d v v 
+1
+POS tags: v v v 
+0
+POS tags: c v r ns 
+1
+POS tags: v n v p n uj an 
+0
+POS tags: c s d v ns n 
+0
+POS tags: c r v n v v 
+1
+POS tags: l v v d m uj n 
+0
+POS tags: r c i 
+0
+POS tags: v v 
+0
+POS tags: v n uj n 
+1
+POS tags: c v n n uj n 
+0
+POS tags: c vn v uj v 
+0
+POS tags: d v r uj n 
+0
+POS tags: p n ad uj n f n d m 
+0
+POS tags: n p v f m d n n uj vn c vn v v uj 
+0
+POS tags: r r v m q n 
+1
+POS tags: r v un v un d v n uj n r 
+1
+POS tags: r mt q uj n v n v v ng v 
+0
+POS tags: t r d v n v r v un v un 
+0
+POS tags: p r n v d v v d vn uj n c v n 
+0
+POS tags: p r v uj n f v m n 
+0
+POS tags: v n uj 
+1
+POS tags: v d d v v r n 
+0
+POS tags: t uj n f d d v r 
+1
+POS tags: m n n vn p m d v ng uj n f 
+0
+POS tags: c n v d v r d uj n 
+0
+POS tags: r t p ns vn 
+1
+POS tags: c v p n n v n 
+0
+POS tags: r vn r f uj vn v vn z uj 
+1
+POS tags: p r v 
+1
+POS tags: c r d n v vd v v en c en d v v m v uj n 
+0
+POS tags: v r r uj n v v uj n v v s uj n v a 
+0
+POS tags: p ns uj m n v v p s v n uj n p v uj n 
+0
+POS tags: c c v m n d v 
+0
+POS tags: n t uj n v v f uj vn v uj n 
+0
+POS tags: f r v n v 
+1
+POS tags: n c v i 
+0
+POS tags: f r p n v r n 
+0
+POS tags: p r uj vn v d a uj 
+0
+POS tags: p r vn a uj m n n r uj n 
+0
+POS tags: r v n f uj vn n 
+1
+POS tags: c n d nz vg n uj n un n un n v v 
+1
+POS tags: l v 
+0
+POS tags: n r n d v v 
+0
+POS tags: r v 
+1
+POS tags: r v nz n 
+1
+POS tags: r v p r uj vn f n v n uj 
+0
+POS tags: d v n d v 
+0
+POS tags: n vd v n uj 
+1
+POS tags: n v n n v uj 
+1
+POS tags: c q v a n v m a uj n 
+0
+POS tags: p r uj n 
+1
+POS tags: r d v r uj n 
+0
+POS tags: r uj n v n v v a uj v 
+0
+POS tags: d v r r a 
+1
+POS tags: r d v v m n c n uj v vn r 
+0
+POS tags: v n v 
+1
+POS tags: c r n v v n v n 
+0
+POS tags: c vn n v r vn f v uj n 
+1
+POS tags: v ns a n r v v r uj p n uj v d v v 
+1
+POS tags: r d v v v c n n v uj c v v v f vn 
+0
+POS tags: un n n v n vn un r q n n v uj r n uj m n n un un n v an uj 
+1
+POS tags: v v r uj n m 
+0
+POS tags: v v v n nr uj an 
+1
+POS tags: d v v un v un n k v n u u 
+0
+POS tags: r d v v m n c n v vn r 
+0
+POS tags: nt vn n uj vn v ad 
+1
+POS tags: n p n n uj n v nr n d v n uj n 
+0
+POS tags: r d a 
+0
+POS tags: a v uj n n z uj v n u 
+1
+POS tags: c v p r n f d a uj n 
+1
+POS tags: p r vn m q n 
+0
+POS tags: v vn r v 
+0
+POS tags: c t n v v mq n p v n c v 
+0
+POS tags: nz n d p v m n v t uj n d d a 
+1
+POS tags: r n v r n 
+1
+POS tags: v d i n v d n 
+1
+POS tags: r r r v uj n 
+0
+POS tags: r v vn r v un v un v n 
+0
+POS tags: v p n v p s uj n v d a 
+0
+POS tags: r v n uj n d v n k s v vn 
+1
+POS tags: v r v v n 
+0
+POS tags: v d v d v r n an uj vn 
+1
+POS tags: p r v v n a v n n 
+1
+POS tags: nz d vn n 
+1
+POS tags: r vn n uj f 
+0
+POS tags: r v n v v v uj 
+0
+POS tags: ad n v v uj n p r uj n d v n uj n 
+1
+POS tags: r r d v t v v n v v v uj n 
+1
+POS tags: r f p n v v n p d n uj n d a 
+0
+POS tags: r uj v v n v v vn 
+1
+POS tags: n d m uj v n v v 
+0
+POS tags: p n d v 
+0
+POS tags: v v v n v n uj m q ad n 
+1
+POS tags: t r v v n uj vn 
+0
+POS tags: r n mt q 
+0
+POS tags: v m n 
+0
+POS tags: r d a n v un r v d d ad 
+1
+POS tags: n v nz a n v v n v n 
+0
+POS tags: d a uj v v r vn 
+0
+POS tags: r d v v r 
+1
+POS tags: f d p ns v v 
+1
+POS tags: d p n n v 
+1
+POS tags: d an r d r v v vn v uj n y 
+0
+POS tags: r v n n c n d d d vn n 
+0
+POS tags: m q n n v an v l uj n 
+1
+POS tags: v v n f v d v vn 
+1
+POS tags: r d b c ad v vn r uj vn v v n 
+0
+POS tags: v m n d v n vn n f v v 
+0
+POS tags: r v v nz c r v r vn 
+1
+POS tags: v r uj n r m q n v v v d uj n 
+1
+POS tags: r v v t uj r m n 
+1
+POS tags: v m q ns n v r v nz v 
+1
+POS tags: c r d v q n u r 
+1
+POS tags: r v uj n r v v v ns 
+1
+POS tags: n f uj n d v q b uj 
+0
+POS tags: n v s v vn 
+1
+POS tags: r n p r d a uj 
+0
+POS tags: n d v vn 
+0
+POS tags: n v d n uj n v n 
+1
+POS tags: r d a v 
+1
+POS tags: p r v ns v nz n u 
+0
+POS tags: c r v p n v d v uj n d ad 
+1
+POS tags: d v n uj n l v n v 
+0
+POS tags: r n uj vn v v n 
+0
+POS tags: c r d ad v r 
+0
+POS tags: c r nr uj n d v vn 
+1
+POS tags: t uj n f d d v r uj 
+1
+POS tags: p n f v uj n v a 
+1
+POS tags: r n v r v un v r v mt n m 
+0
+POS tags: r p r n d k n 
+1
+POS tags: n s v n n d l 
+1
+POS tags: p n n v v 
+0
+POS tags: r d v r uj n c r uj a uj n 
+1
+POS tags: r n v r n d v v 
+1
+POS tags: c l v v 
+1
+POS tags: r v r d v n uj vn 
+1
+POS tags: u p n c n a uj n d v l 
+0
+POS tags: r v d n uj n n v n 
+1
+POS tags: p n uj n v d z v v uj n 
+1
+POS tags: n n p n v 
+1
+POS tags: v n p a m b n v a uj 
+1
+POS tags: n r n v rr v v 
+0
+POS tags: n d v ns 
+0
+POS tags: r v r vn d v mt 
+1
+POS tags: r v v r uj m n n 
+0
+POS tags: vn uj n t n v uj v n uj n 
+1
+POS tags: v a n d a 
+0
+POS tags: r v uj n v ns n ns 
+1
+POS tags: t r r t v uj v v y 
+0
+POS tags: r uj n d d v 
+1
+POS tags: p n an r 
+0
+POS tags: p r v n 
+0
+POS tags: r d r v r c r n 
+1
+POS tags: r v d r n uj n n v n 
+1
+POS tags: vd f d v rr n n 
+1
+POS tags: r d v q ad n 
+0
+POS tags: d n f v s n 
+1
+POS tags: p n n p m n v v v v uj 
+1
+POS tags: r v t uj n uj n v v n m q uj vn 
+0
+POS tags: mt d v v 
+0
+POS tags: v v n uj 
+0
+POS tags: v v v n 
+0
+POS tags: r vn p r d n 
+1
+POS tags: v n t n uj n uj n f m n r v n 
+1
+POS tags: r n n uj n d v v 
+0
+POS tags: c n v v v c p r uj an n 
+0
+POS tags: r v nz 
+1
+POS tags: d a uj v d v uj 
+0
+POS tags: r v d v p un n v n uj nz v n un r n v n 
+1
+POS tags: r v p ad vn v v a uj n v 
+0
+POS tags: n p n v v v v uj 
+1
+POS tags: m v r 
+0
+POS tags: r d d k n 
+1
+POS tags: c r v c v n m ad uj n v n un r v r v p a n uj v d v v m n 
+1
+POS tags: r v n m v v n 
+0
+POS tags: r v p t v v v n uj n 
+1
+POS tags: v v un n un 
+0
+POS tags: r v r v r 
+1
+POS tags: c n n p v r n v v v 
+1
+POS tags: v n uj n v v r n uj f uj n 
+1
+POS tags: p r uj t v 
+1
+POS tags: p y 
+0
+POS tags: v 
+1
+POS tags: r n v f r v m v uj i uj n 
+1
+POS tags: r p n uj vn d v i 
+0
+POS tags: c v r d v v 
+1
+POS tags: n n k uj n n d v n v b uj 
+0
+POS tags: c r v v r uj n c l v r uj v m q d v d an uj n 
+0
+POS tags: p n v n uj n n uj n v d n uj 
+1
+POS tags: v r mt n v v r v an n n uj n m ng v n n 
+0
+POS tags: p r v l v v n uj m n n 
+0
+POS tags: n d p n v nr r n 
+0
+POS tags: v m b p v c v uj 
+1
+POS tags: n n v n d v v n n 
+0
+POS tags: r v s a uj n 
+1
+POS tags: r v v uj n uj v d v m q n 
+0
+POS tags: f d v n 
+0
+POS tags: c n n d v v r v n 
+0
+POS tags: n v v r d d p v r n uj n n 
+1
+POS tags: d v v n n f 
+1
+POS tags: c r v r n d d d un n 
+0
+POS tags: p ns v n v ns n l 
+0
+POS tags: m n uj n 
+1
+POS tags: r d v v r n n v n 
+0
+POS tags: v n v n m 
+1
+POS tags: v n uj v v d d v v r v v d v an uj 
+0
+POS tags: n v n d d v n v 
+0
+POS tags: d v n 
+1
+POS tags: p r f f 
+0
+POS tags: r v un n un r n z vn v 
+1
+POS tags: r v c v v a n 
+0
+POS tags: t p ns v m n 
+0
+POS tags: r n d v v v l 
+1
+POS tags: c v v l d d v uj 
+1
+POS tags: v v v n v n uj m q ad n r 
+1
+POS tags: d v v nz q d uj 
+0
+POS tags: d v b n v uj a uj n v 
+0
+POS tags: v n n n vn p r d a 
+1
+POS tags: t p n v n uj n n a 
+1
+POS tags: d v v d v c d v uj n 
+1
+POS tags: r v t n v n uj v uj v 
+0
+POS tags: p r n 
+1
+POS tags: v t v 
+1
+POS tags: f v p v p n an uj vn uj r uj d ad uj n 
+1
+POS tags: n n v v vn v c v 
+1
+POS tags: c r n d nr v m uj 
+0
+POS tags: ns d n m n 
+0
+POS tags: c p r a 
+1
+POS tags: r r d v d v v v n 
+1
+POS tags: c mt d v v v 
+0
+POS tags: d p r v vn nz uj nr m 
+1
+POS tags: r v un r uj n c v a 
+1
+POS tags: r v p r n uj n n v r m q a uj vn 
+0
+POS tags: p r vn a uj m n v r uj n 
+0
+POS tags: t r m v v 
+0
+POS tags: r d v v 
+0
+POS tags: n v vn 
+1
+POS tags: c v d n p r n v n uj v 
+0
+POS tags: u r un i un d v p v nz 
+1
+POS tags: v uj d uj n v p v n 
+0
+POS tags: n n v v 
+1
+POS tags: c v p p n uj n n 
+0
+POS tags: r v p n 
+0
+POS tags: r q n f uj n p n uj v v vn n v 
+0
+POS tags: c v v n f r d v v vn uj an 
+0
+POS tags: r t t m v v ns 
+0
+POS tags: n r n n v v r uj n v uj 
+0
+POS tags: p r v ns v nz n 
+0
+POS tags: n v r v v n uj n c r uj vn 
+0
+POS tags: d r n uj n v v n uj v 
+0
+POS tags: d d v d v 
+1
+POS tags: r v a d q uj n v v n 
+1
+POS tags: v m n d d r p v v 
+1
+POS tags: p vn vn v 
+1
+POS tags: r r n d p s v v nz a uj n v 
+0
+POS tags: v uj n v v v uj 
+0
+POS tags: r p n m v v n 
+1
+POS tags: an uj 
+1
+POS tags: c n d v v r v q d v uj n 
+0
+POS tags: t r uj vn v d v r uj n 
+0
+POS tags: c v d a 
+1
+POS tags: m n v m n 
+0
+POS tags: n s v n n d p 
+0
+POS tags: r uj i 
+1
+POS tags: r v r vn d v a mt 
+0
+POS tags: c n v n n s v uj n 
+1
+POS tags: r n v v r v r n 
+1
+POS tags: d v v r m n d a v d v 
+1
+POS tags: n n p v vn n uj n v r ad uj v n 
+1
+POS tags: r uj t d r d d n 
+0
+POS tags: r v nz 
+1
+POS tags: c r v v r uj n c l v r uj n m q d v d an uj n 
+1
+POS tags: v un n un r m n v d n t n uj n 
+0
+POS tags: v uj v v n n uj m n 
+1
+POS tags: c t r v v r uj n 
+0
+POS tags: t n v n m 
+0
+POS tags: r n n d p n v 
+0
+POS tags: s p v uj n d m v 
+1
+POS tags: r n v a y 
+0
+POS tags: v r n p t n d a 
+1
+POS tags: p n n vn uj n r p r v 
+1
+POS tags: d v v v uj 
+0
+POS tags: r d v r 
+0
+POS tags: d v 
+0
+POS tags: r n v n d v n b vn 
+1
+POS tags: p n vn c n uj vn 
+0
+POS tags: v nz vn c n 
+1
+POS tags: ns uj m n uj n f v m n 
+0
+POS tags: r n d v p v n v an 
+1
+POS tags: d r v m i uj n 
+1
+POS tags: l l uj n n n v p n v 
+1
+POS tags: r p r n v v n un v un uj n 
+0
+POS tags: r v ns n d v p r v uj 
+1
+POS tags: r p t uj un n un uj vn n q f v a n p n vn uj v 
+0
+POS tags: r n v f r v m i uj n 
+1
+POS tags: v f v n nr v 
+0
+POS tags: r v ad n vn 
+1
+POS tags: v v r uj ad uj vn 
+1
+POS tags: un vn un r n nz uj 
+0
+POS tags: r d v m n v r v 
+0
+POS tags: r d v r r v v 
+0
+POS tags: m v v v uj n n nz 
+1
+POS tags: r n r uj n d v p v n v v n c v n 
+0
+POS tags: r v q an uj n 
+0
+POS tags: n n uj v d v p r v n v v n uj n 
+1
+POS tags: v v v an uj n 
+0
+POS tags: c r n v v n vn 
+1
+POS tags: d v v v m d r n 
+0
+POS tags: p r f 
+0
+POS tags: d r n d v l 
+1
+POS tags: c r d v v 
+0
+POS tags: n uj vn d ad 
+1
+POS tags: r v n v v v v uj 
+0
+POS tags: q v n 
+1
+POS tags: v n k v p n v r uj n 
+1
+POS tags: r v n c v n uj n v v vn r 
+0
+POS tags: nz n d v l uj n v 
+0
+POS tags: r n v f a v 
+1
+POS tags: c v v vn 
+1
+POS tags: n v n v r v uj 
+0
+POS tags: p n c r uj an n v a uj n r n 
+1
+POS tags: r c a a 
+0
+POS tags: v m n m m n v v n 
+1
+POS tags: r vn nz v 
+0
+POS tags: v n 
+1
+POS tags: r n n n v n 
+1
+POS tags: r v p r n d v uj n v i 
+0
+POS tags: p r n un v un v m q f v n n uj n 
+1
+POS tags: n n n uj v n n v d v uj 
+1
+POS tags: p v f d v vn ns uj vn 
+1
+POS tags: n d v p a n v v n m ng 
+0
+POS tags: r r m n d d v d v v un v un v r a uj 
+1
+POS tags: r uj n n d v r vn uj n 
+1
+POS tags: a n m uj b v v uj n v d m m uj 
+1
+POS tags: v a v uj n n v uj 
+0
+POS tags: un n un v n d n uj n 
+1
+POS tags: n p r v n q d a uj vn n 
+0
+POS tags: c c r v v n nr uj an uj n f v v 
+1
+POS tags: n v nz p un v un uj n 
+0
+POS tags: c n v a uj 
+1
+POS tags: v r r uj n v v uj n v v s uj n v v a 
+1
+POS tags: c r n v n a 
+0
+POS tags: p n uj n v n 
+1
+POS tags: n d d p n uj v v a vn uj n 
+0
+POS tags: n uj an n 
+1
+POS tags: r v r v v m vn 
+0
+POS tags: r m d v v q a uj v 
+1
+POS tags: nz r v r v r 
+1
+POS tags: r v ns d v ad v v uj m a uj n 
+1
+POS tags: v v m q n 
+1
+POS tags: r v v v m q n 
+0
+POS tags: r d a r v nz c v r n v nz 
+1
+POS tags: v uj d v n uj n 
+1
+POS tags: r d v v v r uj n e 
+1
+POS tags: r v v nt v 
+1
+POS tags: df v v v m n 
+1
+POS tags: r p r v uj v nz d n v v 
+1
+POS tags: n d vd p r n v 
+1
+POS tags: un n un p u uj n v a 
+1
+POS tags: v v r n uj an uj n 
+1
+POS tags: c r uj t uj an d d v nr 
+1
+POS tags: c r v v vn p n v vn 
+0
+POS tags: r t d v 
+0
+POS tags: vn nz uj n v m 
+0
+POS tags: n r v n d n 
+0
+POS tags: d v v p v m v d v r v n uj 
+1
+POS tags: n v t n a 
+0
+POS tags: n p n v 
+0
+POS tags: r v v ns m q n n 
+0
+POS tags: r n d v l 
+1
+POS tags: r v v r un m un m un n 
+1
+POS tags: c r uj n n ad 
+0
+POS tags: a v 
+1
+POS tags: c d r uj f f v r an vn 
+1
+POS tags: v rr uj n an r 
+1
+POS tags: r p m n f v n v 
+0
+POS tags: mt n v v n 
+0
+POS tags: r r v r n d v 
+0
+POS tags: p r d v v vn 
+0
+POS tags: p r r d a v 
+0
+POS tags: n c vn 
+1
+POS tags: v n n s n y 
+1
+POS tags: c r d v n m v n c v 
+1
+POS tags: p r uj v v v v d v n c n 
+1
+POS tags: r v p r n v m v v r n uj n 
+0
+POS tags: f uj n p v 
+1
+POS tags: p r n f uj n n v n uj v n 
+1
+POS tags: c p v vn v v vn n uj n 
+0
+POS tags: r v n n v v v n 
+1
+POS tags: c n v n uj n 
+0
+POS tags: r n uj m q n n n v un n n uj v uj vn un 
+0
+POS tags: m nz v v uj 
+0
+POS tags: r d v v n n 
+0
+POS tags: v n uj v v d d v v r v v d v an 
+1
+POS tags: v t c n n v 
+0
+POS tags: r n a y 
+1
+POS tags: r v n n d v v 
+1
+POS tags: v r n n p t n d a 
+1
+POS tags: a q v n 
+1
+POS tags: d v uj n v v n uj n v d a y 
+0
+POS tags: r n r v v r 
+1
+POS tags: d n n n v uj 
+0
+POS tags: p r n d v vd uj 
+0
+POS tags: n v v d an uj n v v n vn r 
+1
+POS tags: r v r m q d v v s 
+1
+POS tags: t ns d v n uj n v 
+0
+POS tags: l 
+1
+POS tags: n n d v 
+0
+POS tags: c c r uj vn v uj n 
+0
+POS tags: d m n v v n 
+0
+POS tags: r v uj n 
+0
+POS tags: p r v a v uj v v vn m n uj n v n 
+1
+POS tags: r n r d v uj v p p ns uj vn r 
+1
+POS tags: n m q n f d v v v n p an uj n 
+0
+POS tags: m vn n uj vn vn 
+0
+POS tags: r v n v f n c f n uj n n 
+1
+POS tags: v n nz v c v ad uj n 
+1
+POS tags: r v n uj n v v v uj 
+1
+POS tags: p r n v d v v uj 
+1
+POS tags: n n d v v 
+1
+POS tags: r v r vn a uj 
+1
+POS tags: r p n m d v v v nz 
+1
+POS tags: n r s d d v v v 
+1
+POS tags: uj v f 
+0
+POS tags: n n uj n n 
+1
+POS tags: nz uj n v n uj d a 
+1
+POS tags: n v un n 
+1
+POS tags: n v n uj vn ad a uj 
+1
+POS tags: c v r uj vn n v a 
+0
+POS tags: p n n uj nz n m nr v j n 
+1
+POS tags: n n a uj 
+0
+POS tags: r n uj n v r vn ns n v 
+1
+POS tags: r v v v n 
+1
+POS tags: c r v a vn uj nz f uj n 
+1
+POS tags: d r n d v vn uj n 
+0
+POS tags: r uj n p r v v r uj vn 
+1
+POS tags: r uj n v v v n uj n 
+0
+POS tags: d p ns d d 
+1
+POS tags: c d v ns v 
+1
+POS tags: r v v a uj v n c v d v m n c d v d m n 
+1
+POS tags: v m n n p p n v n v 
+1
+POS tags: m n n v v n n 
+0
+POS tags: d v v 
+0
+POS tags: t d v v v d n n v uj n 
+0
+POS tags: c p vn v vn 
+0
+POS tags: v v n v v v 
+1
+POS tags: d v r v uj 
+0
+POS tags: p n uj n u 
+1
+POS tags: r v mt q d v r d v r r 
+0
+POS tags: m n n v v d v r c v r 
+1
+POS tags: r v r v 
+1
+POS tags: r v t d v v n c n n 
+0
+POS tags: r r uj n v n v an uj 
+1
+POS tags: c n d v v v v uj n 
+1
+POS tags: t f 
+1
+POS tags: r uj t vn d v 
+0
+POS tags: t p n v uj n n a 
+0
+POS tags: c v s v 
+0
+POS tags: r d r v 
+0
+POS tags: n v nz n 
+1
+POS tags: r n uj 
+0
+POS tags: v d v v r n 
+1
+POS tags: p ns v uj d v un n un uj n c n 
+0
+POS tags: c d v ns ns uj nt n n m q 
+0
+POS tags: r v v v 
+0
+POS tags: r m n v n uj a n 
+1
+POS tags: c r v v p n vn 
+0
+POS tags: f v p v p n an uj vn r uj d ad uj n 
+1
+POS tags: vn n uj 
+0
+POS tags: c m n p s v n f r v vn 
+0
+POS tags: r r m n d d v d v v un v un v r a uj 
+0
+POS tags: d v n uj vn 
+0
+POS tags: n v v r n 
+1
+POS tags: d r n t r v 
+0
+POS tags: n uj n v d d v 
+0
+POS tags: r v v uj an d 
+0
+POS tags: v v a n uj n 
+0
+POS tags: c t uj n d v r v v 
+1
+POS tags: v r v r n d a v 
+1
+POS tags: v v uj n a uj v nz n 
+0
+POS tags: r p m n f v n 
+0
+POS tags: r d v vn p r n f 
+1
+POS tags: p r uj vn v n uj 
+1
+POS tags: p r f 
+0
+POS tags: r uj n f v v v a c a uj n 
+1
+POS tags: r l r 
+1
+POS tags: r v n n b uj v v v 
+0
+POS tags: n v n v nz 
+0
+POS tags: c n v v r 
+1
+POS tags: s i c n n v v n uj s uj m n 
+1
+POS tags: m nz v v v un n un 
+1
+POS tags: v v mt r p nr vn mt f 
+0
+POS tags: n v v v r p r d v n 
+1
+POS tags: n l v p r uj v f v v d a 
+0
+POS tags: r d v n uj vn v 
+0
+POS tags: n uj nz f a v m v 
+0
+POS tags: r n r v v 
+1
+POS tags: n v v f r d r d c v 
+1
+POS tags: n v n vn v v a 
+1
+POS tags: c m q f v v uj un n un t d d v ns v 
+0
+POS tags: c n v vn 
+1
+POS tags: c n an n v v d v n n 
+1
+POS tags: r v r v un v vn un 
+1
+POS tags: n v n d vn d v ad 
+0
+POS tags: v v 
+1
+POS tags: c m v v n f r d v v vn uj an 
+1
+POS tags: d v r uj vn uj v r n 
+0
+POS tags: f r n v d nz n 
+0
+POS tags: r nz v 
+0
+POS tags: n v v n uj n uj a uj n 
+0
+POS tags: r d v 
+1
+POS tags: c d v p ns ns uj nt n n m q 
+1
+POS tags: c r uj n d v v r v n l 
+0
+POS tags: v p n v n n 
+0
+POS tags: n v r uj n n uj n vn n 
+1
+POS tags: n r vd n v r vn n 
+0
+POS tags: nz n p n v n v v 
+1
+POS tags: t n uj ad v d nz nr 
+1
+POS tags: un q r v ns v v m 
+0
+POS tags: r v v v a n 
+1
+POS tags: p r v 
+0
+POS tags: v n v v n 
+0
+POS tags: p r n n uj s 
+0
+POS tags: r n p n v d a 
+1
+POS tags: c p r uj n n v 
+0
+POS tags: t n f v uj n m 
+0
+POS tags: r v m m n uj n ad d v r v n 
+0
+POS tags: r uj n v n uj 
+1
+POS tags: n a uj 
+1
+POS tags: r d v r y 
+0
+POS tags: r v r n v p r uj n v n 
+0
+POS tags: nz vn n 
+0
+POS tags: c r v v n 
+1
+POS tags: v nz v r n c v vn d v v nz 
+1
+POS tags: c v d a v vn 
+1
+POS tags: v an v 
+0
+POS tags: t l uj v n r v v f r a 
+0
+POS tags: r d v r m q t r 
+1
+POS tags: un d v un v n v d ad uj v 
+1
+POS tags: n uj m n d v v p n v v uj n uj n 
+1
+POS tags: c a v n v r uj n c vn v 
+1
+POS tags: p v v v uj n v v 
+1
+POS tags: r v q a n 
+1
+POS tags: v v v v n v n uj m q ad n 
+0
+POS tags: r d v v uj n d v v a 
+0
+POS tags: v r n v v f d v vn r 
+1
+POS tags: n n c n v n r n 
+0
+POS tags: r uj n d an 
+1
+POS tags: d v v v p v m v d v r v n uj 
+0
+POS tags: c r v r uj n 
+0
+POS tags: vd v r v uj n 
+1
+POS tags: c m v v f 
+1
+POS tags: v r n c n s v uj n 
+0
+POS tags: v v r m n 
+1
+POS tags: p r c v q v p n v n uj n uj r uj n 
+0
+POS tags: n u d v d v l 
+0
+POS tags: f r n d v r n vn uj n 
+1
+POS tags: r p r v a d v n d a v uj n d v uj n 
+1
+POS tags: d v v r uj n v 
+0
+POS tags: p r v v b n uj n 
+0
+POS tags: r uj n d p r s v r 
+1
+POS tags: v ad n n 
+0
+POS tags: n p n uj n d d v r n 
+0
+POS tags: t t m 
+1
+POS tags: t d v m n n v 
+1
+POS tags: vn n uj v 
+1
+POS tags: r p r q n v n 
+0
+POS tags: c nz q n n v r v v v 
+0
+POS tags: c b uj v en n f un r v n v c n v 
+0
+POS tags: t v v r d d v r r r r v 
+0
+POS tags: r m n n n p r a y 
+1
+POS tags: r v uj n v ns f uj n f 
+1
+POS tags: r d v v v r an n 
+0
+POS tags: d d n vn n f v n uj n 
+0
+POS tags: r v r r v d v 
+1
+POS tags: a uj n vn r n 
+1
+POS tags: m ad v n uj n m 
+1
+POS tags: c r n v v v a 
+1
+POS tags: n vd v n n uj 
+0
+POS tags: d v nz uj n v k v m v 
+0
+POS tags: r n n p vn k n 
+1
+POS tags: v r uj n v r m q n v v d uj n 
+1
+POS tags: n v m an uj n uj n 
+1
+POS tags: t v d v v v d n n v uj n 
+0
+POS tags: n n uj t v v s uj m n un un ns 
+0
+POS tags: n v d v v uj 
+0
+POS tags: p v n uj n uj n d v vn n d v v r n uj a v 
+1
+POS tags: a v n uj vn 
+1
+POS tags: c d v v r 
+1
+POS tags: c t v d v p n v v 
+1
+POS tags: vn nz uj n d m v 
+1
+POS tags: r r p r uj n v v v 
+0
+POS tags: n v nz ad uj n 
+0
+POS tags: r n nr n 
+1
+POS tags: c v n d a d v 
+0
+POS tags: v v mq n v 
+0
+POS tags: d v v n v uj v uj n uj 
+1
+POS tags: n uj v d v f r d a v 
+0
+POS tags: v v m q z uj n uj n v 
+0
+POS tags: r v n uj n d v vn uj n 
+0
+POS tags: c r r n d v n c n 
+0
+POS tags: v v m n uj n 
+1
+POS tags: r uj n n d v v n n 
+0
+POS tags: p r uj vn f r a uj n 
+0
+POS tags: p r f 
+0
+POS tags: m n c m n 
+0
+POS tags: v n u a 
+0
+POS tags: r p un v un i 
+1
+POS tags: c p r v a vn nz f uj n 
+0
+POS tags: r r uj n v n n v n v v 
+1
+POS tags: d v n uj n c vn 
+1
+POS tags: t d v uj l uj n n v uj n c n n d v m uj an r uj un c r n f v v mt a uj n 
+1
+POS tags: c m n v v n f v vn 
+0
+POS tags: p n v u d v u uj 
+1
+POS tags: v q q v r n v r n 
+0
+POS tags: n n d v v v an 
+1
+POS tags: d p ns v d d 
+1
+POS tags: r v n n a uj n n n uj vn n 
+0
+POS tags: a uj n v a uj n n v 
+1
+POS tags: l v 
+1
+POS tags: a v uj n n z uj v n u uj 
+1
+POS tags: r v p a n v m n vn 
+0
+POS tags: p v vn f d v uj n uj n 
+1
+POS tags: r r v r d d vd v r v r r an uj n 
+1
+POS tags: d vn n d a 
+0
+POS tags: v n c n p n uj an d an 
+1
+POS tags: ad v v uj n 
+1
+POS tags: ns uj ns d v v p n uj v 
+1
+POS tags: v un p m v n a v uj n d v a vn uj n v m nr 
+1
+POS tags: r d v nz v v 
+0
+POS tags: r d vn n v n uj n 
+1
+POS tags: v r uj v d v t uj r v 
+0
+POS tags: c r v v r uj n v v a uj 
+1
+POS tags: n r d v v v r uj n d n d v v r uj m q v 
+1
+POS tags: r c n v v v n vn 
+1
+POS tags: n t v v d v 
+1
+POS tags: n k d p n v c v r 
+0
+POS tags: a uj n v v v v uj 
+1
+POS tags: d v v v 
+1
+POS tags: n v p n v v v n 
+1
+POS tags: p m n p v v v uj n 
+1
+POS tags: a v uj 
+1
+POS tags: d uj n r v v p l n v uj n 
+0
+POS tags: r v n d v un v n un 
+1
+POS tags: c r c d v r n v v r uj 
+0
+POS tags: r n k t n vn 
+1
+POS tags: m c mt r n n d ad n v 
+0
+POS tags: ns d d t v y 
+1
+POS tags: r r m n d d v v d v v un v un v r a uj 
+0
+POS tags: r t v r n a uj n uj n 
+1
+POS tags: p r d v v r vn uj n c v uj 
+1
+POS tags: r t t p ns n n v 
+0
+POS tags: r n v 
+0
+POS tags: r v r uj n p r c n d n 
+1
+POS tags: u v p n uj v v v d uj n 
+0
+POS tags: c r uj n d v nr 
+1
+POS tags: t uj n c nz n n p v n v v v n 
+0
+POS tags: r v v p r v v c an uj n 
+1
+POS tags: v p r 
+0
+POS tags: v vn v v r ad 
+1
+POS tags: p a n uj t r v v n n 
+1
+POS tags: r v r n uj n v v v r n 
+0
+POS tags: n d m n p r n a 
+0
+POS tags: r r v v a n uj v 
+0
+POS tags: r m n v v v r v uj n 
+1
+POS tags: n r uj n n mt p n n n v uj m q vn f v uj 
+1
+POS tags: c t n v v mq n p v n c v v 
+1
+POS tags: nz n p n v n v v v 
+1
+POS tags: n v v n r uj v v ad uj 
+0
+POS tags: n v r 
+1
+POS tags: r r m n d d v d v v un v un v r a uj 
+1
+POS tags: v d v an y m 
+1
+POS tags: vn n a uj n uj n 
+0
+POS tags: n v r 
+1
+POS tags: r m v v v v r n 
+1
+POS tags: r d d v r v 
+0
+POS tags: n f i uj 
+0
+POS tags: d n p n vn uj n vn uj n v un n un 
+1
+POS tags: v n n uj n r d v 
+0
+POS tags: r p r uj v nz d n v v 
+1
+POS tags: r v r v ns t m uj n 
+1
+POS tags: r v n uj n v v n c v v 
+0
+POS tags: p n k n v k d v v 
+1
+POS tags: r c c v v m uj n 
+1
+POS tags: n n v r v uj y 
+1
+POS tags: d r n d v l uj 
+1
+POS tags: nz uj v n 
+0
+POS tags: v d v v 
+0
+POS tags: v d a v vn 
+0
+POS tags: c n an n v d v n n 
+1
+POS tags: m n s v v d v r c v r 
+1
+POS tags: c r d d v mt uj an 
+0
+POS tags: v i d v r n 
+1
+POS tags: d v v uj an v 
+1
+POS tags: m nz n v 
+1
+POS tags: r v v r n d v r uj n d an 
+1
+POS tags: n d d v v n v uj n n 
+0
+POS tags: c v d v v uj n 
+1
+POS tags: d v r uj n 
+1
+POS tags: n v v vn 
+1
+POS tags: p n v u d v u uj n 
+0
+POS tags: c t uj n n v v m q n 
+1
+POS tags: c r uj n d v v v m 
+0
+POS tags: c l v 
+1
+POS tags: v v vn r v 
+0
+POS tags: t n n m 
+1
+POS tags: p f v n p n uj n uj v v m j uj vn 
+0
+POS tags: c r n uj a n d v a uj n 
+0
+POS tags: r d v r d v v n 
+0
+POS tags: c d v v n 
+1
+POS tags: v v r an 
+0
+POS tags: nz v t t vd f vn 
+1
+POS tags: r v v v r v uj n u uj n 
+0
+POS tags: c v v l d d v 
+1
+POS tags: c r r v r n d v v 
+1
+POS tags: p n uj v p n uj vn v v 
+0
+POS tags: p r uj v v v d v n c n 
+0
+POS tags: d v v b n n 
+1
+POS tags: v v ad v uj 
+0
+POS tags: t m n 
+0
+POS tags: l n u v v 
+1
+POS tags: v r m n v n v p r v n d a v uj 
+0
+POS tags: v v m n d v d v 
+0
+POS tags: r v v un v n un v n v v 
+1
+POS tags: p d uj s m v q n 
+1
+POS tags: r v v d q uj n 
+0
+POS tags: c r d v 
+0
+POS tags: p m n v v 
+0
+POS tags: r v nr 
+1
+POS tags: v v t uj r v 
+0
+POS tags: p n v uj n v a 
+1
+POS tags: p r vn a uj m n n r uj n 
+1
+POS tags: s uj n d p r p n v m 
+0
+POS tags: m n uj n vd c r n v 
+1
+POS tags: p v v p n d n 
+0
+POS tags: v r v r v m n a uj n v v t uj r n 
+1
+POS tags: v v p n m n v uj n 
+0
+POS tags: r n f d v uj t v m en q uj t 
+1
+POS tags: r v r n d v v mt v 
+1
+POS tags: n r v uj n p n d v v v r uj v 
+0
+POS tags: c r v n v v nz 
+1
+POS tags: c b uj v en nr f un r v n v c n v 
+1
+POS tags: c a uj a n 
+1
+POS tags: r v uj n v p t n uj n v 
+1
+POS tags: v r uj n v r v v ad n 
+0
+POS tags: d 
+0
+POS tags: v m n c n uj n 
+0
+POS tags: c n r uj n v v n uj n vn uj vn 
+0
+POS tags: r d v v r v ns m a uj n v r i uj vn 
+0
+POS tags: r v v r n 
+1
+POS tags: t f r n n m 
+1
+POS tags: c n v uj n d v ns v 
+1
+POS tags: r uj m b n v n m n uj n 
+1
+POS tags: r t v v nr v uj un n un v 
+0
+POS tags: v r uj n v v a n c d v a n 
+1
+POS tags: r p p v an uj v uj n d r v v 
+0
+POS tags: v n uj t vn v 
+1
+POS tags: r v v p n uj v n 
+0
+POS tags: n v r m v 
+1
+POS tags: n n uj n 
+0
+POS tags: c i r d v uj un n un v r n c r 
+0
+POS tags: f v v r uj n 
+0
+POS tags: r c m q ns n n vn un m n un v p r ns uj n uj n d a 
+0
+POS tags: t v r un n un uj n 
+0
+POS tags: ns p t m n v m n v 
+0
+POS tags: n v p n d a 
+1
+POS tags: r v v v ns v 
+0
+POS tags: n ad uj n c p n v v uj n v r v uj l 
+0
+POS tags: v m v n n v uj n 
+0
+POS tags: d v v n v n 
+0
+POS tags: r d v m n r v ns n v c v v nr n v 
+1
+POS tags: n d s v v 
+0
+POS tags: c r d c n s v r n 
+1
+POS tags: r v r n uj n d a uj 
+0
+POS tags: nz nz n v v r uj n 
+0
+POS tags: c v t v uj 
+0
+POS tags: n v v r v 
+0
+POS tags: r n uj n v d u 
+0
+POS tags: r v v n uj v n 
+1
+POS tags: p d a f 
+0
+POS tags: n vn uj n v n v 
+0
+POS tags: v v n n v uj n 
+1
+POS tags: r d v v r v ns m a uj n v r uj i uj vn 
+1
+POS tags: v v d v v uj 
+1
+POS tags: r n v vn uj 
+1
+POS tags: c f r d v v 
+1
+POS tags: r f p n nr d v n uj v 
+1
+POS tags: r n v r uj 
+0
+POS tags: c n d v d v un n un uj n 
+0
+POS tags: v v 
+0
+POS tags: r n f 
+0
+POS tags: p n r v d a 
+0
+POS tags: c v r m s n v v n uj n 
+0
+POS tags: c r n d nr v m 
+1
+POS tags: p r n uj n v d u 
+0
+POS tags: d v r v r v n 
+1
+POS tags: r r ns v vn v n v uj 
+0
+POS tags: r vn n f 
+0
+POS tags: v n c a v n v d a uj 
+1
+POS tags: v p n n uj n 
+0
+POS tags: v n uj v v d d v v r v v d v an 
+0
+POS tags: c m n v n uj n d v 
+1
+POS tags: p r uj vn v n uj vn 
+0
+POS tags: r uj n d v v v n vn uj n 
+0
+POS tags: r r d v d n n d p n v 
+0
+POS tags: v m n n p n v n v 
+1
+POS tags: n p l uj n v v v m q n 
+0
+POS tags: v 
+0
+POS tags: r n v v k 
+1
+POS tags: n p r n vn y 
+1
+POS tags: n v n f f d v uj n 
+0
+POS tags: r v ns f v v m n 
+1
+POS tags: n v r n v m q n uj vn 
+1
+POS tags: t uj t m 
+0
+POS tags: r d z 
+1
+POS tags: c r v vn v un n un 
+1
+POS tags: r v r uj m t 
+1
+POS tags: n v p n uj vn f v v r n 
+0
+POS tags: p n v n 
+1
+POS tags: r r v v n b vn v q i uj n 
+1
+POS tags: t p ns p v nz uj n v m vn uj n 
+1
+POS tags: c r uj p r uj n v v n uj n vn uj vn 
+1
+POS tags: c p r n v r d v uj n ns uj l 
+0
+POS tags: v m n c d v r p n uj vn v v nr n v 
+0
+POS tags: v ad v 
+0
+POS tags: r uj n d v v n n 
+0
+POS tags: c r r v 
+0
+POS tags: d v v n p n v v v n 
+0
+POS tags: n v v n v v p n f v uj n 
+0
+POS tags: v v a n v uj an 
+1
+POS tags: r v a n uj n 
+0
+POS tags: v m n p r v v mq n 
+1
+POS tags: c r r v uj n 
+0
+POS tags: d v v n r v v d n uj 
+1
+POS tags: r v t n r a uj n k uj n n d d 
+0
+POS tags: c r a 
+0
+POS tags: r uj vn v n uj vn 
+1
+POS tags: v v v a n v uj an 
+0
+POS tags: r v v un v un 
+1
+POS tags: r d v n f uj vn n 
+0
+POS tags: r d v r v a uj vd 
+0
+POS tags: p n v v m n 
+0
+POS tags: r n v r v r n 
+1
+POS tags: r d v r m q uj t r 
+0
+POS tags: c r d v nr v v 
+0
+POS tags: nz v n n f v z uj n 
+1
+POS tags: f d v v n 
+0
+POS tags: v n n v v v n 
+1
+POS tags: p ns uj m n n f v n vn v 
+0
+POS tags: p r vn a uj m n v r v uj n 
+0
+POS tags: d p n 
+1
+POS tags: c r v v uj n r n v a d v n p v v uj n 
+1
+POS tags: r p d v r v uj n 
+1
+POS tags: v v v l v vn n uj n 
+0
+POS tags: v a uj n uj r uj n 
+0
+POS tags: n d v n n c n n 
+0
+POS tags: v z c ns uj n un n v 
+0
+POS tags: r v r v m n uj vn 
+1
+POS tags: p ns v ns uj n 
+1
+POS tags: r v v a n c n uj n vn 
+1
+POS tags: n n v m uj un n un d d v p r 
+0
+POS tags: d uj n r v v p l n v n 
+0
+POS tags: d v v n v uj n 
+0
+POS tags: r v v uj m n v r vn m l ns a uj n uj n 
+1
+POS tags: r d d v v 
+0
+POS tags: f r n d v v uj n 
+0
+POS tags: v un n un n r n 
+1
+POS tags: p r v r n n 
+0
+POS tags: r t d nr 
+1
+POS tags: d r v v vn n uj vn 
+1
+POS tags: p n v v r p s uj n d m uj n 
+1
+POS tags: p n v v n uj an p l 
+0
+POS tags: ns v m nz n 
+0
+POS tags: p r uj n d p t uj r vn a 
+0
+POS tags: t ns uj n n a 
+0
+POS tags: n m v d v n v v r l 
+0
+POS tags: c n v r v 
+0
+POS tags: v v v r v n 
+0
+POS tags: c p n nr v b uj 
+1
+POS tags: v r v n nz 
+0
+POS tags: v m n uj m n v r vn v uj n 
+1
+POS tags: r p v n m r d v vn 
+1
+POS tags: r v r m n mq v d a uj v 
+1
+POS tags: r v r d v un n un v nz q uj 
+1
+POS tags: d v r v v uj 
+1
+POS tags: r p n v p n uj n 
+1
+POS tags: v un n un c v un n un d d v r uj un v n un v 
+1
+POS tags: n d v v n d v v uj 
+0
+POS tags: r n n p r v v uj n v r v 
+0
+POS tags: c n n d v m n 
+0
+POS tags: v d v an m 
+1
+POS tags: n r v l r a n 
+1
+POS tags: n r d v v k 
+1
+POS tags: r v m nz v r v 
+0
+POS tags: v n c n vn uj n 
+1
+POS tags: t uj n n d i uj n uj 
+0
+POS tags: r v ns f d mt n v 
+1
+POS tags: d n b vn v d v v n k v 
+0
+POS tags: r n p n uj n v n uj vn 
+0
+POS tags: v v n 
+1
+POS tags: r v v un q m v 
+0
+POS tags: n v n v n uj n c v 
+1
+POS tags: p v m n f d v ns y 
+1
+POS tags: r a uj n d v n v n v 
+1
+POS tags: r uj n v uj v p t v p v uj v uj n 
+1
+POS tags: p n f uj v n v v v uj 
+0
+POS tags: v r uj n r v v ad n 
+1
+POS tags: v n a v 
+1
+POS tags: c r r n d r v r un r r v nz 
+0
+POS tags: v p v f v n 
+1
+POS tags: v r n uj n uj n 
+1
+POS tags: n n a c v uj n 
+1
+POS tags: p m n uj n 
+0
+POS tags: c r v m v p f n v n v uj v 
+0
+POS tags: d p n vn v n 
+1
+POS tags: v p n uj v v d v vn n uj v n 
+0
+POS tags: u n v v a 
+0
+POS tags: r mt r v y 
+0
+POS tags: r v ns f d v r uj vn v v r 
+1
+POS tags: n p p n vn uj n v n 
+0
+POS tags: r v v d d v nr uj n 
+1
+POS tags: r d v vn p r n f r 
+0
+POS tags: n v uj n c n u v d u uj 
+0
+POS tags: vn v p ad uj n vn d v n uj 
+0
+POS tags: r d v r v uj n 
+1
+POS tags: r v n v r v y 
+0
+POS tags: d r d v n v v an 
+1
+POS tags: r v v l c v v n n 
+1
+POS tags: r n v n v r n 
+0
+POS tags: r p ns d v v p n v v p n uj n 
+0
+POS tags: d v ns v 
+0
+POS tags: n f v 
+1
+POS tags: p ns uj n uj vn d d v 
+1
+POS tags: r d p mq uj v v vn uj n 
+1
+POS tags: r uj n v v v nz u 
+0
+POS tags: v r i 
+1
+POS tags: p v n c n 
+0
+POS tags: r v m v vn uj n 
+1
+POS tags: c r v v 
+0
+POS tags: l 
+0
+POS tags: r n v uj un n un 
+0
+POS tags: r uj n v en n 
+0
+POS tags: p r v 
+1
+POS tags: r v f r uj n v n c nz 
+0
+POS tags: r vn m q n 
+1
+POS tags: r an uj n v v m n d m n v 
+1
+POS tags: v n v v v k uj an 
+0
+POS tags: n b n s v n n 
+0
+POS tags: n n v r v y 
+0
+POS tags: r q n f uj n p n uj v v vn n v 
+0
+POS tags: n v m n 
+0
+POS tags: v n v v nz v uj n uj an c an 
+1
+POS tags: t r d v n v v nr un v un 
+1
+POS tags: vd v r v p an f uj n 
+1
+POS tags: r n c v v i 
+0
+POS tags: p ns uj m n n f v n vn 
+0
+POS tags: r v vn ad uj n v v r 
+0
+POS tags: p n v 
+1
+POS tags: c v t n v m n 
+1
+POS tags: vn uj ad c v v r 
+0
+POS tags: r v n v n p vn v v v 
+0
+POS tags: a c v 
+0
+POS tags: nt v v a uj n v vn n 
+0
+POS tags: r n r uj n 
+0
+POS tags: t r vn v uj n v v n uj n 
+0
+POS tags: s uj n d n m 
+0
+POS tags: r n r v v n v n 
+1
+POS tags: p n uj v 
+0
+POS tags: r uj n v v 
+1
+POS tags: d v v a uj n nr 
+0
+POS tags: r r v t v an n v 
+0
+POS tags: v r 
+0
+POS tags: n un r n v v a r 
+0
+POS tags: n v n uj vn f v v r n 
+1
+POS tags: r p n f r uj n v v 
+1
+POS tags: n v r 
+1
+POS tags: n v r uj n n uj n vn n uj 
+0
+POS tags: n uj m n d v v p n v uj n uj n 
+1
+POS tags: s nz v m a n 
+0
+POS tags: r p r v uj n d k n v 
+1
+POS tags: d r t ad v v 
+1
+POS tags: r v r m n p n f v n v r r uj n 
+0
+POS tags: ns m n uj n f v m n 
+1
+POS tags: un n un v d v n c n 
+0
+POS tags: n d v v 
+0
+POS tags: p q n v v r uj i 
+0
+POS tags: r v l t m n uj l d v m uj n 
+1
+POS tags: c nr r r vd uj n 
+1
+POS tags: v n v r n v p n d uj 
+0
+POS tags: v r v n uj n 
+0
+POS tags: r d v 
+0
+POS tags: v v v uj n 
+0
+POS tags: c n v v ad 
+0
+POS tags: r n m n v v v 
+0
+POS tags: d vn v 
+1
+POS tags: m q n d v d n uj n 
+0
+POS tags: c d v p r v c v r nr v 
+0
+POS tags: p n n p n v v v v uj 
+0
+POS tags: i 
+0
+POS tags: r n c v vn d v v nz 
+1
+POS tags: r m q n 
+0
+POS tags: un an v n un n m 
+1
+POS tags: d v r n uj an uj n 
+0
+POS tags: r v v v uj n 
+0
+POS tags: c n n d v v r v n 
+1
+POS tags: v r q f n v v uj v r y 
+0
+POS tags: p n v uj n d p v 
+1
+POS tags: c d vn v f n uj n 
+1
+POS tags: r v v vd n v uj n v 
+0
+POS tags: d n v r n p vn v v un v n un uj n y 
+1
+POS tags: v v v uj n v 
+0
+POS tags: d v n d vn v r d a uj vn n 
+0
+POS tags: r j uj n r d d v r d v 
+0
+POS tags: c p n v 
+1
+POS tags: r v v d a d c v 
+1
+POS tags: r v r m uj r v d n 
+1
+POS tags: n uj v n n n uj v 
+1
+POS tags: c c d a 
+1
+POS tags: n v n v a 
+0
+POS tags: v nz d v v v q d 
+0
+POS tags: r n v m d a uj n 
+0
+POS tags: n vn p n uj vn n v v n uj 
+1
+POS tags: r d v n n a uj nz c ad n v v 
+1
+POS tags: r v v un v n un v uj n v v 
+1
+POS tags: c n m m n uj s v uj m q n 
+0
+POS tags: c n d v d v n uj n 
+1
+POS tags: v r uj an v r ns 
+0
+POS tags: p r n d v v uj 
+1
+POS tags: c r v n nr m q n uj n 
+1
+POS tags: c r v p n v d v uj n v d ad 
+1
+POS tags: v un n un v p vn n 
+0
+POS tags: r n d v v n nz f v v n 
+0
+POS tags: r a 
+1
+POS tags: d v r v v m n 
+1
+POS tags: r v n p an n uj vn v m a uj n 
+1
+POS tags: c m uj vn uj n v n q uj n 
+1
+POS tags: r p r uj n d m 
+1
+POS tags: v t d a r 
+1
+POS tags: n uj v p n d n 
+0
+POS tags: p n n vn uj n r r v 
+1
+POS tags: r d r n d v d uj ad v 
+0
+POS tags: t r v uj r n d d a v 
+0
+POS tags: vd v r v an f uj n 
+0
+POS tags: r vn d un q v y 
+1
+POS tags: r t d v v vn 
+0
+POS tags: v an c n m 
+0
+POS tags: n c n p n uj vn d a 
+0
+POS tags: r v f n f d v ns v 
+1
+POS tags: r d a r v nz c r v r n v nz 
+1
+POS tags: v r r v v uj 
+1
+POS tags: p r d a uj n 
+1
+POS tags: n v l 
+1
+POS tags: r v n n n f p nt v n uj 
+1
+POS tags: p r v uj v v v vn uj an 
+0
+POS tags: p r v n vn ns n c n 
+1
+POS tags: n an f v q r uj n v v 
+1
+POS tags: p n v v v r an 
+1
+POS tags: c d l v 
+1
+POS tags: r v p r f v m n k n v uj 
+1
+POS tags: n v v d v v n uj an c r uj vn uj n v 
+0
+POS tags: r v v v n c n v uj n 
+1
+POS tags: r r d v un v t un v vn 
+0
+POS tags: r d v v n vd v vn 
+0
+POS tags: nr z v uj n nz n d a v v n 
+0
+POS tags: c t ns v a uj vn n 
+0
+POS tags: s n n m n 
+0
+POS tags: nz f v uj n 
+1
+POS tags: r r v v m q n 
+1
+POS tags: n d d v n n c n n 
+0
+POS tags: d v ns v r m l d v v mq 
+0
+POS tags: r v n uj n v n c v v 
+0
+POS tags: v d v n r d n v v 
+0
+POS tags: p p n k n v n p r d an uj n 
+1
+POS tags: r v f uj n uj m a 
+0
+POS tags: p r f r v v m vn nz uj n 
+1
+POS tags: r r m n v v d v v nz q 
+0
+POS tags: d v n v r n uj n 
+1
+POS tags: r m q n v p n d ad v uj 
+0
+POS tags: r d vd v 
+0
+POS tags: r d vn r 
+0
+POS tags: n uj n d a 
+0
+POS tags: r d v v m n c n v vn r 
+1
+POS tags: n p r uj v v vn r uj 
+0
+POS tags: r p un v un i 
+0
+POS tags: n n v 
+1
+POS tags: r t d v v t q t 
+1
+POS tags: r v v t d p ns r n q v m 
+1
+POS tags: v p n an n n v 
+0
+POS tags: r v uj n p n s 
+0
+POS tags: r m v v v r n 
+1
+POS tags: p r n r v v 
+0
+POS tags: r n m v v n 
+1
+POS tags: v v t 
+0
+POS tags: d v n r p r f uj m q a n v v uj n 
+1
+POS tags: r m nr v nz n 
+1
+POS tags: v n n n vn p r d a v 
+0
+POS tags: r v v ns v f v v n d v ns r v vn 
+0
+POS tags: r d v r m q t r 
+0
+POS tags: r p n un n m v v 
+0
+POS tags: d v n n 
+0
+POS tags: n d v 
+0
+POS tags: v l v m n d v uj n r 
+0
+POS tags: vn n a uj n 
+1
+POS tags: n v uj r vn v d n n v uj 
+1
+POS tags: r mt d v q n 
+1
+POS tags: r p r v uj n d v n v 
+1
+POS tags: r c v r d v v n c v n 
+0
+POS tags: r uj v v n v v vn 
+1
+POS tags: r n m v r r v d m q n d v p r r v v 
+1
+POS tags: r v n v v a uj 
+0
+POS tags: r r d v r v an 
+0
+POS tags: p r uj t 
+0
+POS tags: r v v a uj n 
+1
+POS tags: r n un v un v uj v n a v uj n 
+0
+POS tags: v r n uj an uj n 
+1
+POS tags: d v v n a uj n 
+1
+POS tags: d r v v d uj n 
+0
+POS tags: c p n v uj n 
+1
+POS tags: c r vn v v r m n d v v vn l 
+1
+POS tags: r v v m m n uj n ad d v r v n 
+1
+POS tags: v r v v a v 
+0
+POS tags: d m a c ad uj n n 
+1
+POS tags: c r v n n uj 
+1
+POS tags: v p r vn a uj n n r uj n 
+1
+POS tags: v m n v v d d m n uj an 
+1
+POS tags: v v vn n n 
+0
+POS tags: m n p n uj n v v n v 
+0
+POS tags: v v uj v un n un uj n v z v 
+0
+POS tags: c v an uj v n v f n uj n an d v t v v r n uj n 
+1
+POS tags: p n v r 
+1
+POS tags: f n v m d d n v d z vn 
+0
+POS tags: n d v vn v uj n 
+1
+POS tags: c f uj n d v r un uj n 
+0
+POS tags: d v r v 
+0
+POS tags: d v m q d uj 
+0
+POS tags: c r n v nz 
+1
+POS tags: v v r 
+1
+POS tags: r uj v v n n v v vn 
+0
+POS tags: d r d v 
+1
+POS tags: d v v v p n an uj v c p t v v a uj v c v vn uj n uj 
+0
+POS tags: d v nz u v v r n uj v n 
+0
+POS tags: r d n 
+1
+POS tags: r v r n uj n v c n uj 
+0
+POS tags: p v d v un l un uj n 
+1
+POS tags: d v p r uj n n uj n 
+1
+POS tags: r d a v 
+1
+POS tags: t uj v m n 
+0
+POS tags: r v n uj n n c n n d a v 
+1
+POS tags: r n mt uj t 
+1
+POS tags: r p n n n c v v n uj n 
+0
+POS tags: nz un n r v 
+1
+POS tags: r v ns uj v p vn 
+0
+POS tags: r n d v l 
+0
+POS tags: c r d v t uj n 
+0
+POS tags: vn an v d n vn u c v u 
+0
+POS tags: d d v v 
+0
+POS tags: r uj n d v a mt 
+1
+POS tags: a uj n n a uj n 
+1
+POS tags: r m n r v n 
+1
+POS tags: p v d n v un l un uj n 
+0
+POS tags: p r vn v n uj n 
+1
+POS tags: v l v m n d v uj n r 
+0
+POS tags: t v m n n v 
+0
+POS tags: r p nz n v n 
+0
+POS tags: s v n 
+0
+POS tags: r v 
+0
+POS tags: r n v n v an 
+1
+POS tags: r s d d v b uj 
+0
+POS tags: r n s d v v r n 
+0
+POS tags: r an uj n v v m n d m n 
+0
+POS tags: d v r vn uj v r n 
+1
+POS tags: n m q t uj v uj v 
+0
+POS tags: r v t d v v n c n 
+1
+POS tags: t t v v r c n uj v n 
+0
+POS tags: c t v d v p n v 
+1
+POS tags: v m v d v v v 
+1
+POS tags: c p r r n v mt ad 
+0
+POS tags: r v n n n f p nt v n 
+0
+POS tags: v n uj vn 
+0
+POS tags: d v r v 
+1
+POS tags: v m n r p r uj n c n v r v 
+0
+POS tags: d d v nz vn 
+0
+POS tags: r n v v v 
+0
+POS tags: n d v v n d v v 
+0
+POS tags: n v n d vn d ad 
+1
+POS tags: n n v n v r uj v n 
+1
+POS tags: nz uj v r uj n d d a 
+0
+POS tags: v t uj n d vn c n uj n d a 
+1
+POS tags: n v m d an uj m n 
+1
+POS tags: r v v r un l 
+0
+POS tags: r d v v 
+0
+POS tags: t r s v uj v n uj n v d vd 
+1
+POS tags: r v r v v vn r 
+0
+POS tags: m q n d v uj n 
+1
+POS tags: r d v m n r v ns n v c v v nr n v uj 
+0
+POS tags: c t r d v r uj n 
+1
+POS tags: p n p r r d a 
+0
+POS tags: p r d v v r vn uj n v uj 
+1
+POS tags: c v vn n v r vn f v uj n 
+0
+POS tags: vn d ad uj n 
+0
+POS tags: c v d n uj n v v n nz 
+0
+POS tags: n uj nz n v v v n n p n v uj n 
+0
+POS tags: un v un n v r v d a 
+1
+POS tags: p nz n n v d an v 
+1
+POS tags: r v t t d v p r v 
+1
+POS tags: c d p s uj n v v v c v 
+0
+POS tags: n v r v uj n 
+0
+POS tags: c r c r n v n uj v 
+0
+POS tags: nz v n 
+0
+POS tags: c r d v v 
+1
+POS tags: c v v d d v v n uj 
+0
+POS tags: d a uj n r n v uj n 
+1
+POS tags: n v uj n v a v n 
+1
+POS tags: n v n n 
+1
+POS tags: v p n v v uj n n 
+0
+POS tags: n v vn v d r n r uj n f 
+1
+POS tags: d n uj n v n n d v m d n uj n 
+1
+POS tags: p m an uj n p n 
+0
+POS tags: v n a v uj n n n 
+1
+POS tags: p ns f uj m n v v p s v n uj n p v uj n 
+1
+POS tags: n p m f d 
+0
+POS tags: d v 
+1
+POS tags: p r n v 
+0
+POS tags: r r v 
+1
+POS tags: r v v r uj nr vn r y 
+1
+POS tags: v v m q v v z uj n uj n v 
+0
+POS tags: v n uj v p r n uj n v v n 
+0
+POS tags: r n k 
+0
+POS tags: c v m q n f 
+0
+POS tags: m n uj i d p n vn 
+1
+POS tags: r d v v n n 
+1
+POS tags: c un n un uj n nz v v m vn v n uj n uj n 
+1
+POS tags: r n n p vn v n 
+0
+POS tags: r l 
+0
+POS tags: d n s v uj n d d m 
+1
+POS tags: d n n a uj n p vn 
+0
+POS tags: n d n ad 
+1
+POS tags: v v r n v m 
+1
+POS tags: r d v v v v n v uj r a vn 
+0
+POS tags: d n uj n d v 
+0
+POS tags: r uj n d u v i uj 
+0
+POS tags: v v n v uj n r 
+0
+POS tags: r v p v v n uj n uj n v n r c v vn v r n 
+1
+POS tags: r d v r v uj 
+0
+POS tags: c v t d v v 
+0
+POS tags: r v v r n d a uj n d v uj n 
+1
+POS tags: m b uj v v n un v k un uj vn 
+0
+POS tags: r ad uj n n v v d v 
+1
+POS tags: r v n d v v v 
+1
+POS tags: r v r uj n v p r c n d n 
+1
+POS tags: v r uj n 
+1
+POS tags: d p n v n d v v 
+0
+POS tags: r d a uj n 
+0
+POS tags: r v n c r uj v 
+0
+POS tags: v v n n 
+0
+POS tags: n p n n uj n v r n d v n uj n 
+0
+POS tags: v r a v v v n ad v v uj n 
+0
+POS tags: r d p n v v v r uj v n 
+0
+POS tags: p un ng un v n 
+1
+POS tags: d v a uj n v r v v a uj n y 
+0
+POS tags: r n n d u v v r 
+0
+POS tags: un vn n un uj t n 
+0
+POS tags: n an r 
+1
+POS tags: t r d v v r uj an 
+0
+POS tags: p n k r uj vn d d v 
+0
+POS tags: v m n c n 
+1
+POS tags: r p c v c n d v r n 
+1
+POS tags: n n v uj n v n a uj vn a uj n uj vn 
+1
+POS tags: r t uj t uj n v m n s v v ns 
+0
+POS tags: v q n v nz d v v v uj 
+0
+POS tags: d v r n r v r n 
+0
+POS tags: n r m d n 
+1
+POS tags: r m v d v v v uj n 
+1
+POS tags: p p v c v m v v v 
+0
+POS tags: n v v uj n an v i uj 
+1
+POS tags: p p n v s uj n d a 
+1
+POS tags: m n d v v v 
+0
+POS tags: r v ns f d d v ns uj l 
+0
+POS tags: r d v r vn 
+0
+POS tags: r n v m v vn uj n 
+1
+POS tags: c n r uj n v v p n uj n vn uj vn 
+1
+POS tags: n m n uj i d p n vn 
+1
+POS tags: d v v f n uj n an 
+0
+POS tags: r v n uj n v n c v v 
+0
+POS tags: r d v v 
+1
+POS tags: v v n a uj n 
+1
+POS tags: r v r n v n r v v r v n 
+0
+POS tags: p r n p r s d v v n an c v r 
+0
+POS tags: c r v k f uj n n v uj vn p v k r d ad 
+0
+POS tags: n v v uj v un r p r v n 
+0
+POS tags: n v m q uj vn n 
+1
+POS tags: n p r an n v v a uj v 
+0
+POS tags: r n uj n d v r 
+0
+POS tags: c r d v n u r 
+1
+POS tags: f r p n v r n uj 
+1
+POS tags: r uj n v uj n v v uj n 
+0
+POS tags: d v d d v 
+0
+POS tags: r j n d v v un n un uj n 
+0
+POS tags: n d v v n v an uj n 
+1
+POS tags: c r v p n v uj n d v 
+1
+POS tags: r v n uj n v d v vn uj n 
+0
+POS tags: r p n v n m q n 
+1
+POS tags: p r d v n uj s 
+1
+POS tags: n s v v 
+0
+POS tags: v v a n v uj an 
+0
+POS tags: vn un n un n n 
+1
+POS tags: c r uj n uj n v r un n d an 
+1
+POS tags: v v v n uj n v r v 
+0
+POS tags: p n v v n v an 
+1
+POS tags: vn uj n v v n n v uj r m n 
+1
+POS tags: r v v r r d v v 
+1
+POS tags: ns t n r v un a n v v v a n 
+1
+POS tags: n u d v d a v l 
+0
+POS tags: r n v n uj n 
+0
+POS tags: r v n m d a uj n 
+0
+POS tags: c m q f v v uj un n un t d d nr v 
+0
+POS tags: v m n r v 
+1
+POS tags: ns s v v m a n 
+0
+POS tags: r v vn r vn v 
+1
+POS tags: c v an uj v n v f n uj n an d v t v v r n uj r n 
+1
+POS tags: r uj m n d v m n n uj n v 
+1
+POS tags: r d v p m n n 
+1
+POS tags: v p r vn a uj n n r uj n 
+1
+POS tags: c v v v p n v uj n v v nr 
+0
+POS tags: r d n v v 
+1
+POS tags: r vn r uj f uj vn v vn z uj 
+0
+POS tags: nz n v n vn 
+0
+POS tags: p s v v v n n 
+1
+POS tags: v v r uj a q n 
+0
+POS tags: r v r uj n 
+1
+POS tags: r p f v vn 
+1
+POS tags: n a uj n v v p n uj n 
+1
+POS tags: m n c n n v r n uj vn 
+0
+POS tags: r v v p r r n d an v 
+1
+POS tags: r v l t m n uj l d v m uj n n 
+1
+POS tags: r p r uj vn v v v vn 
+0
+POS tags: v r s uj n 
+1
+POS tags: n f v v 
+1
+POS tags: n uj an uj n d d v 
+1
+POS tags: v p r vn a uj m n v r uj n 
+0
+POS tags: r n d v 
+0
+POS tags: r f p n v v n p d n uj n a 
+0
+POS tags: n v n 
+0
+POS tags: r uj n v n u 
+1
+POS tags: n m q n n n v ad v uj n n 
+1
+POS tags: d v n v v r n uj n 
+1
+POS tags: r n uj n p r vn ns n v 
+0
+POS tags: r n n p r v 
+0
+POS tags: c r v r n v r a 
+1
+POS tags: v n n uj 
+1
+POS tags: q v v 
+1
+POS tags: r v v d d v n uj n 
+1
+POS tags: n uj nz n v v v n p nr p n v uj n 
+1
+POS tags: r v n v v m n 
+0
+POS tags: v n a m b n v a uj 
+0
+POS tags: r n d v r vd v d v a uj n 
+0
+POS tags: n t d a 
+0
+POS tags: r uj n v v v n uj n 
+0
+POS tags: c n v n uj vn v v m n 
+1
+POS tags: v v a n uj s 
+1
+POS tags: n p n v un n un n v d ad uj n 
+1
+POS tags: r n d v t d v r uj n 
+0
+POS tags: m uj n d p s 
+1
+POS tags: r d v vn nz 
+1
+POS tags: p p s v an v m m 
+1
+POS tags: p v n v uj n d m 
+0
+POS tags: p n v v r p s n d m uj n 
+1
+POS tags: v r uj n 
+0
+POS tags: r n k 
+0
+POS tags: f d v r r n t r m uj an an 
+0
+POS tags: n t v d v 
+1
+POS tags: v d a v 
+0
+POS tags: c r p f v uj r v n v v uj n c d ad uj v l c v n an v a uj 
+0
+POS tags: n v r n v n 
+0
+POS tags: r v r n mq v d a uj v 
+0
+POS tags: r v v 
+0
+POS tags: p r uj n v 
+1
+POS tags: v m n m m n v v v n 
+1
+POS tags: p r q f 
+0
+POS tags: p m n mt vn r n vn nz 
+0
+POS tags: p n uj vn c n uj v n d v v m 
+1
+POS tags: n d v v n v an uj n a 
+1
+POS tags: p r f f r v v m vn nz uj n 
+1
+POS tags: t v r v uj v n uj n n c n l 
+0
+POS tags: r m n v n uj n p c r vn uj n a 
+1
+POS tags: p p n v p n 
+1
+POS tags: r v r d f r v v ns v 
+1
+POS tags: n n uj v d v r d v v r uj vn v 
+0
+POS tags: p s v v m n 
+0
+POS tags: v m n p v n m d v v v uj n 
+0
+POS tags: r d v v r c n vn v 
+1
+POS tags: r uj n v d an 
+1
+POS tags: u n c n a uj n v d v l 
+1
+POS tags: t r vn v uj n v v n uj n f 
+0
+POS tags: d v n m q un i un r k 
+1
+POS tags: p n v s 
+0
+POS tags: c r v v v uj n 
+0
+POS tags: r d v d ns v m ad uj n 
+1
+POS tags: r n v n d v v n b vn 
+1
+POS tags: r v n v f m q c f n uj n n 
+1
+POS tags: c i r uj d v uj un n un v r n c r 
+0
+POS tags: r v v n a v n n 
+0
+POS tags: c v n c n uj n v v v n uj n 
+0
+POS tags: v v n v r vn s 
+0
+POS tags: r v v t p ns r n q v m 
+1
+POS tags: p r nz uj vn f 
+0
+POS tags: v n r v v d v v 
+0
+POS tags: u n c n a uj n d v l 
+1
+POS tags: c c r v v v n nr uj an uj n f v v 
+1
+POS tags: p r s f uj n d d a 
+1
+POS tags: c mt v v d l 
+1
+POS tags: r m v uj n a 
+0
+POS tags: r v vn d l 
+0
+POS tags: v v uj n v q n v v a v 
+0
+POS tags: c n v d v 
+1
+POS tags: r p n f v nz nz 
+1
+POS tags: p n v uj m n f 
+1
+POS tags: r n uj n v v nz v v n vn n n uj v 
+1
+POS tags: m uj n v r n v v v p n an c n n uj vn 
+0
+POS tags: v m n v p f s n n s v v n 
+1
+POS tags: r v v d a 
+1
+POS tags: m v f 
+0
+POS tags: r v r v m vn 
+1
+POS tags: c nz n r n v n uj v uj nz n m 
+0
+POS tags: r v uj an uj n n vn f d ad uj n 
+0
+POS tags: d d v r v r vn d a 
+1
+POS tags: c n d v uj 
+0
+POS tags: n d p n vn c vn v uj n v 
+1
+POS tags: n n ad v v m q d d n n uj v uj n 
+1
+POS tags: r uj v n n d m v 
+0
+POS tags: n v n 
+0
+POS tags: d an uj n r r d v 
+1
+POS tags: c r v c l d v n 
+0
+POS tags: n v n r n u v d v 
+0
+POS tags: r r v r d d vd v r v r an uj n 
+0
+POS tags: n d v 
+1
+POS tags: d v nz u v v r r n uj v n 
+0
+POS tags: r n v n mt uj n 
+1
+POS tags: c r q v v v r v uj n 
+0
+POS tags: d r t r v 
+1
+POS tags: c r uj nz n d n u uj n 
+0
+POS tags: t r v n uj vn 
+1
+POS tags: v v v 
+0
+POS tags: n n z n v v 
+1
+POS tags: d v n n m q un i un r k 
+1
+POS tags: p r n v v i uj vn 
+1
+POS tags: r v d v n v uj 
+0
+POS tags: v v vn 
+1
+POS tags: n v c v r n 
+0
+POS tags: r n n p r n v uj n v m 
+0
+POS tags: p n v v r l v v uj n 
+0
+POS tags: n d vd r m n v v 
+1
+POS tags: p vn uj an 
+0
+POS tags: p un n p v n n 
+1
+POS tags: c un n un v a a 
+0
+POS tags: r v r p r vn r n c n 
+1
+POS tags: v r n uj n uj n v v v p n uj an vn a uj n c n 
+1
+POS tags: c m n v v v 
+1
+POS tags: d v v v r v a n 
+1
+POS tags: v d d v v v n vn 
+1
+POS tags: r n r v v n v q n 
+0
+POS tags: r v ns uj r n v 
+1
+POS tags: p r v q n 
+0
+POS tags: r t d v v v q t 
+0
+POS tags: n n v d uj v 
+1
+POS tags: r v vd f v v n 
+0
+POS tags: r n v n c vn f d v v r an c n 
+0
+POS tags: r v v v m nz uj an 
+0
+POS tags: d a uj mt d v r v ns v vn nz 
+0
+POS tags: v n v 
+0
+POS tags: p n b v uj n d v v 
+0
+POS tags: r v t n v n uj v 
+0
+POS tags: v p n v n r m n v v u 
+1
+POS tags: d v v n k uj v n uj n 
+1
+POS tags: n d n nr uj 
+1
+POS tags: v m n v v p f s n n s v v n 
+0
+POS tags: r d b c ad v vn r uj vn v v 
+1
+POS tags: c vn v r uj n n uj n 
+1
+POS tags: d r n n v v r a uj n 
+1
+POS tags: r v r nz v r uj n v p r v v a n uj n n 
+1
+POS tags: v m n v p n uj n d d a v 
+1
+POS tags: r r m n v v v r v uj n 
+1
+POS tags: r v r d v vn r r uj v n 
+1
+POS tags: r d v n d ad 
+0
+POS tags: n v p v 
+1
+POS tags: r n v v v d 
+0
+POS tags: r d z n vn 
+0
+POS tags: r n f uj n n v n uj v n 
+1
+POS tags: r m v v t 
+1
+POS tags: v mt n v 
+1
+POS tags: r v d v v p n v n d a uj 
+1
+POS tags: v p n uj n d v vn 
+0
+POS tags: r d b v v nz c nz 
+0
+POS tags: n v n d s vn 
+1
+POS tags: n p n d v 
+0
+POS tags: r f p nt v 
+1
+POS tags: r p n uj n v un n un y 
+0
+POS tags: c v v p n v uj n v v nr 
+1
+POS tags: s n n n m n 
+0
+POS tags: p r p b n f v n 
+1
+POS tags: c v v r uj v v vn 
+0
+POS tags: v v v n uj n v v 
+0
+POS tags: a n m uj b n v d m m uj 
+1
+POS tags: c p n uj n d v n v n uj n 
+0
+POS tags: v n nz c v ad uj n 
+0
+POS tags: p ns ns s v v m n 
+0
+POS tags: r v n v r y 
+0
+POS tags: d v v p ns v nz n 
+1
+POS tags: f p n m d v v ns n 
+0
+POS tags: p r a n v v n uj r n p n n 
+1
+POS tags: d v uj v n k p v v uj n v v v 
+0
+POS tags: c t d v 
+1
+POS tags: c v an n uj vn v n d uj v 
+1
+POS tags: d v ns v 
+1
+POS tags: r n uj t uj vn d a 
+0
+POS tags: u n n d v ad vn 
+1
+POS tags: m v a d v v uj n 
+1
+POS tags: r n v n v an k 
+0
+POS tags: r n m a r uj v n d v v 
+1
+POS tags: v v n a v uj n n n 
+1
+POS tags: t n uj n vn 
+0
+POS tags: c n d v v v n 
+1
+POS tags: a n n n uj n 
+0
+POS tags: r d p v 
+1
+POS tags: t v v n 
+0
+POS tags: n v q r uj n v v 
+0
+POS tags: p c v m n n i c v n v u d p an n 
+1
+POS tags: v v r uj n v v v p r vn a uj m n 
+0
+POS tags: c n v r r n d p v uj n 
+1
+POS tags: v v p n an uj vn 
+1
+POS tags: v p v n c n v v n uj n v v 
+1
+POS tags: f r v v v 
+1
+POS tags: vn n vn v d a uj 
+1
+POS tags: n p n v n m q n 
+1
+POS tags: v n k p n v vn 
+1
+POS tags: n uj an uj n 
+1
+POS tags: d a uj n r n v v uj n 
+1
+POS tags: c r n nr r a un q 
+1
+POS tags: n v v m q n 
+1
+POS tags: r n n d r u v v r 
+1
+POS tags: d v m a n v uj n n 
+0
+POS tags: v v n f uj n 
+1
+POS tags: r r n v ns uj n n n uj v 
+1
+POS tags: a t n d v n 
+0
+POS tags: p ns n uj vn d d v 
+0
+POS tags: p r vn 
+0
+POS tags: t r n m n 
+0
+POS tags: r v n nz 
+1
+POS tags: v p n v p s uj n v d a uj 
+1
+POS tags: l v v d m uj n 
+0
+POS tags: c n v v v v an 
+0
+POS tags: n k p n v c v r 
+1
+POS tags: n d v uj n n v v m 
+0
+POS tags: c r n uj an d a 
+0
+POS tags: v c d an 
+0
+POS tags: l v d m uj n 
+1
+POS tags: vn v v v an 
+0
+POS tags: r n r v v d a 
+0
+POS tags: r d r uj n 
+0
+POS tags: r p ns v r uj n d m 
+0
+POS tags: r vn nz 
+1
+POS tags: d p f v n n s 
+1
+POS tags: r v v n uj t v ns v 
+0
+POS tags: r n v n 
+0
+POS tags: r v n v v n r n 
+0
+POS tags: p r uj n c r uj vn 
+1
+POS tags: r uj n n v p d v v v v uj 
+0
+POS tags: p r i 
+0
+POS tags: r uj n v v ns vn 
+0
+POS tags: c d v m n 
+1
+POS tags: r v v p n v v r uj n 
+0
+POS tags: d a uj v v v c v m n uj n c r uj n 
+1
+POS tags: v p n v d n p n c v 
+1
+POS tags: n uj n d d a uj m d v 
+1
+POS tags: r d v v r uj r vn 
+1
+POS tags: n uj v n d nr v 
+1
+POS tags: p p n v uj n v 
+1
+POS tags: p n f uj n r f nz f 
+1
+POS tags: f r n f v d nz n 
+0
+POS tags: c v v vn nz 
+0
+POS tags: m n uj n r v m n uj n c m n 
+1
+POS tags: r v n k 
+1
+POS tags: v v v r d v p r v v r uj n u 
+0
+POS tags: c r t uj an d d v nr 
+0
+POS tags: c r uj n d v v r n v 
+1
+POS tags: r r v r uj n p r n l uj n d 
+1
+POS tags: r m n v r n uj n p c r vn uj n a 
+0
+POS tags: r v m n n d v 
+1
+POS tags: v v n v r p vn s 
+1
+POS tags: n v a n uj n 
+0
+POS tags: r v n v n v v nr 
+0
+POS tags: v m q ns n v r v nz 
+1
+POS tags: r m n uj n r v m n uj n c m n 
+0
+POS tags: r d v r uj n 
+0
+POS tags: r v r uj n p n n vn 
+0
+POS tags: r r n p m n v n vn 
+0
+POS tags: l v m uj n 
+1
+POS tags: c v l uj n n 
+0
+POS tags: r v p v v n c v uj 
+1
+POS tags: r v m n r v 
+1
+POS tags: d n m d r n v d v v r a uj n 
+1
+POS tags: n n v a ad uj n 
+0
+POS tags: n v z v 
+0
+POS tags: v p r n uj t v d v vn uj 
+1
+POS tags: r r v a uj n v v n 
+1
+POS tags: m n uj n vn n uj v v 
+0
+POS tags: c n d v 
+1
+POS tags: r r uj n v ad v 
+0
+POS tags: p ns f uj n v v d a 
+0
+POS tags: n vn n v 
+0
+POS tags: r c v v m uj n 
+1
+POS tags: vn n nr en q v v d v v uj n n a v 
+1
+POS tags: v r uj n 
+0
+POS tags: r c v m n uj n 
+0
+POS tags: r v r v vn r 
+0
+POS tags: p n 
+0
+POS tags: r v v a uj n 
+0
+POS tags: m v n d v v n vn 
+1
+POS tags: p r n v v uj n v i uj 
+1
+POS tags: n v n uj n 
+1
+POS tags: r n c n v v r v nz v uj n 
+0
+POS tags: r n p n c n f v un v un uj n 
+1
+POS tags: r d n uj n n v n m v n uj 
+1
+POS tags: r n v p u uj n ad v m 
+1
+POS tags: d n v r n p vn v v un v n un uj n n nr 
+1
+POS tags: r d a r v nz c v r n v nz uj 
+0
+POS tags: n n n uj v n v d v uj 
+0
+POS tags: n t n a 
+1
+POS tags: r n n p r uj s d v uj 
+0
+POS tags: c m n n v f 
+0
+POS tags: r vn v d uj vn n 
+0
+POS tags: r v nz 
+1
+POS tags: s v v vn v y 
+0
+POS tags: t nt v p n n v v m q 
+1
+POS tags: p s v v v v n n 
+1
+POS tags: p u uj n v n c v n uj n uj n p m n l 
+1
+POS tags: v m v v n 
+0
+POS tags: m b v v n un v k un uj vn 
+0
+POS tags: r v d a uj n y 
+1
+POS tags: n un r d n v v a r 
+0
+POS tags: d v p n v 
+0
+POS tags: r vn f a uj m v v l 
+0
+POS tags: r r p n m uj n f v p v uj n f uj n 
+0
+POS tags: c r v n k uj vn n 
+1
+POS tags: c n v v r uj 
+1
+POS tags: r d v r uj vn uj n 
+1
+POS tags: r uj n d v v v v n vn uj n 
+0
+POS tags: c n uj n v v v r n 
+1
+POS tags: n n r vn uj n v n f 
+1
+POS tags: p n v v uj v un r p r v n 
+0
+POS tags: v n v r vd v vn vn v uj n 
+0
+POS tags: r d v v n v vn 
+0
+POS tags: r d a 
+1
+POS tags: i n v n uj an 
+0
+POS tags: r v v uj n v v uj n 
+0
+POS tags: r c n uj n d u 
+0
+POS tags: r v r nz nr v r uj n y 
+1
+POS tags: c m n k v v 
+1
+POS tags: r v v ns 
+0
+POS tags: p r f 
+0
+POS tags: r v un q m v 
+1
+POS tags: n n d v v v v an 
+1
+POS tags: v n v r v v n uj n c r uj vn 
+1
+POS tags: v m n r v v m n 
+0
+POS tags: n p t v 
+0
+POS tags: l v d m uj n 
+1
+POS tags: c t p n uj vn vn v r v v v 
+1
+POS tags: p ns l f n uj n d v v v 
+0
+POS tags: r n v nz v an 
+1
+POS tags: r r n n p v d v v nz 
+1
+POS tags: p vn r n uj n 
+1
+POS tags: n v p r uj n 
+1
+POS tags: f d r v n d l n 
+1
+POS tags: n uj n v an c v 
+0
+POS tags: c v v r uj v v vn 
+0
+POS tags: r v p r n v m v r n uj n 
+0
+POS tags: t r d d v n 
+1
+POS tags: d v n q m q n uj v 
+1
+POS tags: r n v c v r n d v p n k v 
+1
+POS tags: r v vn v nz 
+1
+POS tags: r d v v v v r p r an uj n f v 
+0
+POS tags: r v r n v v 
+1
+POS tags: c r ad uj n v v p n q a 
+1
+POS tags: v n n uj n v v un n un 
+0
+POS tags: n l v p r uj v f v d a 
+1
+POS tags: r v v n uj n v m q n 
+1
+POS tags: r n r v v m p r uj t 
+0
+POS tags: vn v r v uj y 
+1
+POS tags: r n v un n v u n u r v u n 
+1
+POS tags: d d v d v v 
+1
+POS tags: c v n uj n v n uj 
+1
+POS tags: i r m 
+1
+POS tags: c r a v r a f d v r uj n 
+1
+POS tags: r m uj n d u v i uj 
+1
+POS tags: d v v @ nr n v ns 
+1
+POS tags: c r v v n n v v v n 
+0
+POS tags: p r vn a uj n n r uj n 
+1
+POS tags: t v n uj n d d v v 
+0
+POS tags: n v m n 
+0
+POS tags: mt df v r n n u d v r 
+0
+POS tags: c r v nz n p n 
+0
+POS tags: c r d d n n uj n 
+0
+POS tags: d v v 
+0
+POS tags: n v uj v 
+0
+POS tags: vn n v d a uj 
+0
+POS tags: c n d v v v uj n 
+1
+POS tags: n v f v m 
+1
+POS tags: vn nz uj a p nr mt v v nr v nz 
+0
+POS tags: m n v v a uj n 
+0
+POS tags: r p n v a uj vn 
+1
+POS tags: t r v n n v vn v d nz f 
+1
+POS tags: n n n n m 
+0
+POS tags: d v uj n v r n v n 
+0
+POS tags: b uj v en n f 
+1
+POS tags: r v v uj an v d 
+0
+POS tags: v v l v vn n uj n 
+1
+POS tags: r d v p n uj n 
+1
+POS tags: f d v v v 
+0
+POS tags: p r vn a uj m n v r n 
+1
+POS tags: c r d p r uj s f 
+1
+POS tags: r n p r d v 
+0
+POS tags: d d v r uj n v 
+1
+POS tags: n n s v v v y 
+0
+POS tags: v m n r v b n 
+1
+POS tags: r v v v a uj n 
+0
+POS tags: r v n uj n 
+1
+POS tags: d a uj n n c a uj n n v 
+0
+POS tags: n v r uj n r uj n uj 
+1
+POS tags: c d v v m uj an 
+0
+POS tags: i vn n c n 
+1
+POS tags: c p n uj n v v v r n 
+1
+POS tags: r d v v n d a y 
+0
+POS tags: n v d v p r s 
+0
+POS tags: m n v ns vn uj n v d v p v ns uj n 
+0
+POS tags: v v r ad uj vn 
+1
+POS tags: c n n d v v v n 
+0
+POS tags: r d v vn v r ad uj n 
+1
+POS tags: r uj n n v n u 
+1
+POS tags: r d v v r c n vn d a 
+1
+POS tags: v r f r v v vn 
+0
+POS tags: p ns d v d uj n 
+1
+POS tags: r uj n n v un n un r n 
+0
+POS tags: p m m n v vn 
+1
+POS tags: p r n d v n v v v v uj n 
+0
+POS tags: p n v r v r un v un p v uj n n v n d a uj v a m 
+0
+POS tags: p n uj v n v v r uj n v 
+1
+POS tags: r v v t uj v m an 
+0
+POS tags: r d v r d d v r r uj n 
+1
+POS tags: v v n d s v 
+0
+POS tags: r f p n nr d v n uj v 
+0
+POS tags: n uj n d p r uj s 
+1
+POS tags: r d v ns f 
+1
+POS tags: p nt vn n v 
+0
+POS tags: r v c l d v n 
+1
+POS tags: v v v n n 
+1
+POS tags: t n uj v n m 
+1
+POS tags: d d v r uj n c v r uj n 
+0
+POS tags: v r n d v d v r uj n n 
+0
+POS tags: v p v n c n v v n uj n v 
+0
+POS tags: c n v d v n 
+0
+POS tags: t m n c v l an 
+1
+POS tags: c d v a n vn vn 
+1
+POS tags: r r d v n v n f v n a n v v v vn 
+1
+POS tags: p r v uj n f v v m n 
+0
+POS tags: v n c v n uj n v 
+1
+POS tags: c p r uj v n n 
+1
+POS tags: f d v r r n uj t r m uj an an 
+0
+POS tags: r d v v r 
+0
+POS tags: v uj n v v n v f uj n 
+1
+POS tags: c d v v n v 
+0
+POS tags: r uj d n v n uj n v vn 
+0
+POS tags: c r en uj n v n n uj n uj en 
+1
+POS tags: r uj n v n a uj 
+0
+POS tags: r v n y 
+0
+POS tags: nz v r uj n d d a 
+1
+POS tags: c r r m uj v v r v v 
+1
+POS tags: d v d 
+0
+POS tags: n v n f v a r uj n 
+1
+POS tags: c n d v v an uj n 
+1
+POS tags: r v d v ns n s v n v n uj 
+0
+POS tags: t d v uj l uj n n v uj n c n n d v m uj an r uj un c r n f v mt a uj n 
+1
+POS tags: d v p f uj r uj an 
+0
+POS tags: p r uj v c l d d v 
+1
+POS tags: l n u v v v 
+0
+POS tags: vn n nr en q v d v v uj n n a v 
+0
+POS tags: c r n n a 
+1
+POS tags: d v v v p ns v nz n 
+0
+POS tags: c r v r v n v m p r p n a uj n 
+1
+POS tags: u v n v v a 
+1
+POS tags: r c d d v k 
+0
+POS tags: m n v p n uj n d d a v 
+1
+POS tags: v c v an 
+1
+POS tags: r v n v n p n v 
+1
+POS tags: d v v r r a 
+0
+POS tags: c r d d v mt an 
+0
+POS tags: c t j n d a 
+0
+POS tags: m c mt r n n d ad v 
+0
+POS tags: r n un v un v uj v n a uj n 
+0
+POS tags: r n v t ad d u 
+0
+POS tags: v r uj n r 
+1
+POS tags: n v r i 
+1
+POS tags: r n v v v p r n v v uj 
+0
+POS tags: c r d un q v 
+1
+POS tags: r p r uj vn d uj a e 
+1
+POS tags: d c v n v v r uj vn n c vn 
+1
+POS tags: v v r uj n 
+0
+POS tags: un n un d v d v 
+0
+POS tags: c n d v v r v d v uj n 
+1
+POS tags: vn uj n v t n v uj v n uj n 
+0
+POS tags: r d v t r n v v d a 
+1
+POS tags: d v r d v l 
+0
+POS tags: r q n v d v p r v n vn p v n n uj n n v uj 
+1
+POS tags: r n v v n uj vn n v c vn v v 
+0
+POS tags: r r n d s v v nz a uj n v 
+1
+POS tags: m n v uj nz n v n k v n uj n 
+0
+POS tags: c v v n 
+0
+POS tags: a m q 
+0
+POS tags: c vn v 
+0
+POS tags: r v l t m n uj l d v m uj n 
+1
+POS tags: v v n v n v a uj v q 
+0
+POS tags: r n uj t vn d a 
+0
+POS tags: v c r n uj n d a 
+0
+POS tags: r r d v n v n f v n a n v v v 
+0
+POS tags: r vn d a y 
+0
+POS tags: c v n uj n v b uj 
+1
+POS tags: r d v v r d v v n 
+1
+POS tags: c r uj n d n 
+0
+POS tags: v r nz 
+1
+POS tags: n v v n 
+0
+POS tags: r v v n uj n 
+1
+POS tags: r n v n v mt uj n 
+0
+POS tags: ns v v v m a n 
+0
+POS tags: r d v ns t v r mt q uj n 
+0
+POS tags: n n s v v nr 
+1
+POS tags: r v ad n vn v 
+1
+POS tags: c r v n m q p n n uj n n 
+0
+POS tags: d r v vn n uj vn 
+1
+POS tags: p l n n n 
+1
+POS tags: un v un d l v v v v r n 
+1
+POS tags: d v n vn v uj 
+0
+POS tags: r r n m n m q p a uj v v r v 
+0
+POS tags: p n n 
+0
+POS tags: c n n uj n 
+0
+POS tags: n v f 
+0
+POS tags: b n uj n v a uj 
+0
+POS tags: r r u vn f d v v 
+0
+POS tags: n p n v 
+1
+POS tags: c r d v d n v n uj n c n 
+0
+POS tags: k vn k v 
+0
+POS tags: c r v n uj n d v nz v n 
+1
+POS tags: p r r v v r l v v uj n 
+1
+POS tags: c r v n uj n d v q nz v n 
+0
+POS tags: d r v r d an 
+1
+POS tags: d v v q n v r 
+0
+POS tags: c r v p n vn 
+1
+POS tags: p n n 
+0
+POS tags: m ad v n uj n 
+1
+POS tags: n n d v d uj v 
+1
+POS tags: c v n c n uj n v v v v n uj n 
+0
+POS tags: t n i n vn 
+1
+POS tags: m vn n uj vn vn v 
+0
+POS tags: v r c n p n v m d v ad uj j n 
+1
+POS tags: c r d d a v m n 
+1
+POS tags: r f p nt v v 
+1
+POS tags: d v v r n v m n uj n 
+0
+POS tags: d r d v 
+1
+POS tags: c r d v t uj n v 
+1
+POS tags: v r a v v v n ad c v v uj n 
+1
+POS tags: r v n v 
+0
+POS tags: r v r v n v d a uj n 
+0
+POS tags: r p a uj n an v n 
+1
+POS tags: c r v v v n 
+0
+POS tags: v m n n d v p un n un n v ad v c v 
+0
+POS tags: n n v un m n ns v un r v 
+1
+POS tags: n v r uj n f r uj n uj 
+1
+POS tags: v t nt p ad uj n v v v 
+0
+POS tags: c r q v v r v uj n 
+0
+POS tags: c d v m n v n 
+1
+POS tags: c r v m v p f n v n v uj n 
+0
+POS tags: n v n v r uj 
+1
+POS tags: p r n uj vn v v n 
+0
+POS tags: r v v 
+0
+POS tags: p nz uj n v t n uj n v a uj n 
+0
+POS tags: d n n uj vn a 
+0
+POS tags: r v r n v uj v n 
+1
+POS tags: n v v r n uj n d n an 
+0
+POS tags: d v v r v a n 
+0
+POS tags: d a uj v d v 
+1
+POS tags: r v n n n v v uj 
+0
+POS tags: n f vn v n 
+1
+POS tags: r t n r n a uj n uj n 
+0
+POS tags: n uj n v d z v v uj n 
+1
+POS tags: c r v n v uj n d v v v 
+0
+POS tags: r v a uj n v v n 
+1
+POS tags: r v d v p un n v n uj nz v n un r n v n v 
+1
+POS tags: n r b v n 
+1
+POS tags: ns v m nz n r 
+1
+POS tags: t v n n v n 
+1
+POS tags: p n k v uj n d p v 
+0
+POS tags: t p n v m n 
+1
+POS tags: c d v n uj 
+0
+POS tags: r n v l 
+0
+POS tags: r d n uj n n v n m v n 
+1
+POS tags: r d v v vn v r ad uj n 
+0
+POS tags: r v p r f v m n k n v 
+1
+POS tags: r p i 
+0
+POS tags: un v un r n n a 
+0
+POS tags: n d m 
+1
+POS tags: v m v n d v n vn n f v v 
+0
+POS tags: n v m d an uj n 
+1
+POS tags: n p r uj n 
+1
+POS tags: t v r uj n 
+1
+POS tags: t m n f v uj n m 
+1
+POS tags: n nr 
+1
+POS tags: n v v r n f v m n 
+0
+POS tags: v m n v v d m n uj an 
+0
+POS tags: n uj r vn v d n n v uj 
+0
+POS tags: d v 
+1
+POS tags: c r n d v 
+1
+POS tags: d uj v v v 
+0
+POS tags: c r v n nr n uj n 
+0
+POS tags: r v v f v r 
+0
+POS tags: r d v n 
+1
+POS tags: p n uj v vn v n 
+0
+POS tags: p t n v n n n vn 
+0
+POS tags: r v v un n un p v n c nz v d a 
+0
+POS tags: c c p r n d v v n 
+1
+POS tags: p n c r uj p an n v a uj n r n 
+1
+POS tags: n v r n vn r uj n uj 
+0
+POS tags: r t d nr 
+0
+POS tags: r n d v n v v 
+0
+POS tags: r v p r n uj n n v m q a uj vn 
+0
+POS tags: n d v vn v n 
+1
+POS tags: n p r l v n v uj n a c r uj n uj vn p n v v uj 
+0
+POS tags: nz uj n v n d a 
+1
+POS tags: d v v v uj v n 
+1
+POS tags: c p n v v a n an n c n 
+1
+POS tags: d d v b n v uj a uj n v 
+0
+POS tags: s v v m a n 
+0
+POS tags: n v v r n n d n an 
+0
+POS tags: n uj n c n vn 
+1
+POS tags: n c n uj n 
+0
+POS tags: n v m an uj n 
+0
+POS tags: r v uj v v v vn uj an 
+0
+POS tags: c r v r n d d un n 
+1
+POS tags: r v r v f uj n v 
+1
+POS tags: v p r vn a uj m n n r uj n 
+1
+POS tags: d v r uj n v r 
+0
+POS tags: v m n v r nr j r q n 
+0
+POS tags: r v d n uj m n 
+1
+POS tags: r uj n v v n v v a uj v 
+1
+POS tags: r v d v v p n n uj vn uj n 
+0
+POS tags: v n v r n v n d uj 
+1
+POS tags: d v v uj 
+0
+POS tags: r v 
+0
+POS tags: n vn i 
+1
+POS tags: v m q n v d d v v 
+0
+POS tags: un d v un v n d ad uj v 
+0
+POS tags: n v p v v 
+0
+POS tags: n n v uj n v nr n n a v m 
+0
+POS tags: d n n a uj n vn 
+0
+POS tags: r n uj n v v nz v vn n n uj v 
+0
+POS tags: p r p b n f v n 
+0
+POS tags: v r v a v 
+1
+POS tags: c p r n 
+0
+POS tags: p p s v an m m 
+0
+POS tags: r d v n uj n n v v m mt 
+1
+POS tags: r n n p v r uj an uj n 
+1
+POS tags: v v ad n n 
+0
+POS tags: d v v v 
+0
+POS tags: r n p n uj n v n uj vn 
+1
+POS tags: r v v v v n c n v uj n 
+0
+POS tags: n uj n p m l uj n v d a uj n 
+0
+POS tags: c r v vn un n un 
+0
+POS tags: v r v 
+1
+POS tags: v r n v 
+0
+POS tags: r n v 
+1
+POS tags: ns n uj n b vn d v v v v n uj n n 
+1
+POS tags: r v ns f d v v r uj vn v v r 
+0
+POS tags: r d v m uj n 
+1
+POS tags: r d v r r m n uj n 
+1
+POS tags: d d v z n v p n 
+1
+POS tags: r d nz v i 
+1
+POS tags: p r n v d an 
+0
+POS tags: q d v a a 
+0
+POS tags: r un q 
+1
+POS tags: r nz v v 
+1
+POS tags: v r m n v v an c r d vn v v an 
+0
+POS tags: c n v y 
+0
+POS tags: d l 
+0
+POS tags: r v ns uj n 
+0
+POS tags: r v d a 
+1
+POS tags: p a uj n r d v v r r uj vn 
+1
+POS tags: r v n v d f 
+1
+POS tags: m n d d v v l 
+0
+POS tags: v m v n 
+1
+POS tags: d v f v n 
+0
+POS tags: r v f r uj n v n 
+1
+POS tags: n r d p vn uj n en un 
+1
+POS tags: ad n vn v 
+1
+POS tags: r v v v v m nz uj an 
+0
+POS tags: n mt uj t 
+0
+POS tags: r d v r vn uj n 
+1
+POS tags: n c v m n uj n 
+1
+POS tags: n t un n f d v n un p ns p s v m nz un c d v d n v v n 
+0
+POS tags: d n v r n p vn v v un v n un uj n y 
+1
+POS tags: c r uj n d v p nr 
+1
+POS tags: c d v uj 
+1
+POS tags: v t 
+0
+POS tags: c r b v n 
+0
+POS tags: c v n n i 
+0
+POS tags: n v n a 
+0
+POS tags: r d v r y 
+0
+POS tags: v v 
+1
+POS tags: r uj n n v un nz un uj 
+1
+POS tags: r p v uj r an d v r uj vn c v uj 
+1
+POS tags: r n ns n 
+0
+POS tags: t 
+0
+POS tags: r v an m 
+0
+POS tags: v ns n 
+0
+POS tags: r n uj n v d u 
+1
+POS tags: v n u n 
+0
+POS tags: c r d a v v v an 
+1
+POS tags: r v r r v r uj n v r uj an 
+0
+POS tags: t r n r v uj n 
+1
+POS tags: n ad uj n v p n v v uj n v r v uj l 
+1
+POS tags: r v v r n uj d a uj n d v uj n 
+1
+POS tags: r v n m n n d v 
+0
+POS tags: n v n k v n 
+1
+POS tags: c r d d n n uj n 
+1
+POS tags: r v r q n vn n uj v uj n 
+0
+POS tags: m n v uj nz v n k v n uj n 
+0
+POS tags: r n v m v vn uj n 
+0
+POS tags: r v n d v v v m q n 
+0
+POS tags: v v n n 
+0
+POS tags: c n v m n v m q d a c an uj n 
+0
+POS tags: r mt uj t n v s vn 
+1
+POS tags: v n uj vn d v mt 
+0
+POS tags: v v v uj v v 
+0
+POS tags: un vn un v nz uj 
+1
+POS tags: v uj an c n m 
+0
+POS tags: n uj vn 
+0
+POS tags: r r n v mt n p n n uj n s v 
+1
+POS tags: p n v p n uj vn v v v 
+0
+POS tags: r r n n v n vn 
+0
+POS tags: r v r nz v r uj n v v v a n uj n n 
+0
+POS tags: m n 
+1
+POS tags: r uj n d v v 
+0
+POS tags: n r v v n r n uj l 
+0
+POS tags: r v v t n uj n d v r n 
+1
+POS tags: p n v a uj nr n uj 
+1
+POS tags: r v n v n uj y 
+1
+POS tags: q d v a a uj 
+1
+POS tags: v n uj n uj n 
+0
+POS tags: r v a v v 
+1
+POS tags: p v n n 
+0
+POS tags: r v p r n d v uj n i 
+0
+POS tags: r uj m n p n v 
+0
+POS tags: r d v p r n v d c v uj n r 
+0
+POS tags: n n n d a uj 
+0
+POS tags: c nr r vd uj n 
+0
+POS tags: r t nt p p n v 
+1
+POS tags: f v v ad uj v m 
+1
+POS tags: r v v n v uj 
+0
+POS tags: a uj n v a uj n 
+1
+POS tags: c m q f v ns vn v n v n 
+0
+POS tags: c t r d v m q v d v uj an un r d v r 
+1
+POS tags: m q n n v v z vn 
+1
+POS tags: p n v v p n 
+1
+POS tags: p r f v 
+0
+POS tags: r n n p r uj s d v 
+1
+POS tags: ad uj v v n 
+1
+POS tags: c n n v n 
+0
+POS tags: n r a v m n 
+0
+POS tags: c l uj n n 
+1
+POS tags: p r n s d v v r n 
+1
+POS tags: n uj n n d v l uj 
+1
+POS tags: v d v n r d a d c v 
+0
+POS tags: n d v v n v uj n n 
+1
+POS tags: t n v v v v n uj n n 
+1
+POS tags: d v v n r v uj v d n uj 
+1
+POS tags: v n n v v v n uj 
+1
+POS tags: r v v 
+0
+POS tags: t r d v n k v v r n 
+1
+POS tags: c n n vn v n uj n n uj nz 
+1
+POS tags: v m n r v b n 
+0
+POS tags: n v q v r s vn uj 
+1
+POS tags: c d v m n r uj n 
+1
+POS tags: v p n uj m l vn d a 
+0
+POS tags: r d v v 
+1
+POS tags: c d v p r v d 
+0
+POS tags: r d a r v nz c v r n v nz 
+1
+POS tags: p r r n n uj n v f 
+0
+POS tags: v v an uj n 
+1
+POS tags: r n m v r v nr r v m 
+1
+POS tags: n v f v 
+0
+POS tags: c n v l 
+1
+POS tags: p r d d p r s v v n uj v uj n 
+1
+POS tags: c r v r n v r d a 
+1
+POS tags: c v v vn uj 
+0
+POS tags: d v m n 
+1
+POS tags: v v v n uj 
+0
+POS tags: c n ad d an uj n @ d v r v f d n v uj n 
+0
+POS tags: n k uj v d v n uj f v v m n n 
+0
+POS tags: v an 
+0
+POS tags: r vn p t a m 
+0
+POS tags: r v y 
+1
+POS tags: p ns p t m n v m n v 
+1
+POS tags: r v v f uj n v 
+0
+POS tags: d d r d v l 
+1
+POS tags: n r n p d v v 
+1
+POS tags: r d v n d v uj n v c 
+0
+POS tags: r uj m n d v m n n uj n 
+0
+POS tags: t uj m n 
+1
+POS tags: c r a uj n d v a n c n n v 
+0
+POS tags: d v v r v r n 
+1
+POS tags: v p p n k n v n p r d an uj n 
+0
+POS tags: r v r uj n v an 
+1
+POS tags: v n vn d v a 
+1
+POS tags: v v p n v n 
+0
+POS tags: f d p ns v 
+0
+POS tags: un d v un v n d ad uj v 
+1
+POS tags: r d v p r n v v d c v uj n r 
+1
+POS tags: n n d v uj 
+1
+POS tags: r d v r un n un n uj r v 
+0
+POS tags: v ns uj t a v n 
+0
+POS tags: v n v ad n v 
+1
+POS tags: c r v p r uj n 
+1
+POS tags: r c n n q v ns n n n v uj z n c z n n n 
+1
+POS tags: vn a uj n v v v r uj n 
+1
+POS tags: c t d v v 
+0
+POS tags: c m vn uj n v n q uj n 
+1
+POS tags: r v p vn ad uj n v v r 
+0
+POS tags: r uj s d v r uj n 
+1
+POS tags: r v p v v p n v n 
+1
+POS tags: r v v ns f 
+0
+POS tags: v n uj n v v r n f uj n 
+1
+POS tags: r v n v p r n v v vn 
+0
+POS tags: vn n 
+1
+POS tags: n v m uj m 
+1
+POS tags: n v n m 
+0
+POS tags: d v n m q n uj v 
+0
+POS tags: n r n d a 
+1
+POS tags: r n r uj n d v p v n v v c v n 
+0
+POS tags: t v n v a n n n 
+1
+POS tags: n v vn v d r n r uj n f vn 
+1
+POS tags: n p r n d d a 
+0
+POS tags: n v nz un v un uj n 
+1
+POS tags: r v n uj n n m uj vn 
+1
+POS tags: r v v d v n r n v uj n 
+0
+POS tags: r c v r d v v n v n 
+0
+POS tags: n v v n v n v a n 
+0
+POS tags: r m v v n 
+1
+POS tags: c n v r v 
+0
+POS tags: c r v r uj n d p r uj s 
+1
+POS tags: r d d v d v n mq q uj n n 
+0
+POS tags: vn a uj n v v r uj n 
+0
+POS tags: s n 
+0
+POS tags: p ns v 
+1
+POS tags: p nr vn m n n 
+0
+POS tags: f r n n m 
+0
+POS tags: v v mt uj n 
+0
+POS tags: c r v n uj 
+1
+POS tags: r d p n v v v v r uj v n 
+0
+POS tags: n p n uj v d n v 
+0
+POS tags: c d v ns 
+0
+POS tags: p v n uj n uj n d v vn n d v v r n uj a v 
+1
+POS tags: c v n uj n v n r v vn v 
+0
+POS tags: p r an uj n f v v uj n d v v a uj 
+1
+POS tags: c d r n d v l 
+0
+POS tags: d v v v d v n v 
+0
+POS tags: t r d v v v r v uj n 
+0
+POS tags: r uj n d v v t mt v r v 
+1
+POS tags: d v r n v a 
+1
+POS tags: r d r v r d n 
+0
+POS tags: r r n uj n v i uj 
+1
+POS tags: vn f uj un v un c un v un uj n d d v v 
+0
+POS tags: p n m n m v v m n n vn c v n n 
+0
+POS tags: d a 
+1
+POS tags: r uj n r v v 
+0
+POS tags: r t v v m n uj n 
+1
+POS tags: p r uj n d p t uj r vn v a 
+1
+POS tags: v v v v r v n 
+0
+POS tags: df v v m n 
+0
+POS tags: f r v n d l n 
+1
+POS tags: c v v n uj 
+1
+POS tags: c v v mt uj t uj r m n 
+0
+POS tags: c r uj vn n v a 
+1
+POS tags: n d n v 
+1
+POS tags: r n d v v un n un r n 
+1
+POS tags: c r c r n v n uj v 
+1
+POS tags: r n m ns n 
+1
+POS tags: d r n uj n d u uj 
+1
+POS tags: v p n an c n n uj vn d uj n 
+1
+POS tags: v n d v v nz v uj n uj an c an 
+1
+POS tags: v v nz n k 
+0
+POS tags: rz n 
+0
+POS tags: v r n n p j d v n 
+0
+POS tags: r v m ns n 
+0
+POS tags: r v n uj m m n v n 
+0
+POS tags: r v r n n 
+0
+POS tags: r v ns uj n n v 
+0
+POS tags: v v n uj n 
+0
+POS tags: n n a 
+1
+POS tags: n en v vn v d n uj 
+0
+POS tags: f uj s d v v n v v mq n p v n c v 
+0
+POS tags: r d t p ns v 
+0
+POS tags: v n c n 
+0
+POS tags: p r uj r uj vn 
+0
+POS tags: d v v v 
+1
+POS tags: p un n p v n uj n 
+1
+POS tags: v n c a v n d v d a uj 
+0
+POS tags: n nt vn t nz 
+0
+POS tags: v r 
+1
+POS tags: r v v c v p v uj n uj n 
+0
+POS tags: n v nr v 
+1
+POS tags: v v m n d v d v 
+0
+POS tags: n v nz 
+0
+POS tags: v p n v nr m 
+0
+POS tags: t uj n n d i uj n 
+0
+POS tags: n v n uj n v n uj n 
+0
+POS tags: t r r t uj v v y 
+0
+POS tags: v v r n 
+1
+POS tags: n c n d p n uj vn d a 
+0
+POS tags: m n n v v v n 
+0
+POS tags: r v vn a uj 
+0
+POS tags: v p n an c n n uj vn d n 
+0
+POS tags: d d v 
+0
+POS tags: c r uj n d n v 
+0
+POS tags: c n v n 
+0
+POS tags: r d v 
+1
+POS tags: p r n n v r v f uj a n 
+0
+POS tags: r n n p v v 
+0
+POS tags: t v uj n d d v v 
+1
+POS tags: v v n uj p ns uj n 
+1
+POS tags: vn uj n n v 
+1
+POS tags: r m n d v 
+0
+POS tags: c r uj n c f uj n p r an 
+0
+POS tags: p n n u 
+1
+POS tags: r d v v p an c n n v r uj n 
+1
+POS tags: vn v nr v uj y 
+1
+POS tags: c r v r d v nr uj n v 
+0
+POS tags: r v n v uj n 
+1
+POS tags: r p n k v a uj vn 
+0
+POS tags: c r df 
+0
+POS tags: r uj s d ad 
+0
+POS tags: d v uj v r uj n 
+1
+POS tags: d v v n v m m v n 
+1
+POS tags: r d v v t r n v v d a 
+0
+POS tags: n v d v v v uj n 
+0
+POS tags: r d an 
+0
+POS tags: c r vn d v 
+0
+POS tags: p ns v ns 
+1
+POS tags: c v r d v v v 
+1
+POS tags: c r v v n uj n n c v uj 
+1
+POS tags: d r uj v d d an 
+1
+POS tags: v p n n an uj n d v i uj 
+1
+POS tags: m v n p n uj l d v v c n vn 
+1
+POS tags: r t d d v r v v uj n c v v uj n y 
+1
+POS tags: n d v v p n n uj n 
+1
+POS tags: p n v vn 
+1
+POS tags: n uj vn nr n r l v v uj 
+0
+POS tags: p n v v n uj an 
+0
+POS tags: v r p r d v m 
+0
+POS tags: r p n m d v v nz 
+0
+POS tags: d v v uj v n 
+1
+POS tags: r n v i uj 
+1
+POS tags: t p r n ns v m n 
+1
+POS tags: v d v v d v r n an uj vn 
+1
+POS tags: r v m n v v n k s v vn 
+0
+POS tags: c p n f vn r d v an 
+0
+POS tags: r d v n n a uj nz ad n v v 
+0
+POS tags: r n v v n uj v v uj n 
+1
+POS tags: r d v v n r nr 
+0
+POS tags: n t uj n 
+1
+POS tags: n uj n 
+0
+POS tags: r r n uj n d v n v r v n uj n 
+1
+POS tags: v i d v r m n 
+0
+POS tags: v n v n c v v u v p s 
+1
+POS tags: r v v un n un p v n c nz v d d a 
+0
+POS tags: r v r d f r v v ns 
+0
+POS tags: r v p s d v n uj n 
+0
+POS tags: l uj vn c v p v uj n v n v a v a uj 
+0
+POS tags: r v v n 
+1
+POS tags: n vn n uj v 
+1
+POS tags: r d v vn v r d ad uj n 
+0
+POS tags: r d v vn v r ad uj n 
+0
+POS tags: r n v i 
+0
+POS tags: v d p f uj n d v n 
+0
+POS tags: r t v v nr v uj un n un 
+0
+POS tags: vn n nr en q v d v v uj n n a v 
+1
+POS tags: d v p ns n uj n 
+1
+POS tags: r v v p n v n r 
+1
+POS tags: p t n v 
+1
+POS tags: r v v v r n uj vn 
+0
+POS tags: r n p n c n f v un v un uj n 
+0
+POS tags: r n v l 
+1
+POS tags: d v p n 
+0
+POS tags: d v v r m n d a v v 
+0
+POS tags: r uj n d d an 
+0
+POS tags: r d v nz v ns uj n 
+0
+POS tags: n v n n v 
+1
+POS tags: r v n v n p vn n v v v 
+1
+POS tags: v r r n n d l uj n 
+0
+POS tags: p n v v r l v v uj n 
+0
+POS tags: n c n d v d vn uj n 
+1
+POS tags: r v r d v vn v r r uj n 
+0
+POS tags: n v p f a ng vn s v uj 
+1
+POS tags: n v v n n 
+1
+POS tags: d a uj v v v c v m n uj n k c r uj n 
+1
+POS tags: v v n uj n v uj n c n v uj n 
+0
+POS tags: t v r uj n 
+0
+POS tags: n v uj n v n 
+0
+POS tags: c n n vn v n uj n 
+1
+POS tags: r v r v vn r n n vn 
+1
+POS tags: r r n v n d v a 
+1
+POS tags: c p n uj v 
+1
+POS tags: r v r n n v vn r v p r n 
+0
+POS tags: r z n v vn uj n 
+1
+POS tags: c v r uj an 
+0
+POS tags: t d v v 
+1
+POS tags: r v r v vn r n uj vn 
+0
+POS tags: r d v r un l 
+1
+POS tags: mq n p v n v d ad 
+0
+POS tags: r d v v v n d p n n v n v p s uj n 
+0
+POS tags: v v n 
+0
+POS tags: d v v m d r n 
+0
+POS tags: d v vn uj 
+0
+POS tags: v r n 
+1
+POS tags: c p r uj n 
+1
+POS tags: d p l d v a uj v 
+0
+POS tags: c r d r v r un r r v nz 
+0
+POS tags: r n r d a uj n c n v r a n 
+0
+POS tags: r v l r a n 
+0
+POS tags: n v d v n uj n c n 
+0
+POS tags: r d v n 
+1
+POS tags: v t v mt f 
+1
+POS tags: r d v v nz v ns uj n 
+0
+POS tags: r uj m b n n m n uj n 
+0
+POS tags: an n v v uj n 
+0
+POS tags: r d v v v an n 
+0
+POS tags: r d v n d v uj n v 
+1
+POS tags: r m k v v n 
+0
+POS tags: r d v r v nz v n f v 
+1
+POS tags: d r v v r n 
+1
+POS tags: r nz v v r v uj 
+1
+POS tags: t r d v v r r v 
+1
+POS tags: mt df v r n n u d v r v 
+1
+POS tags: t r v v p r uj nz v v v 
+0
+POS tags: c p p n uj n n 
+0
+POS tags: s p v uj n d m v 
+0
+POS tags: v uj n v n v 
+1
+POS tags: r p v b n v uj n uj v 
+0
+POS tags: c d v 
+1
+POS tags: v r d d v r uj n 
+0
+POS tags: n n v ad uj n 
+0
+POS tags: n nz r p n vn 
+0
+POS tags: v p r c n v a 
+1
+POS tags: r n d d v uj 
+0
+POS tags: r v r n uj n v v v r n 
+0
+POS tags: r d v n 
+1
+POS tags: t v r uj n y 
+0
+POS tags: c r d v v 
+0
+POS tags: un v un d l v v v r n 
+0
+POS tags: n r uj n v v n mt uj n 
+0
+POS tags: c nz r v 
+1
+POS tags: p n uj a 
+0
+POS tags: l v 
+0
+POS tags: t r p m n n n v nz 
+1
+POS tags: c r v s v v vn n 
+0
+POS tags: c d v v d a uj 
+0
+POS tags: n v n uj n n d d nz v v 
+0
+POS tags: r n uj n v v nz v vn n n uj v 
+1
+POS tags: r vn p r d n uj 
+1
+POS tags: v mt uj z n 
+1
+POS tags: c v s v uj 
+0
+POS tags: r v n d v v n uj 
+0
+POS tags: c n d v v an uj n 
+1
+POS tags: r r v uj n 
+1
+POS tags: v v m uj n n 
+1
+POS tags: r v r n p n an d n y 
+0
+POS tags: r p r uj vn v v vn 
+0
+POS tags: i vn n c n 
+0
+POS tags: c p r v r n d n n v 
+0
+POS tags: u uj v vn uj n n 
+0
+POS tags: c r d d v uj n v ns 
+1
+POS tags: p v v ns uj n f 
+0
+POS tags: c r v n 
+1
+POS tags: n n d v u d r n 
+1
+POS tags: p n d v v 
+0
+POS tags: r v c n p s v 
+0
+POS tags: r v p r v n 
+0
+POS tags: c r d v v un n un uj n 
+0
+POS tags: d v m n r n m q i 
+0
+POS tags: r v t uj ns uj n v n uj n v n c n v n k uj n uj n uj n 
+1
+POS tags: n ng n n f v v 
+0
+POS tags: a r 
+1
+POS tags: r v n n 
+0
+POS tags: d v f n uj n an 
+0
+POS tags: d n n v 
+0
+POS tags: vn v r n d d v v n v n 
+0
+POS tags: n m uj n p n v d a 
+1
+POS tags: c n r n d a 
+0
+POS tags: c m q f v ns vn v n n 
+0
+POS tags: r v r m q d v v s 
+1
+POS tags: c l 
+1
+POS tags: r d d v b ng v 
+0
+POS tags: n v q n 
+0
+POS tags: c r v v r 
+1
+POS tags: r c p m f n vn 
+1
+POS tags: v an v d v n uj m q vn v 
+1
+POS tags: p i vn n c n 
+0
+POS tags: f k v n uj n d v uj v n p r n f uj n c v v n 
+0
+POS tags: vd 
+1
+POS tags: c r v n v v m n v n uj 
+1
+POS tags: d n d d d v p n n uj p 
+1
+POS tags: n f vn d v n 
+1
+POS tags: n r 
+1
+POS tags: r n v v n uj n 
+0
+POS tags: d v 
+0
+POS tags: v n f 
+1
+POS tags: r d v v v q n v 
+0
+POS tags: v mt v n m n d n n v a v uj 
+0
+POS tags: r r v v r d a uj n v 
+1
+POS tags: v z z uj v 
+0
+POS tags: r v uj n r v v v ns 
+0
+POS tags: r v rz n v uj ad v m q v n uj n 
+1
+POS tags: d v v n p n v v v v n 
+0
+POS tags: r v a uj n v v n 
+0
+POS tags: r u p n n a 
+0
+POS tags: v v nz n uj n d v v r n 
+0
+POS tags: r d v v p m v n n c r v v uj n 
+1
+POS tags: r d v v m n c n n v vn r 
+1
+POS tags: n n ad uj n f uj v v v a n 
+1
+POS tags: c d v v 
+1
+POS tags: n r a d d v uj 
+0
+POS tags: v v m n uj m q vn v 
+0
+POS tags: c n d v v 
+0
+POS tags: v d d v v n vn 
+1
+POS tags: r j n v d v v un n un uj n 
+0
+POS tags: d vn nz uj n d v n v v c n 
+0
+POS tags: n vn f d n uj v n nr p v nr 
+1
+POS tags: p n r m d n 
+0
+POS tags: v v v n v n uj m q ad n 
+0
+POS tags: v r uj n m 
+1
+POS tags: r v p v v n uj n uj n v n r c v vn v r n uj 
+0
+POS tags: d a f 
+1
+POS tags: t n n v uj n m 
+1
+POS tags: r n v l n 
+0
+POS tags: d p n f vn 
+0
+POS tags: a uj v vn r n 
+0
+POS tags: c v p n n n 
+1
+POS tags: r p n p n r n v n 
+0
+POS tags: c r n d n 
+0
+POS tags: r d v ns v v vn 
+0
+POS tags: c r uj n r d v v 
+1
+POS tags: v v uj n v n v 
+1
+POS tags: v n uj d v n uj n 
+0
+POS tags: t p ns v nz uj n v m vn uj n 
+1
+POS tags: r j q uj n r d d v r d v 
+1
+POS tags: c n v v l 
+0
+POS tags: v n f v d v vn 
+1
+POS tags: d vn r uj n m n d n 
+0
+POS tags: r n n 
+0
+POS tags: m v m n 
+0
+POS tags: vn uj n v v n n v uj m n 
+0
+POS tags: c d p s uj n v v v v 
+1
+POS tags: r d v v v 
+0
+POS tags: c r n v v an uj a n 
+0
+POS tags: n c an v d a uj 
+1
+POS tags: r n v r v p r v n n v v d uj v 
+0
+POS tags: r v v a n c n uj n 
+0
+POS tags: c m n v v 
+1
+POS tags: r v n k 
+1
+POS tags: n r n uj r n i 
+0
+POS tags: v r n u 
+0
+POS tags: m n n n 
+1
+POS tags: n v nr v v 
+0
+POS tags: a uj n n c a uj n n v 
+0
+POS tags: c r v n d v 
+1
+POS tags: v v r uj v 
+0
+POS tags: r v v v a uj 
+1
+POS tags: p r r uj n v n n v n v v 
+0
+POS tags: m n v v a uj n 
+1
+POS tags: c d n n v 
+1
+POS tags: n k r d v v v n v d ad uj n 
+1
+POS tags: c r v n d v 
+1
+POS tags: n d v p n d v v p vn n 
+1
+POS tags: c r d n r 
+0
+POS tags: c n r v v 
+1
+POS tags: n d m v 
+0
+POS tags: n n d v 
+0
+POS tags: r n v n v r p s vn uj n 
+0
+POS tags: r m v d v v v uj n 
+1
+POS tags: p t uj vn d v uj n v 
+0
+POS tags: c d v r 
+1
+POS tags: vn nz c q a p v n 
+0
+POS tags: n n v d v r d v v r uj vn v 
+0
+POS tags: r p r uj v n d n 
+1
+POS tags: r v p r v v n 
+1
+POS tags: l d p d n v v r n 
+0
+POS tags: s uj n d p r p n v 
+0
+POS tags: v r r v v vn 
+1
+POS tags: p r n v n uj 
+1
+POS tags: r n v r m n vn uj 
+1
+POS tags: n c v d v m n v r v 
+1
+POS tags: n v r uj p n 
+0
+POS tags: n n v n vn uj n vn uj n v un n un 
+0
+POS tags: v v n v n 
+0
+POS tags: r uj n v v nz n vn 
+0
+POS tags: n n 
+1
+POS tags: r p a n v v ns uj n v d uj vn 
+0
+POS tags: r v ns uj n n v 
+1
+POS tags: v v p vn uj n 
+1
+POS tags: r v v t n uj n v d v r n 
+0
+POS tags: c vn l 
+0
+POS tags: d n v n v uj 
+1
+POS tags: c v t c v uj 
+0
+POS tags: c n uj n d v n v n uj n 
+1
+POS tags: n d v n m n 
+1
+POS tags: r n n n v v mt v uj n 
+1
+POS tags: d p n f vn v 
+1
+POS tags: r d v ns f d d v ns uj l 
+0
+POS tags: c r vn v v r m n d v vn l 
+1
+POS tags: r v v un nr d d n ng n un 
+0
+POS tags: r vn p r v d a 
+1
+POS tags: v r uj n v v a n c d v a n uj 
+1
+POS tags: d d v d uj n 
+1
+POS tags: p r d d a uj 
+1
+POS tags: v v v 
+1
+POS tags: r uj vn v p r v nz uj m q v 
+1
+POS tags: t r s v v uj v n uj n v d vd 
+0
+POS tags: r d d v r 
+0
+POS tags: r r n d v r v v v v r 
+0
+POS tags: c r n n r v n d a 
+0
+POS tags: v n n v un v un n 
+1
+POS tags: r n d v q t vn 
+1
+POS tags: r m i an n v v 
+0
+POS tags: v a uj n n v uj 
+0
+POS tags: r v a uj v n c v d v m n c d v d m n 
+0
+POS tags: r p v uj r an d v r uj vn v uj 
+0
+POS tags: t s n r 
+1
+POS tags: m n p n d vn 
+1
+POS tags: r d v v v n n 
+1
+POS tags: p n v n a 
+0
+POS tags: m an uj n p n 
+0
+POS tags: r v v m an 
+0
+POS tags: vn d an 
+1
+POS tags: c r v nz n n n 
+1
+POS tags: m n c m n f 
+0
+POS tags: r d v n uj n 
+0
+POS tags: n uj v n n uj v 
+1
+POS tags: n r t v v d m 
+1
+POS tags: vn n b n v m n 
+0
+POS tags: v r uj n 
+1
+POS tags: c r v n un n v n uj nz v n un 
+1
+POS tags: r uj n v n uj v v a uj v 
+0
+POS tags: n b vn v d v v n k v 
+0
+POS tags: p r v n 
+0
+POS tags: n d v p v v vn v 
+1
+POS tags: d vn d v uj 
+0
+POS tags: c r v m n r 
+1
+POS tags: mt d v v v 
+1
+POS tags: r mt df v r m uj vn e 
+0
+POS tags: d v r v 
+0
+POS tags: r v n uj n m v 
+1
+POS tags: c v v vn nz c n uj v n 
+0
+POS tags: n c n d v v 
+1
+POS tags: n v n v n uj n c v n 
+1
+POS tags: d v n v v uj 
+1
+POS tags: v f m n p ns v v n n 
+0
+POS tags: c r v l v a uj 
+1
+POS tags: v l v nz r c r t v r 
+1
+POS tags: d r uj n uj n v v n uj v 
+1
+POS tags: c v v uj n v v a uj v 
+1
+POS tags: r n n d p n v v 
+0
+POS tags: v r n d v m n 
+0
+POS tags: r v v v r u uj n 
+0
+POS tags: vn n uj m v v 
+0
+POS tags: c d v 
+0
+POS tags: r m q n v n d ad v uj 
+0
+POS tags: t uj n v a uj 
+0
+POS tags: r v v r m n n 
+0
+POS tags: vn n r mt df v 
+0
+POS tags: r n d vd p l 
+0
+POS tags: r v v a n uj n 
+0
+POS tags: p nr vn m n 
+1
+POS tags: t r p v m n n n v nz 
+1
+POS tags: l r v v y 
+0
+POS tags: v p n an uj vn 
+0
+POS tags: r r n uj v v v n 
+0
+POS tags: un n un n d a uj v d v v n 
+1
+POS tags: r r v v r d a uj n v uj 
+0
+POS tags: n n n m 
+0
+POS tags: c r d p r uj s 
+0
+POS tags: r d d v d v mq q uj n n 
+1
+POS tags: r r n n v n vn v 
+1
+POS tags: v r n v d v d v r uj n n 
+1
+POS tags: c s d v ns n uj 
+0
+POS tags: r v n 
+1
+POS tags: p n v 
+1
+POS tags: r uj n v n 
+0
+POS tags: r p r uj vn a 
+1
+POS tags: n v p n v ad uj vn 
+0
+POS tags: m v n 
+0
+POS tags: vn ad c v v r 
+1
+POS tags: c r df v 
+1
+POS tags: n p t vd v p n n v uj v uj n v n c v 
+1
+POS tags: p l 
+1
+POS tags: c r v n v 
+1
+POS tags: d v q i 
+1
+POS tags: n n uj v d v p r v n uj v v n uj n 
+0
+POS tags: r n v r p r v n n v v d uj v 
+1
+POS tags: r m n d v v n 
+0
+POS tags: t r v uj v n uj n n c n l 
+1
+POS tags: t r v uj v n uj n n c n uj l 
+1
+POS tags: r uj n p n c n f v r a v 
+0
+POS tags: c n r uj n v v n uj n vn uj vn 
+0
+POS tags: ad uj v v n 
+0
+POS tags: r uj n v v p t v p v uj v uj n 
+1
+POS tags: m m n v v a v uj n f v v d a 
+1
+POS tags: c t uj t uj v v t v d u 
+1
+POS tags: r d v 
+0
+POS tags: r v r r d v v 
+0
+POS tags: ns d d v 
+0
+POS tags: m n n d vn 
+0
+POS tags: l l uj n n v p n v 
+1
+POS tags: d v uj v q r uj n 
+0
+POS tags: n v n m n 
+1
+POS tags: v v m n v v un n un p n d a 
+1
+POS tags: d v l uj v v n a 
+0
+POS tags: r v ns v p vn 
+1
+POS tags: t p r ns v v n v vn uj n 
+1
+POS tags: d v r uj n r 
+0
+POS tags: r d v ns ns 
+1
+POS tags: n n v uj n vn n d v v 
+0
+POS tags: n uj n 
+0
+POS tags: p 
+0
+POS tags: r uj n v 
+0
+POS tags: c a v n v r uj n 
+1
+POS tags: r uj n d p r s v r v 
+1
+POS tags: r p n n c v v n uj n n 
+1
+POS tags: r d uj vn r 
+1
+POS tags: n d v vn v d v 
+1
+POS tags: r an uj v 
+0
+POS tags: r p mq n v n 
+0
+POS tags: c n d v n uj n 
+1
+POS tags: c t r uj r n r v n vn v 
+1
+POS tags: r uj n v d nz n 
+1
+POS tags: n v n d d v n uj v 
+1
+POS tags: n a ns n d v p r v uj 
+1
+POS tags: v f d n 
+1
+POS tags: t r v uj r n n d d a v 
+0
+POS tags: v m q n 
+1
+POS tags: f r n d v v r n vn uj n 
+1
+POS tags: d d v r v r vn d a v 
+0
+POS tags: d v v an v 
+1
+POS tags: n v n k v v n 
+0
+POS tags: n un n 
+1
+POS tags: c d v d a 
+1
+POS tags: n n n f d a uj 
+1
+POS tags: p v vn r uj n v 
+0
+POS tags: v r uj n 
+0
+POS tags: f d v v 
+0
+POS tags: r n d a 
+0
+POS tags: v m n v 
+0
+POS tags: p r vn a uj m n v n 
+1
+POS tags: r d v v v 
+0
+POS tags: p r v n n 
+1
+POS tags: r d n uj n d v 
+1
+POS tags: v v v n 
+1
+POS tags: c v n v n v v v r u uj n 
+1
+POS tags: v un n un n v n uj vn 
+1
+POS tags: c v n n uj n uj vn d a 
+0
+POS tags: d v q n v r 
+0
+POS tags: p p t vn f 
+1
+POS tags: c r v v v uj d n 
+1
+POS tags: r t v n m n uj m n n 
+0
+POS tags: c r d d v v n 
+1
+POS tags: c n f d v n uj n 
+1
+POS tags: c r uj n v r v v 
+1
+POS tags: n c n d v s d vn uj n 
+1
+POS tags: r nr n uj d nz 
+0
+POS tags: c r 
+0
+POS tags: l t d v m q v v 
+0
+POS tags: r n n v r uj an uj n 
+0
+POS tags: r v n n b uj v v 
+0
+POS tags: t uj n c nz n n p v n v v n 
+1
+POS tags: p m m n v v vn 
+0
+POS tags: ns n f 
+1
+POS tags: n uj s p f a v m v 
+0
+POS tags: v r n r r v r n d v r s v 
+0
+POS tags: c v v d v v d an uj n 
+0
+POS tags: n c n uj n v i 
+0
+POS tags: r v 
+0
+POS tags: v r uj n r m q n v v d uj n 
+1
+POS tags: p n v v n uj 
+0
+POS tags: un n un p u uj n a 
+0
+POS tags: r v uj n p ns f uj n f 
+1
+POS tags: v m n uj m n v r vn v uj v n 
+1
+POS tags: c r n p r v d a v uj 
+0
+POS tags: p n r n i 
+0
+POS tags: d n uj n v n n d v m d uj n 
+0
+POS tags: d un n un d d v 
+0
+POS tags: n p n v v d a uj v 
+1
+POS tags: v m q n y 
+0
+POS tags: p p n v s uj n d a 
+1
+POS tags: r d b v v v nz c nz 
+0
+POS tags: n v n vn 
+1
+POS tags: r p vn nz 
+0
+POS tags: c n uj n d v ns v 
+1
+POS tags: p r d v uj n v 
+1
+POS tags: p vn n c an 
+0
+POS tags: n v n n 
+0
+POS tags: r d v r d v uj n 
+1
+POS tags: m n n uj vn v v 
+0
+POS tags: r v m n uj 
+1
+POS tags: c v v l v r n uj n d n vd v r n 
+1
+POS tags: p p s v f 
+1
+POS tags: c n v v n uj n 
+1
+POS tags: c v v l uj v d uj vn 
+0
+POS tags: r n r d v uj n ns uj vn r 
+1
+POS tags: d a uj n v r vn 
+0
+POS tags: a uj n uj v p a uj n uj v 
+0
+POS tags: n v d an uj n 
+1
+POS tags: p nz n 
+1
+POS tags: d v m n v v n 
+0
+POS tags: r p n n c v v n uj n 
+1
+POS tags: r n uj n v p v p an uj vn vn uj n 
+0
+POS tags: m n v r n v v v p n an c n n uj vn 
+0
+POS tags: v ns d v v 
+1
+POS tags: r n d v n n 
+0
+POS tags: d r n n v 
+1
+POS tags: r d v v v n d p r n n v n v p s uj n 
+0
+POS tags: c r v 
+0
+POS tags: r r n n p v v nz 
+1
+POS tags: r v p r n v v 
+0
+POS tags: n v n uj vn n c n uj o n uj n 
+1
+POS tags: c p r uj n r d v v 
+0
+POS tags: d v n v n v v 
+1
+POS tags: c r p p v v d uj n 
+0
+POS tags: d v r p r d a 
+0
+POS tags: v uj d v n uj n 
+0
+POS tags: n a 
+0
+POS tags: r v v 
+1
+POS tags: v m b uj p f k v k v v 
+1
+POS tags: n d v uj 
+1
+POS tags: n p n vn v n 
+0
+POS tags: p p v f 
+1
+POS tags: p q n v v r f uj i 
+0
+POS tags: v an d v n uj m q vn v 
+1
+POS tags: b v v n uj n vg 
+0
+POS tags: r v r n uj n v n uj 
+0
+POS tags: v r uj v 
+0
+POS tags: v n uj n 
+1
+POS tags: p n n uj n u 
+1
+POS tags: c n uj n d a uj 
+1
+POS tags: r v t v v m n v v v uj n c v n 
+0
+POS tags: r v nz v uj n 
+0
+POS tags: r p v an uj v uj n d r v v 
+1
+POS tags: c r v n i uj 
+0
+POS tags: r v r q n vn n uj v n 
+0
+POS tags: n d v n n 
+0
+POS tags: r v uj n m 
+0
+POS tags: c n n v mt ad 
+0
+POS tags: r s v y 
+1
+POS tags: nt v v a uj n v vn n n 
+0
+POS tags: p t vn d v uj n v 
+0
+POS tags: v p n d v vn 
+0
+POS tags: c r uj m n v m d v v 
+1
+POS tags: r v v n m 
+1
+POS tags: vn v v n v 
+0
+POS tags: a v r v r v 
+0
+POS tags: r n mt v n n ns 
+0
+POS tags: c r v r d v 
+1
+POS tags: r v n n c n d d d vn v n 
+1
+POS tags: f r v r uj v 
+0
+POS tags: v f m n p ns v n n 
+0
+POS tags: c d v p r v 
+1
+POS tags: r n n v n d v r 
+0
+POS tags: r v r m n p n f v n v r uj n 
+1
+POS tags: n v n uj n n d d nz v v v 
+1
+POS tags: n v n v v n uj 
+0
+POS tags: d vn d a 
+0
+POS tags: d v a uj n r v v a uj n y 
+0
+POS tags: v vn a uj n 
+0
+POS tags: m n n vn p m d v ng uj n f 
+1
+POS tags: n v n v q a uj n 
+1
+POS tags: p vn n an c n n un v vn p n uj v 
+1
+POS tags: v n uj d v v d d v v r v v d v an 
+1
+POS tags: d v v p r r v r n 
+1
+POS tags: v m n c d v r p n v uj vn v v nr n v 
+0
+POS tags: p n r v uj n f v m d v r uj 
+0
+POS tags: c n n 
+0
+POS tags: r n uj n v 
+0
+POS tags: c v p n n n 
+1
+POS tags: n v m q v uj vn n 
+1
+POS tags: vn d v d a uj 
+0
+POS tags: r t d v v v d m q n uj n 
+1
+POS tags: c v v v n nr uj an 
+0
+POS tags: p vn vn uj nz i 
+0
+POS tags: n p v vn n uj n v r ad uj v n 
+1
+POS tags: p n uj n d v n 
+1
+POS tags: r d z v 
+1
+POS tags: l v uj n 
+0
+POS tags: c un nz v un d v n 
+1
+POS tags: p t 
+1
+POS tags: c p vn uj vn v vn 
+1
+POS tags: n n p v f m d n n uj vn c vn v v uj 
+0
+POS tags: v n v v k uj an 
+1
+POS tags: r d v r v nz v n f v 
+1
+POS tags: p n k p r uj vn d d v 
+0
+POS tags: r v n c v r n uj n 
+0
+POS tags: r v ad vn 
+0
+POS tags: t m q n n uj vn d n 
+0
+POS tags: n c n 
+0
+POS tags: c r v vn 
+1
+POS tags: n n s v m n v 
+0
+POS tags: r v ns uj n d v v v r uj n 
+1
+POS tags: r v n uj n n c n n d d a v 
+1
+POS tags: r uj n uj n v 
+0
+POS tags: r n r p vn v uj n 
+1
+POS tags: c r en uj n v n n uj n uj en 
+1
+POS tags: d v v v v v v n 
+1
+POS tags: n p v r m v 
+1
+POS tags: r v p nz 
+0
+POS tags: r v n n 
+1
+POS tags: r v ns uj r n uj v 
+1
+POS tags: r uj t uj vn d v a uj v v ns v v 
+1
+POS tags: v v n 
+0
+POS tags: p n v n uj n n uj n v d n uj 
+1
+POS tags: r v m n k 
+0
+POS tags: t d a r 
+1
+POS tags: r v r q n c d d d r v v uj n 
+0
+POS tags: p v a uj nr n uj 
+1
+POS tags: r n d v l uj 
+0
+POS tags: v p n an uj n d v i uj 
+1
+POS tags: r n d a v v 
+1
+POS tags: n p n v v v c v uj 
+1
+POS tags: d v n v 
+0
+POS tags: n p v uj n vn n d v v 
+1
+POS tags: p r v d v v v m ns n 
+0
+POS tags: v n l 
+1
+POS tags: r n r d v v vn v r v 
+1
+POS tags: v p r vn a uj m n 
+1
+POS tags: i nr r d v t uj r 
+1
+POS tags: r d v p v r v n m r d v 
+1
+POS tags: r v un v un uj d a uj n v v un v un uj n uj an nz v 
+1
+POS tags: v m n v p n v n uj n c n 
+0
+POS tags: r p n f n 
+1
+POS tags: p n v n uj n n uj n v d n c uj 
+0
+POS tags: d v n v uj n 
+1
+POS tags: r vn v l n v uj m n 
+0
+POS tags: r v v d a c v 
+1
+POS tags: d d v v 
+1
+POS tags: p r n v v n v v v v uj n 
+1
+POS tags: n uj n d a v 
+0
+POS tags: r d a r v nz c v r n v nz 
+0
+POS tags: r v v n v n 
+1
+POS tags: n v v r v uj n m vn v v uj n 
+1
+POS tags: n uj vn v r an 
+0
+POS tags: l r v v 
+0
+POS tags: r n v n a uj 
+0
+POS tags: r n uj vn d v i 
+0
+POS tags: r uj t v v v 
+0
+POS tags: r v r n uj n d a 
+0
+POS tags: c v v t n uj t 
+0
+POS tags: p r n d v r uj an v 
+0
+POS tags: c nz v r p r uj vn v v 
+0
+POS tags: v m n d v n vn n f v v 
+1
+POS tags: v m n v 
+1
+POS tags: r d v s n 
+0
+POS tags: r v v ns v 
+1
+POS tags: r p ns m n uj n v v 
+0
+POS tags: r d v ns m 
+1
+POS tags: c n v uj 
+1
+POS tags: t p s n r 
+1
+POS tags: n v d an uj n n 
+1
+POS tags: r n n n v n v n uj n 
+0
+POS tags: v v v m 
+0
+POS tags: r uj n d v 
+0
+POS tags: r v q ad n 
+1
+POS tags: p r v uj n c r uj vn 
+0
+POS tags: vn v v an 
+1
+POS tags: r n r v v v r 
+1
+POS tags: vd v v r v uj n 
+1
+POS tags: p v uj l v q n 
+1
+POS tags: v r v r v r v uj 
+0
+POS tags: v un ns uj m n 
+0
+POS tags: p r n 
+0
+POS tags: r v n n d v 
+0
+POS tags: d d p n vn 
+1
+POS tags: c n v n uj n vn 
+0
+POS tags: n v d p n uj v v a vn uj n 
+0
+POS tags: v n n 
+1
+POS tags: r v v r v v n 
+1
+POS tags: r d v r n v r 
+1
+POS tags: c r mt r v y 
+1
+POS tags: r n r uj d v v r v 
+0
+POS tags: v r n uj n uj n v v p n uj an vn a uj n c n 
+1
+POS tags: r n v m d v v n c an 
+0
+POS tags: r t t uj n v m n s v v ns 
+0
+POS tags: d k p t n n 
+0
+POS tags: r d a 
+1
+POS tags: n r uj n n mt p n n n v uj vn f c v uj 
+0
+POS tags: r n d v vn 
+0
+POS tags: r uj n n d v r vn uj 
+1
+POS tags: r r p n m uj n f v p v uj n f uj n 
+1
+POS tags: v r v r v m n v a uj n v v t uj r n 
+0
+POS tags: p n uj v n v v v uj 
+0
+POS tags: r v vn nz 
+1
+POS tags: r v m q v vd uj 
+0
+POS tags: c v n uj n uj vn d a 
+0
+POS tags: p ns m q un ns un uj n v nz n 
+1
+POS tags: v nz d an 
+0
+POS tags: r v v vd n v uj n 
+1
+POS tags: n p v r v n uj r n 
+1
+POS tags: v v un n un r m n 
+1
+POS tags: r v r n n 
+0
+POS tags: t v d an 
+0
+POS tags: r d v nz v 
+0
+POS tags: d v 
+1
+POS tags: p r v v 
+1
+POS tags: c n d n nz v n 
+1
+POS tags: c v a v 
+0
+POS tags: r v v m n d v v ns v 
+0
+POS tags: v r uj n n 
+1
+POS tags: m nz v v uj n 
+1
+POS tags: v m b p v c p v uj 
+1
+POS tags: t d m n c v l an 
+0
+POS tags: n n d d v n n v 
+0
+POS tags: t nt p ad uj n v v v 
+1
+POS tags: ns n d n v p v uj n 
+1
+POS tags: c r d d v v p n c d v mt n 
+1
+POS tags: r d v v m n v r v 
+0
+POS tags: v nz n 
+0
+POS tags: r v uj n v t n uj n v 
+1
+POS tags: v mt n v v n 
+1
+POS tags: un d v un v p n d ad uj v 
+1
+POS tags: v p n v v nr m 
+1
+POS tags: c m n n v v f 
+1
+POS tags: c l v v vn 
+1
+POS tags: n p r m n uj 
+1
+POS tags: p r v l v v n uj m n uj n 
+0
+POS tags: r t v v p n a nz nz v 
+1
+POS tags: r v p ns uj n 
+1
+POS tags: n v v r v uj n 
+0
+POS tags: r v mt q d v r d v r 
+0
+POS tags: c r v uj n d l 
+1
+POS tags: r r n n v s vn 
+1
+POS tags: d v a r n v v v 
+1
+POS tags: c d vn p d n 
+1
+POS tags: n v r r v r 
+1
+POS tags: r d p un v un i 
+1
+POS tags: c n d v v v un n un uj n 
+1
+POS tags: r v r uj n v an uj 
+1
+POS tags: d v v nz uj v 
+1
+POS tags: n d v d d a uj 
+1
+POS tags: c r v m n n r 
+1
+POS tags: r v n f v v r n 
+1
+POS tags: c d v r uj an 
+1
+POS tags: p n f v 
+0
+POS tags: r n c n v v r v uj n 
+1
+POS tags: r v v ng d un q v y 
+1
+POS tags: r n m n v y 
+0
+POS tags: v r v i uj n n 
+0
+POS tags: r d v v 
+1
+POS tags: p ns n f 
+0
+POS tags: c v v d v n uj n 
+1
+POS tags: r v p r uj n 
+0
+POS tags: v r n n uj n 
+1
+POS tags: n v n d s vn d a 
+1
+POS tags: d v v v v s vn 
+0
+POS tags: c v v d d v v n 
+0
+POS tags: n p t vd v p n n v uj n v n c v 
+0
+POS tags: v m n r v m n 
+1
+POS tags: r v v n n p v un n un d d a 
+1
+POS tags: d d uj v v uj n 
+0
+POS tags: r p r v n 
+0
+POS tags: t p r ns v v n vn uj n 
+1
+POS tags: r uj n v v v m vn 
+1
+POS tags: c d p a n vn v r uj n 
+1
+POS tags: n n s d v p m n v v v m 
+1
+POS tags: r uj n f v v v a c a v uj n 
+0
+POS tags: c t n uj vn vn v r v v v 
+1
+POS tags: n uj n d v v m q n nz r 
+1
+POS tags: r q n v d v p r v d v vn p v n n uj n n v uj 
+0
+POS tags: p n uj t r v v n n 
+1
+POS tags: n n v p r v d a 
+0
+POS tags: r m v v nz 
+0
+POS tags: n n uj v m uj 
+1
+POS tags: r d v v n uj n 
+0
+POS tags: v v vn uj 
+1
+POS tags: r n uj n n v nz v vn n n uj v 
+0
+POS tags: n t uj n 
+0
+POS tags: d v i 
+1
+POS tags: r uj n 
+0
+POS tags: n v n f d v uj n 
+0
+POS tags: v f d v vn ns uj vn 
+1
+POS tags: r n v v 
+1
+POS tags: v p vn vn uj nz i 
+1
+POS tags: n d v vn v uj n 
+1
+POS tags: r n nr n uj 
+1
+POS tags: v ns uj t a v vn 
+1
+POS tags: n k d v vn f v v n c d nz 
+1
+POS tags: r t v ns vn nz uj n n p r n c uj 
+1
+POS tags: n uj r i d v vn v n uj n n 
+1
+POS tags: ad uj 
+1
+POS tags: m m n v df v d n n uj vn 
+0
+POS tags: r v q n n 
+1
+POS tags: m n v ns vn uj n v d v p v ns uj n 
+1
+POS tags: c r v n d v v 
+1
+POS tags: c v n d v 
+0
+POS tags: r v t d v v n c n 
+0
+POS tags: c v r v v v r p ns d v m q n 
+1
+POS tags: d v r n r v r n n 
+0
+POS tags: r uj vn v r v nz uj m q v 
+1
+POS tags: p n n v 
+1
+POS tags: f uj s d v v n v uj v mq n p v n c v 
+1
+POS tags: nt vn n uj vn v ad v 
+0
+POS tags: r v p r n d v uj n i 
+0
+POS tags: v v n a uj v nz n 
+0
+POS tags: f p n m d d v ns n 
+0
+POS tags: r v r d v vn r r uj n 
+0
+POS tags: n n v n uj nz v n 
+1
+POS tags: p n v 
+1
+POS tags: r r n n nr n v v r an v 
+1
+POS tags: r v v n v n uj 
+1
+POS tags: n n f c r n d v m n 
+0
+POS tags: v uj n d v f v r n uj n 
+1
+POS tags: c v v uj n v v v n b uj n 
+1
+POS tags: c vn l uj n 
+0
+POS tags: v r n s n y 
+0
+POS tags: c n m n uj s v uj m q n 
+1
+POS tags: n n v v ad v v v uj v 
+0
+POS tags: r vn uj n v n 
+0
+POS tags: n n k uj n n d v n v uj 
+0
+POS tags: v r an v r ns 
+1
+POS tags: nz nz n d v v r uj n 
+0
+POS tags: d v v a uj n 
+0
+POS tags: n uj v v vn d v 
+0
+POS tags: r v n n n f p nt v n 
+0
+POS tags: c d vn d n 
+0
+POS tags: r a a uj n d p r r a uj n v v v 
+1
+POS tags: m v v v r n n nz 
+1
+POS tags: d v n uj v uj n 
+1
+POS tags: c n d v d v r uj n v v v 
+1
+POS tags: p r n f d v uj t v m en q uj t 
+1
+POS tags: r d v r uj n v 
+1
+POS tags: n v uj n 
+0
+POS tags: r t uj vn d v 
+0
+POS tags: r d v n n uj a uj vn i 
+0
+POS tags: un n v un n d a d v d n uj n v n 
+1
+POS tags: r nz nz v r 
+0
+POS tags: n uj i d v vn v n uj n n 
+0
+POS tags: r d v r vn n 
+0
+POS tags: m nt n 
+0
+POS tags: p n v p n 
+0
+POS tags: r t v n m n uj n n 
+1
+POS tags: n r n n v v r uj n v v uj 
+0
+POS tags: r d v r d n 
+0
+POS tags: p c v m n n i c v n v u d p an n 
+1
+POS tags: v un vn n un uj t n 
+0
+POS tags: d v r y 
+0
+POS tags: r d v q n 
+1
+POS tags: c r n d v v nz 
+0
+POS tags: r v d v un n un v nz q uj 
+0
+POS tags: r uj n d v 
+1
+POS tags: n d vn n uj n d v v r n v uj n 
+1
+POS tags: d n c v m m n v d v n uj n 
+1
+POS tags: r r n v v m 
+1
+POS tags: r n d v 
+1
+POS tags: d v n f v v n n uj n 
+0
+POS tags: r v vn vn 
+1
+POS tags: t v v uj n n n r uj v n 
+0
+POS tags: n c n v v m n s v m vn 
+0
+POS tags: r n m d v v n c an 
+0
+POS tags: r f v vn 
+0
+POS tags: r n d v 
+1
+POS tags: r v uj n m uj 
+0
+POS tags: r d v m q n 
+1
+POS tags: p un ng un v n s 
+1
+POS tags: n v n v k v v r n c v v n uj n 
+1
+POS tags: c r v r v v r uj n v v a uj 
+1
+POS tags: r n m v d v n v v r l 
+1
+POS tags: r n v l uj 
+1
+POS tags: vn n v r p r d ad v 
+1
+POS tags: nt v v 
+1
+POS tags: d p v uj n d v n uj v v n 
+0
+POS tags: p r f 
+1
+POS tags: r d v r v 
+1
+POS tags: d v n v f uj n uj 
+1
+POS tags: vn nz uj n v m n 
+1
+POS tags: c t r uj v n v d n v 
+1
+POS tags: c v v 
+0
+POS tags: v uj n v m n d v c m n v 
+0
+POS tags: t nr vn m q n p v d m c v v v 
+1
+POS tags: p r n v 
+1
+POS tags: l v l uj 
+0
+POS tags: r n d v a uj n y 
+0
+POS tags: n d n r n p f n v a m 
+1
+POS tags: r vn uj ns d v r n r 
+0
+POS tags: c n d vn n v m an 
+0
+POS tags: d v v n k s n uj n 
+0
+POS tags: p t n 
+0
+POS tags: r r p v n c v uj n n y 
+0
+POS tags: n ad v an uj n 
+0
+POS tags: v r v vn 
+1
+POS tags: n p n n uj d v n v uj n 
+0
+POS tags: n v m q n 
+1
+POS tags: d v n n v n v 
+1
+POS tags: r n uj n n v d u 
+1
+POS tags: n d n v n d v v n uj 
+1
+POS tags: r n p v 
+0
+POS tags: n r v v r n s vn n r m n 
+1
+POS tags: r n v n n v r p s vn uj n 
+1
+POS tags: c n v r uj n r uj n uj 
+0
+POS tags: c t r 
+0
+POS tags: ns n uj n b vn v v v n uj n n 
+1
+POS tags: r n n mt q uj n d v v 
+1
+POS tags: r r r n p m n v n vn 
+0
+POS tags: v m n v r nr j r q n 
+0
+POS tags: r s n d v p s uj n vn 
+1
+POS tags: n v d v v v uj n y 
+1
+POS tags: v v d v 
+0
+POS tags: r n v r v un n u v v an uj 
+1
+POS tags: n n uj n n uj 
+0
+POS tags: n n c n v n 
+1
+POS tags: r v n v p r r n d an v 
+1
+POS tags: p n v v m r v r un v un p v uj n n v n d a uj v a m 
+0
+POS tags: n v r v un v r v mt n m 
+1
+POS tags: v r s v uj n 
+1
+POS tags: n r d v nr 
+1
+POS tags: v r v n v p r uj vn 
+1
+POS tags: d n v r n v p vn v v un v n un uj n y 
+0
+POS tags: n c n v 
+0
+POS tags: p r n v uj m q v 
+0
+POS tags: n v p n v n 
+1
+POS tags: n n v uj n n v p n n a v m 
+0
+POS tags: r d v 
+0
+POS tags: p ns 
+1
+POS tags: n v v s v vn 
+0
+POS tags: v v 
+0
+POS tags: r p n n f v v ns v 
+0
+POS tags: v v a n v uj an 
+1
+POS tags: n n v r d v n v v uj n 
+1
+POS tags: r v v 
+0
+POS tags: n v r n f v m n 
+0
+POS tags: r v v uj n d m 
+1
+POS tags: l v m n uj n 
+0
+POS tags: r v v f uj n 
+1
+POS tags: d v q b n 
+1
+POS tags: r r n n v nr n v v r an 
+0
+POS tags: d v v 
+1
+POS tags: n v p f a ng vn s v uj 
+0
+POS tags: r n d v vn uj n 
+0
+POS tags: n n v m q v n 
+1
+POS tags: c r v v r n uj n uj n n nz v 
+1
+POS tags: t nt v p n n v v m q 
+1
+POS tags: v p r n d v m n 
+1
+POS tags: p v t n uj n n c n f uj vn v v 
+0
+POS tags: v i n v d n 
+0
+POS tags: d n p n 
+1
+POS tags: p n uj n v v 
+1
+POS tags: p nz v nr v ng v nz v a n uj v 
+0
+POS tags: r v uj n a 
+1
+POS tags: r p r n d v n 
+1
+POS tags: c nz q n n n v r v v v 
+0
+POS tags: t 
+0
+POS tags: r d ad 
+1
+POS tags: c n v d v v 
+0
+POS tags: n nz v v p n an v uj v 
+0
+POS tags: r nt r n nz 
+0
+POS tags: r vn nz 
+1
+POS tags: p s v v d m n d r v 
+0
+POS tags: v un n un v n uj vn 
+0
+POS tags: r n n d v nz f r nz v 
+0
+POS tags: d an 
+0
+POS tags: v r m n v v an r d vn v v an 
+0
+POS tags: r v nz 
+1
+POS tags: r v r nz m n uj n n v r v y 
+1
+POS tags: n m n d v v v n uj 
+0
+POS tags: r v n v v v r m n d v i 
+1
+POS tags: v r p r uj n p n uj vn c d v v 
+1
+POS tags: r d a v 
+1
+POS tags: r d v r v uj n d v v n 
+1
+POS tags: c d vn v v r uj n 
+0
+POS tags: a uj n 
+1
+POS tags: v p n an c n n n uj vn d v a 
+0
+POS tags: r v n m 
+1
+POS tags: p ns d v r r d a 
+1
+POS tags: r d v n uj n n v v m mt n v 
+0
+POS tags: l 
+0
+POS tags: n v v m q n 
+0
+POS tags: n v uj n v n 
+1
+POS tags: d t 
+0
+POS tags: r p t uj un n un uj vn n f v a n p n vn uj v 
+1
+POS tags: i vn n c n v 
+1
+POS tags: n n nr ad 
+0
+POS tags: r v v t uj m an 
+1
+POS tags: c v r n r r v r n d v r s v 
+0
+POS tags: n p r an n v a uj v 
+1
+POS tags: c r n n r v n d a uj 
+0
+POS tags: n r uj n 
+1
+POS tags: v v uj n uj v q n v v a v 
+0
+POS tags: n uj an n d d v 
+1
+POS tags: r v v n uj n 
+0
+POS tags: c r v v v n 
+1
+POS tags: p ns v v 
+0
+POS tags: n v uj n d v mt n v 
+0
+POS tags: c r n v v a 
+1
+POS tags: v uj n 
+0
+POS tags: c v v uj n v v a 
+0
+POS tags: r d v r v 
+1
+POS tags: d v n y 
+1
+POS tags: n v d v n uj n uj a uj n 
+0
+POS tags: c r t v v 
+1
+POS tags: c ns v r n n 
+1
+POS tags: r v n uj n d v n k s v vn v 
+0
+POS tags: c r a uj n d p a n c n n v 
+0
+POS tags: n nr 
+0
+POS tags: m n d v r vd f v 
+1
+POS tags: d r d v v n v v an 
+1
+POS tags: v v p r uj n c n t n 
