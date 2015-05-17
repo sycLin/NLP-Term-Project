@@ -119,20 +119,20 @@ class DataSet:
 	def getBiProb(self, bigramTuple): # given bigram tuple => return SMOOTHED probability
 		count = self.getBigramCount(bigramTuple)
 		# smoothing:
-		# numerator = float(count + LAMBDA)
-		# denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
-		# return float(numerator / denominator)
+		numerator = float(count + LAMBDA)
+		denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
+		return float(numerator / denominator)
 		#
-		return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
+		#return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
 	
 	def getBiProbPrefix(self, bigramTuple):
 		count = self.getBigramCountPrefix(bigramTuple)
 		# smoothing:
-		# numerator = float(count + 45*LAMBDA)
-		# denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
-		# return float(numerator / denominator)
+		numerator = float(count + 45*LAMBDA)
+		denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
+		return float(numerator / denominator)
 		#
-		return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
+		#return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
 	
 	def getBiProbProd(self, tagslist): # return the product of probabilities of bigrams in tagslist
 		numerator = float(1.0)
@@ -154,20 +154,20 @@ class DataSet:
 	def getTriProb(self, trigramTuple):
 		count = self.getTrigramCount(trigramTuple)
 		# smoothing:
-		# numerator = float(count + LAMBDA)
-		# denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
-		# return float(numerator / denominator)
+		numerator = float(count + LAMBDA)
+		denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
+		return float(numerator / denominator)
 		#
-		return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
+		#return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
 	
 	def getTriProbPrefix(self, trigramTuple):
 		count = self.getTrigramCountPrefix(trigramTuple)
 		# smoothing:
-		# numerator = float(count + 45*LAMBDA)
-		# denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
-		# return float(numerator / denominator)
+		numerator = float(count + 45*LAMBDA)
+		denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
+		return float(numerator / denominator)
 		#
-		return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
+		#return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
 	
 	def getTriProbProd(self, tagslist):
 		numerator = float(1.0)
@@ -195,11 +195,11 @@ class DataSet:
 	def getSTriProbPrefix(self, trigramTuple):
 		count = self.getSTrigramCountPrefix(trigramTuple)
 		# smoothing:
-		# numerator = float(count + 45*LAMBDA)
-		# denominator = float(self.TotalSTriGramCount + 45*45*45*LAMBDA)
-		# return float(numerator / denominator)
+		numerator = float(count + 45*LAMBDA)
+		denominator = float(self.TotalSTriGramCount + 45*45*45*LAMBDA)
+		return float(numerator / denominator)
 		#
-		return float(float(count) / float(self.TotalSTriGramCount)) # this is not smooth-ed
+		#return float(float(count) / float(self.TotalSTriGramCount)) # this is not smooth-ed
 
 	def getSTriProbProd(self, tagslist):
 		numerator = float(1.0)
