@@ -10,7 +10,9 @@ import sys
 class DataSet:
 
 	def __init__(self):
+		self.UniGramList = [] # list of UniGram instances
 		self.BiGramList = [] # list of BiGram instances
+		self.SBiGramList = [] # list of special trigram prefixes
 		self.TriGramList = [] # list of TriGram instances
 		self.STriGramList = [] # list of special TriGram instances
 		self.TotalBiGramCount = 0 # total count of all BiGram instances
@@ -38,12 +40,24 @@ class DataSet:
 		self.TotalSTriGramCount = total
 		return total
 	
+	def hasUniGram(self, unigram):
+		for i in self.UniGramList:
+			if i.Content == unigram:
+				return i
+		return False
+
 	def hasBiGram(self, bigramTuple): # whether the bigram exists in this dataset
 		for i in self.BiGramList:
 			if i.Content == bigramTuple:
 				return i
 		return False
 	
+	def hasSBiGram(self, bigramTuple):
+		for i in self.SBiGramList:
+			if i.Content == bigramTuple:
+				return i 
+		return False
+
 	def hasTriGram(self, trigramTuple): # whether the trigram exists in this dataset
 		for i in self.TriGramList:
 			if i.Content == trigramTuple:
@@ -56,8 +70,14 @@ class DataSet:
 				return i
 		return False
 	
+	def addUnigram(self, UniGramInstance):
+		self.UniGramList.append(UniGramInstance)
+
 	def addBigram(self, BiGramInstance): # given BiGramInstance => add it to dataset
 		self.BiGramList.append(BiGramInstance)
+
+	def addSBigram(self, BiGramInstance):
+		self.SBiGramList.append(BiGramInstance)
 	
 	def addTrigram(self, TriGramInstance): # given TriGramInstance => add it to dataset
 		self.TriGramList.append(TriGramInstance)
@@ -84,11 +104,17 @@ class DataSet:
 		return BiGramInstance.Count
 	
 	def getBigramCountPrefix(self, bigramTuple):
-		count = 0
-		for i in self.BiGramList:
-			if i.Content[0] == bigramTuple[0]:
-				count += i.Count
-		return count
+		# count = 0
+		# for i in self.BiGramList:
+		# 	if i.Content[0] == bigramTuple[0]:
+		# 		count += i.Count
+		# return count
+		newUnigram = bigramTuple[0]
+		i = self.hasUniGram(newUnigram)
+		if i != False:
+			return i.Count
+		else:
+			return 0
 	
 	def getTrigramCount(self, trigramTuple): # given trigram tuple => return exact count
 		TriGramInstance = self.hasTriGram(trigramTuple)
@@ -97,11 +123,17 @@ class DataSet:
 		return TriGramInstance.Count
 	
 	def getTrigramCountPrefix(self, trigramTuple):
-		count = 0
-		for i in self.TriGramList:
-			if i.Content[0] == trigramTuple[0] and i.Content[1] == trigramTuple[1]:
-				count += i.Count
-		return count
+		#count = 0
+		#for i in self.TriGramList:
+		#	if i.Content[0] == trigramTuple[0] and i.Content[1] == trigramTuple[1]:
+		#		count += i.Count
+		#return count
+		newBi = (trigramTuple[0], trigramTuple[1])
+		i = self.hasBiGram(newBi)
+		if i != False:
+			return i.Count
+		else:
+			return 0
 
 	def getSTrigramCount(self, trigramTuple):
 		TriGramInstance = self.hasSTriGram(trigramTuple)
@@ -110,29 +142,35 @@ class DataSet:
 		return TriGramInstance.Count
 
 	def getSTrigramCountPrefix(self, trigramTuple):
-		count = 0
-		for i in self.STriGramList:
-			if i.Content[0] == trigramTuple[0] and i.Content[2] == trigramTuple[2]:
-				count += i.Count
-		return count
+		#count = 0
+		#for i in self.STriGramList:
+		#	if i.Content[0] == trigramTuple[0] and i.Content[2] == trigramTuple[2]:
+		#		count += i.Count
+		#return count
+		newSBi = (trigramTuple[0], trigramTuple[2])
+		i = self.hasSBiGram(newSBi)
+		if i != False:
+			return i.Count
+		else:
+			return 0
 	
 	def getBiProb(self, bigramTuple): # given bigram tuple => return SMOOTHED probability
 		count = self.getBigramCount(bigramTuple)
 		# smoothing:
-		numerator = float(count + LAMBDA)
-		denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
-		return float(numerator / denominator)
+		# numerator = float(count + LAMBDA)
+		# denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
+		# return float(numerator / denominator)
 		#
-		#return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
+		return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
 	
 	def getBiProbPrefix(self, bigramTuple):
 		count = self.getBigramCountPrefix(bigramTuple)
 		# smoothing:
-		numerator = float(count + 45*LAMBDA)
-		denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
-		return float(numerator / denominator)
+		# numerator = float(count + 45*LAMBDA)
+		# denominator = float(self.TotalBiGramCount + 45*45*LAMBDA)
+		# return float(numerator / denominator)
 		#
-		#return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
+		return float(float(count) / float(self.TotalBiGramCount)) # this is not smooth-ed
 	
 	def getBiProbProd(self, tagslist): # return the product of probabilities of bigrams in tagslist
 		numerator = float(1.0)
@@ -154,20 +192,20 @@ class DataSet:
 	def getTriProb(self, trigramTuple):
 		count = self.getTrigramCount(trigramTuple)
 		# smoothing:
-		numerator = float(count + LAMBDA)
-		denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
-		return float(numerator / denominator)
+		# numerator = float(count + LAMBDA)
+		# denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
+		# return float(numerator / denominator)
 		#
-		#return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
+		return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
 	
 	def getTriProbPrefix(self, trigramTuple):
 		count = self.getTrigramCountPrefix(trigramTuple)
 		# smoothing:
-		numerator = float(count + 45*LAMBDA)
-		denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
-		return float(numerator / denominator)
+		# numerator = float(count + 45*LAMBDA)
+		# denominator = float(self.TotalTriGramCount + 45*45*45*LAMBDA)
+		# return float(numerator / denominator)
 		#
-		#return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
+		return float(float(count) / float(self.TotalTriGramCount)) # this is not smooth-ed
 	
 	def getTriProbProd(self, tagslist):
 		numerator = float(1.0)
@@ -195,11 +233,11 @@ class DataSet:
 	def getSTriProbPrefix(self, trigramTuple):
 		count = self.getSTrigramCountPrefix(trigramTuple)
 		# smoothing:
-		numerator = float(count + 45*LAMBDA)
-		denominator = float(self.TotalSTriGramCount + 45*45*45*LAMBDA)
-		return float(numerator / denominator)
+		# numerator = float(count + 45*LAMBDA)
+		# denominator = float(self.TotalSTriGramCount + 45*45*45*LAMBDA)
+		# return float(numerator / denominator)
 		#
-		#return float(float(count) / float(self.TotalSTriGramCount)) # this is not smooth-ed
+		return float(float(count) / float(self.TotalSTriGramCount)) # this is not smooth-ed
 
 	def getSTriProbProd(self, tagslist):
 		numerator = float(1.0)
@@ -216,6 +254,16 @@ class DataSet:
 		return float(numerator / denominator)
 	
 	pass
+
+class STriPrefix:
+	def __init__(self, Sbigram):
+		self.Content = Sbigram
+		self.Count = 1
+
+class UniGram:
+	def __init__(self, unigram):
+		self.Content = unigram
+		self.Count = 1
 
 class BiGram:
 	def __init__(self, bigramTuple):
@@ -342,39 +390,73 @@ while True:
 
 	# add bigrams
 	for i in range(len(tagslist)-1):
+		unigram = tagslist[i]
 		bigram = (tagslist[i], tagslist[i+1])
+
 		if correctness == "0": # positive
 			ret = PosDataset.hasBiGram(bigram)
+			retU = PosDataset.hasUniGram(unigram)
 			if ret != False: # the BiGram already exists in the Dataset
 				ret.Count += 1
 			else: # the BiGram doesn't exist, we'll have to create it
 				newbigram = BiGram(bigram)
 				PosDataset.addBigram(newbigram)
+
+
+			if retU != False:
+				retU.Count += 1
+			else:
+				newUnigram = UniGram(unigram)
+				PosDataset.addUnigram(newUnigram)
+
 		elif correctness == "1": # negative
 			ret = NegDataset.hasBiGram(bigram)
+			retU = NegDataset.hasUniGram(unigram)
 			if ret != False:
 				ret.Count += 1
 			else:
 				newbigram = BiGram(bigram)
 				NegDataset.addBigram(newbigram)
 
+			if retU != False:
+				retU.Count += 1
+			else:
+				newUnigram = UniGram(unigram)
+				NegDataset.addUnigram(newUnigram)
+
 	# add special trigrams
 	for i in range(len(tagslist)-2):
+		Sbigram = (tagslist[i], tagslist[i+2])
 		trigram = (tagslist[i], tagslist[i+1], tagslist[i+2])
 		if correctness == "0":
 			ret = PosDataset.hasSTriGram(trigram)
+			retS = PosDataset.hasSBiGram(Sbigram)
 			if ret != False: # the STrigram instance already in dataset
 				ret.Count += 1
 			else: # create one special trigram
 				newtrigram = TriGram(trigram)
 				PosDataset.addSTrigram(newtrigram)
+
+			if retS != False:
+				retS.Count += 1
+			else:
+				newSbigram = STriPrefix(Sbigram)
+				PosDataset.addSBigram(newSbigram)
+
 		elif correctness == "1":
 			ret = NegDataset.hasSTriGram(trigram)
+			retS = NegDataset.hasSBiGram(Sbigram)
 			if ret != False: # already exists
 				ret.Count += 1
 			else:
 				newtrigram = TriGram(trigram)
 				NegDataset.addSTrigram(newtrigram)
+
+			if retS != False:
+				retS.Count += 1
+			else:
+				newSbigram = STriPrefix(Sbigram)
+				NegDataset.addSBigram(newSbigram)
 
 	# add trigrams
 	tagslist.append("$") # there are supposed to be 2 end-symbols and 2 start-symbols.
