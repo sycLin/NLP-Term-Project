@@ -5,7 +5,7 @@ cat p2.train.txt | cut -d $'\t' -f 2,3 | tr $'\t' $'\n' > p2.sentences.txt
 
 # 2) segment them
 
-./stanford-segmenter-2015-04-20/segment.sh -k pku demo_sentences.txt UTF-8 0 > p2.segmented.txt
+./stanford-segmenter-2015-04-20/segment.sh -k pku p2.sentences.txt UTF-8 0 > p2.segmented.txt
 
 # 3) tag them
 
