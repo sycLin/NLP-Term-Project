@@ -30,4 +30,16 @@ $./segment.sh [-k] [ctb|pku] <filename> <encoding> <size>
 
 > size: size of the n-best list. (0: print the best without probabilities)
 
+## Stanford POSTagger
+
+> How to use it:
+
+```sh
+$./stanford-postagger.sh <model> <input-file>
+```
+
+> models: can be found in models/
+
+> input-file: sentences to be POS tagged
+
 
