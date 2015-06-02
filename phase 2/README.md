@@ -13,9 +13,11 @@ given a sentence with redundant words, find out where the redundancy is.
 ## Stanford Segmenter
 
 > How to use it:
+
 ```sh
 $./segment.sh [-k] [ctb|pku] <filename> <encoding> <size>
 ```
+
 > -k: keep all white spaces in the input
 
 > ctb: chinese penn treebank
