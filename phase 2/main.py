@@ -55,6 +55,15 @@ pass
 def print_usage():
 	sys.stderr.write("Usage: ./main.py [train_file] [test_file]\n")
 
+# return list of POS tags, given rawLine (either Correct or Error)
+def process_raw_line(rawLines):
+	result = []
+	tmp = rawLines.split();
+	for i in tmp:
+		tmp2 = i.split('#')
+		result.append(tmp2[1])
+	return result
+
 pass
 
 #################### Variables Declaration ####################
@@ -105,8 +114,8 @@ while True:
 	if rawErrorLine == "":
 		break
 	rawCorrectLine = trainFile.readline()
-	print rawErrorLine
-	print rawCorrectLine
+	print process_raw_line(rawErrorLine)
+	print process_raw_line(rawCorrectLine)
 	i += 1
 	if i == 10:
 		break
