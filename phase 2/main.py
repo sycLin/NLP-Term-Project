@@ -17,6 +17,9 @@ class NGRAM:
 	# build up the n-gram model from taglist
 	def build(self, tagList):
 
+		# don't mess up the tagList
+		tagList = list(tagList)
+		
 		# add start symbols and end symbols
 		for i in range(self.N - 1):
 			tagList.insert(0, "^")
@@ -24,13 +27,15 @@ class NGRAM:
 
 		# process the taglist to get tuple
 		length = len(tagList)
-		tmp = []
-		for i in range(length - self.N + 1):
-			tmp.append(tagList[i])
-		gramTuple = tuple(tmp)
+		for start in range(length - self.N + 1):
+			tmp = []
+			for index in range(self.N):
+				tmp.append(tagList[start+index])
+			gramTuple = tuple(tmp)
 
-		# add this tuple to NGRAM
-		self.addGram(gramTuple)
+			# add this tuple to NGRAM
+			self.addGram(gramTuple)
+		
 
 	# count total occurences of all gram instances
 	def countAll(self):
@@ -45,7 +50,7 @@ class NGRAM:
 	# 2) return False if not found.
 	def hasGram(self, gramTuple):
 		for i in self.gramList:
-			if i.content == gramTuple:
+			if i.Content == gramTuple:
 				return i
 		return False
 
@@ -75,7 +80,7 @@ class GRAM:
 		self.Count = 1
 	
 	def __repr__(self):
-		return ("This gram: "+self.Content+" Count = "+self.Count)
+		return ("This gram: "+str(self.Content)+" Count = "+str(self.Count))
 
 pass
 
@@ -164,12 +169,32 @@ while True:
 	uniGramNeg.build(negList)
 	biGramNeg.build(negList)
 	triGramNeg.build(negList)
-
+	"""
 	i += 1
 	if i == 10:
 		break
+	"""
 
+#############################
+# calculate the total count #
+# for each NGRAM instance   #
+#############################
 
+uniGram.countAll()
+biGram.countAll()
+triGram.countAll()
+
+uniGramNeg.countAll()
+biGramNeg.countAll()
+triGramNeg.countAll()
+
+print uniGram.gramCount
+print biGram.gramCount
+print triGram.gramCount
+print "===================="
+print uniGramNeg.gramCount
+print biGramNeg.gramCount
+print triGramNeg.gramCount
 
 ###############
 # close files #
