@@ -111,7 +111,7 @@ triGram = NGRAM()
 i = 0
 while True:
 	rawErrorLine = trainFile.readline()
-	if rawErrorLine == "":
+	if rawErrorLine == "": # EOF reached
 		break
 	rawCorrectLine = trainFile.readline()
 	print process_raw_line(rawErrorLine)
