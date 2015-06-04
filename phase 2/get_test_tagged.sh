@@ -13,6 +13,6 @@ cp p2.test.segmented.txt stanford-postagger-full-2015-04-20/
 cd stanford-postagger-full-2015-04-20/
 ./stanford-postagger.sh models/chinese-distsim.tagger p2.test.segmented.txt > p2.test.tagged.txt
 cp p2.test.tagged.txt ../
-rm p2.tagged.txt p2.test.segmented.txt
+rm p2.test.tagged.txt p2.test.segmented.txt
 cd ../
 
