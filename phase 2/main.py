@@ -107,6 +107,9 @@ def guess(tagList):
 	# remove one of the tags
 
 	# utilize NGRAM.getFitness to see how well it fits the models
+
+	# combine those data from getFitness() => determine the position
+	
 	pass
 
 pass
