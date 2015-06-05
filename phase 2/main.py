@@ -73,6 +73,10 @@ class NGRAM:
 			return 0
 		return tmp.Count
 
+	# return a probability indicating how much the tagList fits this NGRAM model
+	def getFitness(self, tagList):
+		pass
+
 class GRAM:
 
 	def __init__(self, gramTuple):
@@ -97,6 +101,13 @@ def process_raw_line(rawLines):
 		tmp2 = i.split('#')
 		result.append(tmp2[1])
 	return result
+
+# find out the most-likely redundant tag
+def guess(tagList):
+	# remove one of the tags
+
+	# utilize NGRAM.getFitness to see how well it fits the models
+	pass
 
 pass
 
@@ -195,6 +206,13 @@ print "===================="
 print uniGramNeg.gramCount
 print biGramNeg.gramCount
 print triGramNeg.gramCount
+
+#############################
+while True:
+	line = testFile.readline()
+	testList = process_raw_line(line)
+	guess(testList)	
+
 
 ###############
 # close files #
