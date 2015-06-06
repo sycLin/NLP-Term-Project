@@ -73,23 +73,40 @@ class NGRAM:
 		if tmp == False:
 			return 0
 		return tmp.Count
+##########
+		# process the taglist to get tuple
+		length = len(tagList)
+		for start in range(length - self.N + 1):
+			tmp = []
+			for index in range(self.N):
+				tmp.append(tagList[start+index])
+			gramTuple = tuple(tmp)
 
+			# add this tuple to NGRAM
+			self.addGram(gramTuple)
+##########
 	# return a probability indicating how much the tagList fits this NGRAM model
 	def getFitness(self, tagList):
+
+		# add start symbols and end symbols
 		for i in range(self.N - 1):
 			tagList.insert(0, '^')
 			tagList.append('$')
 
+		# initialize the variables
 		numerator = float(1.0)
 		denominator = float(1.0)
-		for i in range(len(tagList) - 1):
+
+		# calculate numerator & denominator
+		length = len(tagList)
+		for start in range(length - self.N + 1):
 			tmp = []
-			for j in range(self.N):
-				tmp.append(tagList[i + j]) 
-			gramTuple = tuple(tmp)
+			for index in range(self.N):
+				tmp.append(tagList[start+index]) 
+			gramTuple = tuple(tmp) # now gramTuple is the tuple for this NGRAM (self).
 
 			numerator *= self.getProb(tmp)
-			if i != 0:
+			if start != 0:
 				denominator *= self.getProbPrefix(tmp)
 
 		if numerator == 0:
@@ -128,7 +145,7 @@ def process_raw_line(rawLines):
 		result.append(tmp2[1])
 	return result
 
-# find out the most-likely redundant tag
+# find out the most-likely redundant tag. Returns the index (0 ~ len-1).
 def guess(tagList):
 	global biGram, biGramNeg, triGram, triGramNeg
 	mostLikelyTag = 0
@@ -141,7 +158,8 @@ def guess(tagList):
 
 		# utilize NGRAM.getFitness to see how well it fits the models
 		# combine those data from getFitness() => determine the position
-		likelihood = 0.7 * (biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList)) + 0.3 * (triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
+		likelihood = 0.7 * (biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList))
+		likelihood += 0.3 * (triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
 		if likelihood > mostLikely:
 			mostLikelyTag = i
 			mostLikely = likelihood
