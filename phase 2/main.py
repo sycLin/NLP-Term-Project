@@ -75,6 +75,31 @@ class NGRAM:
 
 	# return a probability indicating how much the tagList fits this NGRAM model
 	def getFitness(self, tagList):
+		for i in range(self.N - 1):
+			tagList.insert(0, '^')
+			tagList.append('$')
+
+		numerator = float(1.0)
+		denominator = float(1.0)
+		for i in range(len(tagList) - 1):
+			tmp = []
+			for j in range(self.N):
+				tmp.append(tagList[i + j]) 
+			gramTuple = tuple(tmp)
+
+			numerator *= self.getProb(tmp)
+			if i != 0:
+				denominator *= self.getProbPrefix(tmp)
+
+		if numerator == 0:
+			return 0
+
+		return float(numerator / denominator)
+
+	def getProb(self, gramTuple):
+		pass
+
+	def getProbPrefix(self, gramTuple):
 		pass
 
 class GRAM:
@@ -104,17 +129,21 @@ def process_raw_line(rawLines):
 
 # find out the most-likely redundant tag
 def guess(tagList):
-	# remove one of the tags
+	global biGram, biGramNeg
+	mostLikelyTag = 0
+	mostLikely = -float("inf")
 	for i in range(len(tagList)):
-		tmp = list(tagList)
-		tmp.pop(i)
-
-	# utilize NGRAM.getFitness to see how well it fits the models
-
-	# combine those data from getFitness() => determine the position
-
-	pass
-	#return n-th tag
+		tmpList = list(tagList)
+		# remove one of the tags
+		tmpList.pop(i)
+		# utilize NGRAM.getFitness to see how well it fits the models
+		# combine those data from getFitness() => determine the position
+		likelihood = 0.7 * (biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList)) + 0.3 * (triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
+		if likelihood > mostLikely:
+			mostLikelyTag = i
+			mostLikely = likelihood
+	
+	return mostLikelyTag
 
 pass
 
