@@ -11,7 +11,7 @@ class NGRAM:
 
 	def __init__(self, n):
 		self.N = n
-		self.gramList = []
+		self.gramDict = {}
 		self.gramCount = 0
 	
 	# build up the n-gram model from taglist
@@ -28,20 +28,25 @@ class NGRAM:
 		# process the taglist to get tuple
 		length = len(tagList)
 		for start in range(length - self.N + 1):
-			tmp = []
-			for index in range(self.N):
-				tmp.append(tagList[start+index])
-			gramTuple = tuple(tmp)
-
+			tmp = str(tagList[start])
+			for index in range(1, self.N):
+				tmp += ("+" + str(tagList[start + index]))
+			self.addGram(tmp)
+			"""
+			if self.gramDict.has_key(tmp):
+				self.gramDict[tmp] += 1
+			else:
+				self.gramDict[tmp] = 1
 			# add this tuple to NGRAM
-			self.addGram(gramTuple)
-		
+			"""
+	def combineModel(self, crossedOut):
+		pass
 
 	# count total occurences of all gram instances
 	def countAll(self):
 		total = 0
-		for i in self.gramList:
-			total = total + i.Count
+		for i, j in self.gramDict.iteritems():
+			total = total + j
 		self.gramCount = total
 		return total
 
@@ -49,10 +54,10 @@ class NGRAM:
 	# 1) return the GRAM instance if found.
 	# 2) return False if not found.
 	def hasGram(self, gramTuple):
-		for i in self.gramList:
-			if i.Content == gramTuple:
-				return i
-		return False
+		if self.gramDict.has_key(gramTuple):
+			return True
+		else:
+			return False
 
 	# add a gram instance of the tuple
 	# 1) if didn't exist, creat and insert.
@@ -61,10 +66,9 @@ class NGRAM:
 		tmp = self.hasGram(gramTuple)
 		if tmp == False: # does not exist, yet.
 			# create a GRAM instance, and insert.
-			newGRAMInstance = GRAM(gramTuple)
-			self.gramList.append(newGRAMInstance)
+			self.gramDict[gramTuple] = 1
 		else: # already exists
-			tmp.Count += 1
+			self.gramDict[gramTuple] += 1
 
 	# return the count corresponding to the given tuple
 	def getGramCount(self, gramTuple):
@@ -91,7 +95,7 @@ pass
 #################### Helper Functions ####################
 
 def print_usage():
-	sys.stderr.write("Usage: ./main.py [train_file] [test_file]\n")
+	sys.stderr.write("Usage: ./crossvalidation.py [train_file]\n")
 
 # return list of POS tags, given rawLine (either Correct or Error)
 def process_raw_line(rawLines):
@@ -105,20 +109,18 @@ def process_raw_line(rawLines):
 # find out the most-likely redundant tag
 def guess(tagList):
 	# remove one of the tags
-	for i in range(len(tagList)):
-		tmp = list(tagList)
-		tmp.pop(i)
 
 	# utilize NGRAM.getFitness to see how well it fits the models
 
 	# combine those data from getFitness() => determine the position
-
+	
 	pass
-	#return n-th tag
 
 pass
 
 #################### Variables Declaration ####################
+
+sectionSize = 593
 
 pass
 
@@ -128,7 +130,7 @@ pass
 # check argument #
 ##################
 
-if len(sys.argv) != 3:
+if len(sys.argv) != 2:
 	print_usage()
 	sys.exit(1)
 
@@ -140,34 +142,64 @@ try:
 except:
 	sys.stderr.write("[Error] training data file: %s does not exist.\n" % sys.argv[1])
 	sys.exit(1)
+"""
 try:
 	testFile = open(sys.argv[2], 'r')
 except:
 	sys.stderr.write("[Error] test data file: %s does not exist.\n" % sys.argv[2])
 	sys.exit(1)
-
-print("files both opened successfully!")
+"""
+print("files opened successfully!")
 
 ###############
 # build NGRAM #
 ###############
 
 # positive ones
+uniGram = []
+biGram = []
+triGram = []
+for i in range(5):
+	tmp = NGRAM(1)
+	uniGram.append(tmp)
+	tmp = NGRAM(2)
+	biGram.append(tmp)
+	tmp = NGRAM(3)
+	triGram.append(tmp)
+
+
+"""
 uniGram = NGRAM(1)
 biGram = NGRAM(2)
 triGram = NGRAM(3)
-
+"""
 # negative ones
+uniGramNeg = []
+biGramNeg = []
+triGramNeg = []
+for i in range(5):
+	tmp = NGRAM(1)
+	uniGramNeg.append(tmp)
+	tmp = NGRAM(2)
+	biGramNeg.append(tmp)
+	tmp = NGRAM(3)
+	triGramNeg.append(tmp)
+
+
+
+"""
 uniGramNeg = NGRAM(1)
 biGramNeg = NGRAM(2)
 triGramNeg = NGRAM(3)
-
+"""
 ########################
 # process the raw data #
 ########################
 
+
+
 i = 0
-while True:
+for i in range(10000): # Won't reach it though
 
 	# get lines from p2.*.tagged.txt two by two
 	rawErrorLine = trainFile.readline()
@@ -179,56 +211,58 @@ while True:
 	negList = process_raw_line(rawErrorLine)
 	posList = process_raw_line(rawCorrectLine)
 
+	print i
 	# build the NGRAMs
-	uniGram.build(posList)
-	biGram.build(posList)
-	triGram.build(posList)
+	part = i / sectionSize
+	uniGram[part].build(posList)
+	biGram[part].build(posList)
+	triGram[part].build(posList)
 
-	uniGramNeg.build(negList)
-	biGramNeg.build(negList)
-	triGramNeg.build(negList)
-	"""
-	i += 1
-	if i == 10:
-		break
-	"""
+	uniGramNeg[part].build(negList)
+	biGramNeg[part].build(negList)
+	triGramNeg[part].build(negList)
+	
 
 #############################
 # calculate the total count #
 # for each NGRAM instance   #
 #############################
 
-uniGram.countAll()
-biGram.countAll()
-triGram.countAll()
+for i in range(5):
+	uniGram[i].countAll()
+	biGram[i].countAll()
+	triGram[i].countAll()
 
-uniGramNeg.countAll()
-biGramNeg.countAll()
-triGramNeg.countAll()
+	uniGramNeg[i].countAll()
+	biGramNeg[i].countAll()
+	triGramNeg[i].countAll()
 
-print uniGram.gramCount
-print biGram.gramCount
-print triGram.gramCount
-print "===================="
-print uniGramNeg.gramCount
-print biGramNeg.gramCount
-print triGramNeg.gramCount
+	"""
+	print uniGram[i].gramCount
+	print biGram[i].gramCount
+	print triGram[i].gramCount
+	print "===================="
+	print uniGramNeg[i].gramCount
+	print biGramNeg[i].gramCount
+	print triGramNeg[i].gramCount
+	"""
 
-#################
-# start testing #
-#################
-while True:
-	line = testFile.readline()
-	if line == "":
-		break
-	testList = process_raw_line(line)
-	guess(testList)	
+###########################
+# 5-fold cross validation #
+###########################
+for i in range(5):
+	tmpUniGram = uniGram.combineModel(i)
+	tmpBiGram = biGram.combineModel(i)
+	tmpTriGram = triGram.combineModel(i)
+
+	tmpUniGramNeg = uniGramNeg.combineModel(i)
+	tmpBiGramNeg = biGramNeg.combineModel(i)
+	tmpTriGramNeg = triGramNeg.combineModel(i)
 
 
 ###############
 # close files #
 ###############
 trainFile.close()
-testFile.close()
 
 pass
