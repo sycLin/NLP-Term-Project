@@ -118,6 +118,7 @@ class NGRAM:
 	def getProb(self, gramTuple):
 		gramCount = self.getGramCount(gramTuple)
 		totalCount = self.gramCount
+		print "the gram %s got gramCount = %d, totalCount = %d" % (gramTuple, gramCount, totalCount)
 		return float(float(gramCount) / float(totalCount))
 
 
