@@ -144,6 +144,16 @@ def process_raw_line(rawLines):
 		result.append(tmp2[1])
 	return result
 
+# return list of POS tags, given rawLine (either Correct or Error)
+def process_raw_line2(rawLines):
+	result = [[], []]
+	tmp = rawLines.split();
+	for i in tmp:
+		tmp2 = i.split('#')
+		result[0].append(tmp2[1])
+		result[1].append(len(tmp2[[0]))
+	return result
+
 # find out the most-likely redundant tag. Returns the index (0 ~ len-1).
 def guess(tagList):
 	global biGram, biGramNeg, triGram, triGramNeg
@@ -270,8 +280,12 @@ while True:
 	line = testFile.readline()
 	if line == "":
 		break
-	testList = process_raw_line(line)
-	guess(testList)	
+	# testList = process_raw_line(line)
+	tmp = process_raw_line2(line)
+	print tmp[0]
+	print tmp[1]
+	pass
+	# print guess(testList)
 
 
 ###############
