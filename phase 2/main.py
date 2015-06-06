@@ -67,25 +67,21 @@ class NGRAM:
 		else: # already exists
 			tmp.Count += 1
 
-	# return the count corresponding to the given tuple
+	# Returns the count corresponding to the given tuple
 	def getGramCount(self, gramTuple):
 		tmp = self.hasGram(gramTuple)
 		if tmp == False:
 			return 0
 		return tmp.Count
-##########
-		# process the taglist to get tuple
-		length = len(tagList)
-		for start in range(length - self.N + 1):
-			tmp = []
-			for index in range(self.N):
-				tmp.append(tagList[start+index])
-			gramTuple = tuple(tmp)
 
-			# add this tuple to NGRAM
-			self.addGram(gramTuple)
-##########
-	# return a probability indicating how much the tagList fits this NGRAM model
+	# Return the prefix gram tuple of the given gramTuple
+	def getPrefixGram(self, gramTuple):
+		tmp = []
+		for i in range(len(gramTuple)-2): # exclude the last item in gramTuple
+			tmp.append(i)
+		return tuple(tmp)
+
+	# Returns a probability indicating how much the tagList fits this NGRAM model
 	def getFitness(self, tagList):
 
 		# add start symbols and end symbols
@@ -105,20 +101,23 @@ class NGRAM:
 				tmp.append(tagList[start+index]) 
 			gramTuple = tuple(tmp) # now gramTuple is the tuple for this NGRAM (self).
 
-			numerator *= self.getProb(tmp)
+			numerator *= self.getProb(gramTuple)
 			if start != 0:
-				denominator *= self.getProbPrefix(tmp)
+				prefixGramTuple = self.getPrefixGram(gramTuple)
+				denominator *= self.prefixNGRAM.getProb(prefixGramTuple)
 
+		# special case
 		if numerator == 0:
 			return 0
 
 		return float(numerator / denominator)
 
+	# Returns a float number: the probability of gramTuple in this NGRAM model
 	def getProb(self, gramTuple):
-		pass
+		gramCount = self.getGramCount(gramTuple)
+		totalCount = self.gramCount
+		return float(float(gramCount) / float(totalCount))
 
-	def getProbPrefix(self, gramTuple):
-		pass
 
 class GRAM:
 
