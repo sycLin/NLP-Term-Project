@@ -9,10 +9,11 @@ import sys
 
 class NGRAM:
 
-	def __init__(self, n):
+	def __init__(self, n, prefixNGRAM):
 		self.N = n
 		self.gramList = []
 		self.gramCount = 0
+		self.prefixNGRAM = prefixNGRAM
 	
 	# build up the n-gram model from taglist
 	def build(self, tagList):
@@ -129,13 +130,15 @@ def process_raw_line(rawLines):
 
 # find out the most-likely redundant tag
 def guess(tagList):
-	global biGram, biGramNeg
+	global biGram, biGramNeg, triGram, triGramNeg
 	mostLikelyTag = 0
 	mostLikely = -float("inf")
 	for i in range(len(tagList)):
 		tmpList = list(tagList)
+
 		# remove one of the tags
 		tmpList.pop(i)
+
 		# utilize NGRAM.getFitness to see how well it fits the models
 		# combine those data from getFitness() => determine the position
 		likelihood = 0.7 * (biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList)) + 0.3 * (triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
@@ -182,9 +185,9 @@ print("files both opened successfully!")
 ###############
 
 # positive ones
-uniGram = NGRAM(1)
-biGram = NGRAM(2)
-triGram = NGRAM(3)
+uniGram = NGRAM(1, None)
+biGram = NGRAM(2, uniGram)
+triGram = NGRAM(3, biGram)
 
 # negative ones
 uniGramNeg = NGRAM(1)
