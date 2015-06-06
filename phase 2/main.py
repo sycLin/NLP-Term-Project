@@ -217,9 +217,9 @@ biGram = NGRAM(2, uniGram)
 triGram = NGRAM(3, biGram)
 
 # negative ones
-uniGramNeg = NGRAM(1)
-biGramNeg = NGRAM(2)
-triGramNeg = NGRAM(3)
+uniGramNeg = NGRAM(1, None)
+biGramNeg = NGRAM(2, uniGramNeg)
+triGramNeg = NGRAM(3, biGramNeg)
 
 ########################
 # process the raw data #
