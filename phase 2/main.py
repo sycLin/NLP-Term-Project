@@ -151,7 +151,7 @@ def process_raw_line2(rawLines):
 	for i in tmp:
 		tmp2 = i.split('#')
 		result[0].append(tmp2[1])
-		result[1].append(len(tmp2[[0]))
+		result[1].append(len(tmp2[0]))
 	return result
 
 # find out the most-likely redundant tag. Returns the index (0 ~ len-1).
