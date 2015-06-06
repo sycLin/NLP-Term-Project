@@ -94,31 +94,41 @@ class NGRAM:
 		# initialize the variables
 		numerator = float(1.0)
 		denominator = float(1.0)
+		answer = float(100000000000000.0)
 
 		# calculate numerator & denominator
 		length = len(tagList)
+		print "----- before calculation -----"
 		for start in range(length - self.N + 1):
 			tmp = []
 			for index in range(self.N):
 				tmp.append(tagList[start+index]) 
 			gramTuple = tuple(tmp) # now gramTuple is the tuple for this NGRAM (self).
 
-			numerator *= self.getProb(gramTuple)
+			testTest = self.getProb(gramTuple)
+			numerator *= testTest
+			answer *= testTest
 			if start != 0:
 				prefixGramTuple = self.getPrefixGram(gramTuple)
-				denominator *= self.prefixNGRAM.getProb(prefixGramTuple)
-
+				testTest = self.prefixNGRAM.getProb(prefixGramTuple)
+				denominator *= testTest
+				answer /= testTest
+			print "numerator = %f, denominator = %f, answer = %f" % (numerator, denominator, answer)
+		print "----- after calculation -----"
 		# special case
 		if denominator == 0:
 			return 0
-
+			
+		return answer
 		return float(numerator / denominator)
 
 	# Returns a float number: the probability of gramTuple in this NGRAM model
 	def getProb(self, gramTuple):
 		gramCount = self.getGramCount(gramTuple)
 		totalCount = self.gramCount
-		print "the gram %s got gramCount = %d, totalCount = %d" % (gramTuple, gramCount, totalCount)
+		if gramCount == 0:
+			gramCount += 1
+			print "bug here!"
 		return float(float(gramCount) / float(totalCount))
 
 
