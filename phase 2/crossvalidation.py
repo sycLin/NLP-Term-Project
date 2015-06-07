@@ -258,7 +258,7 @@ for i in range(5):
 	tmpUniGramNeg = uniGramNeg.combineModel(i)
 	tmpBiGramNeg = biGramNeg.combineModel(i)
 	tmpTriGramNeg = triGramNeg.combineModel(i)
-
+	
 
 ###############
 # close files #
