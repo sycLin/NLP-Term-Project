@@ -115,7 +115,7 @@ class NGRAM:
 				answer /= testTest
 			# print "numerator = %f, denominator = %f, answer = %f" % (numerator, denominator, answer)
 		# print "----- after calculation -----"
-		# special case
+		# special casef
 		if denominator == 0:
 			return 0
 
