@@ -69,15 +69,6 @@ cat tmp_portion_3.txt >> tmp_train_5.txt
 cat tmp_portion_4.txt >> tmp_train_5.txt
 cat tmp_portion_5.txt > tmp_test_5.txt
 
-# test data should not contain T/F values (0 or 1)
-for i in `seq 5`
-do
-	cat tmp_test_${i}.txt | grep "POS" > tmp_tmp_tmp.txt
-	cat tmp_test_${i}.txt | grep -E "0|1" > tmp_answer_${i}.txt
-	mv tmp_tmp_tmp.txt tmp_test_${i}.txt
-done
-rm -f tmp_tmp_tmp.txt
-
 # delete the temporary files
 rm -f tmp_portion_1.txt
 rm -f tmp_portion_2.txt
