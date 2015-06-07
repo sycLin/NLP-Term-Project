@@ -39,3 +39,8 @@ Thumbs.db
 # Vim swap files #
 ##################
 *.swp
+
+# test result #
+###############
+cvResult/*
+testResult/*
