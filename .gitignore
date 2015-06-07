@@ -42,5 +42,5 @@ Thumbs.db
 
 # test result #
 ###############
-cvResult/*
-testResult/*
+phase\ 2/cvResult/*
+phase\ 2/testResult/*
