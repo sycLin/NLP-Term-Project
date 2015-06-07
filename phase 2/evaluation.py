@@ -24,11 +24,17 @@ def get_f1_score(corStart, corEnd, yourStart, yourEnd):
 	while i <= yourEnd:
 		if i >= corStart and i <= corEnd:
 			overlapCount += 1
+		i += 1
 	
 	# calculate RECALL and PRECISION according to equations provided by TAs
 	recall = float(float(overlapCount) / float(corLen))
 	prec = float(float(overlapCount) / float(yourLen))
-	return float((recall+prec)/2.0)
+	result = float((recall+prec)/2.0)
+	if result == 0.0:
+		print "fuck..."
+	else:
+		print "f1_score = %f" % result
+	return result
 
 #################### Main Program ####################
 
@@ -62,19 +68,24 @@ except:
 
 finalScore = 0.0
 caseCount = 0
-
+print "aloha"
 while True:
+	
+	# read the files
 	lineBuf1 = stdAnswer.readline()
 	lineBuf2 = yourAnswer.readline()
-	if lineBuf1 == "" or lineBuf2 == "":
+	
+	# check if EOF encountered
+	if lineBuf1 == "" or lineBuf2 == "": # encounter EOF
 		break
 	tmpList1 = lineBuf1.split()
 	tmpList2 = lineBuf2.split()
 	if len(tmpList1) != 2 or len(tmpList2) != 2:
 		sys.stderr.write("[Error] file format error. Not <number><tab><number>\n")
 		sys.exit(1)
-	finalScore += get_f1_score(tmpList1[0], tmpList1[1], tmpList2[0], tmpList2[1])
+	finalScore += get_f1_score(int(tmpList1[0]), int(tmpList1[1]), int(tmpList2[0]), int(tmpList2[1]))
 	caseCount += 1
+	# print "--- Now (finalScore, caseCount) = (%f, %d)" % (finalScore, caseCount)
 	pass
 
 print "The average F1 score: %f" % float(finalScore / float(caseCount))
