@@ -9,10 +9,11 @@ import sys
 
 class NGRAM:
 
-	def __init__(self, n):
+	def __init__(self, n, prefixNGRAM):
 		self.N = n
 		self.gramList = []
 		self.gramCount = 0
+		self.prefixNGRAM = prefixNGRAM
 	
 	# build up the n-gram model from taglist
 	def build(self, tagList):
@@ -66,41 +67,70 @@ class NGRAM:
 		else: # already exists
 			tmp.Count += 1
 
-	# return the count corresponding to the given tuple
+	# Returns the count corresponding to the given tuple
 	def getGramCount(self, gramTuple):
 		tmp = self.hasGram(gramTuple)
 		if tmp == False:
 			return 0
 		return tmp.Count
 
-	# return a probability indicating how much the tagList fits this NGRAM model
+	# Return the prefix gram tuple of the given gramTuple
+	def getPrefixGram(self, gramTuple):
+		tmp = []
+		for i in range(len(gramTuple)-1): # exclude the last item in gramTuple
+			tmp.append(gramTuple[i])
+		return tuple(tmp)
+
+	# Returns a probability indicating how much the tagList fits this NGRAM model
 	def getFitness(self, tagList):
+
+		tagList = list(tagList)
+
+		# add start symbols and end symbols
 		for i in range(self.N - 1):
 			tagList.insert(0, '^')
 			tagList.append('$')
 
+		# initialize the variables
 		numerator = float(1.0)
 		denominator = float(1.0)
-		for i in range(len(tagList) - 1):
+		answer = float(100000000000000.0)
+
+		# calculate numerator & denominator
+		length = len(tagList)
+		# print "----- before calculation -----"
+		for start in range(length - self.N + 1):
 			tmp = []
-			for j in range(self.N):
-				tmp.append(tagList[i + j]) 
-			gramTuple = tuple(tmp)
+			for index in range(self.N):
+				tmp.append(tagList[start+index]) 
+			gramTuple = tuple(tmp) # now gramTuple is the tuple for this NGRAM (self).
 
-			numerator *= self.getProb(tmp)
-			if i != 0:
-				denominator *= self.getProbPrefix(tmp)
-
-		if numerator == 0:
+			testTest = self.getProb(gramTuple)
+			numerator *= testTest
+			answer *= testTest
+			if start != 0:
+				prefixGramTuple = self.getPrefixGram(gramTuple)
+				testTest = self.prefixNGRAM.getProb(prefixGramTuple)
+				denominator *= testTest
+				answer /= testTest
+			# print "numerator = %f, denominator = %f, answer = %f" % (numerator, denominator, answer)
+		# print "----- after calculation -----"
+		# special casef
+		if denominator == 0:
 			return 0
 
+		return answer
 		return float(numerator / denominator)
 
+	# Returns a float number: the probability of gramTuple in this NGRAM model
 	def getProb(self, gramTuple):
-		pass
+		gramCount = self.getGramCount(gramTuple)
+		totalCount = self.gramCount
+		if gramCount == 0:
+			gramCount += 1
+			# print "bug here!"
+		return float(float(gramCount) / float(totalCount))
 
-	def getProbPrefix(self, gramTuple):
-		pass
 
 class GRAM:
 
@@ -127,21 +157,39 @@ def process_raw_line(rawLines):
 		result.append(tmp2[1])
 	return result
 
-# find out the most-likely redundant tag
+# return list of POS tags, given rawLine (either Correct or Error)
+def process_raw_line2(rawLines):
+	result = [[], []]
+	tmp = rawLines.split();
+	for i in tmp:
+		tmp2 = i.split('#')
+		result[0].append(tmp2[1])
+		tmp2[0] = unicode(tmp2[0], "utf-8")
+		result[1].append(len(tmp2[0]))
+	return result
+
+# find out the most-likely redundant tag. Returns the index (0 ~ len-1).
 def guess(tagList):
-	global biGram, biGramNeg
+	global biGram, biGramNeg, triGram, triGramNeg
 	mostLikelyTag = 0
 	mostLikely = -float("inf")
 	for i in range(len(tagList)):
 		tmpList = list(tagList)
+
 		# remove one of the tags
 		tmpList.pop(i)
+
 		# utilize NGRAM.getFitness to see how well it fits the models
 		# combine those data from getFitness() => determine the position
-		likelihood = 0.7 * (biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList)) + 0.3 * (triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
+		likelihood = 0.7*(biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList))
+		# print "--- first: %f" % likelihood
+		likelihood += 0.3*(triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
+		# print "--- second: %f" % likelihood
 		if likelihood > mostLikely:
 			mostLikelyTag = i
 			mostLikely = likelihood
+
+		# print "%d-th tag popped, likelihood = %f" % (i, likelihood)
 	
 	return mostLikelyTag
 
@@ -175,21 +223,22 @@ except:
 	sys.stderr.write("[Error] test data file: %s does not exist.\n" % sys.argv[2])
 	sys.exit(1)
 
-print("files both opened successfully!")
+# print to check
+# print("files both opened successfully!")
 
 ###############
 # build NGRAM #
 ###############
 
 # positive ones
-uniGram = NGRAM(1)
-biGram = NGRAM(2)
-triGram = NGRAM(3)
+uniGram = NGRAM(1, None)
+biGram = NGRAM(2, uniGram)
+triGram = NGRAM(3, biGram)
 
 # negative ones
-uniGramNeg = NGRAM(1)
-biGramNeg = NGRAM(2)
-triGramNeg = NGRAM(3)
+uniGramNeg = NGRAM(1, None)
+biGramNeg = NGRAM(2, uniGramNeg)
+triGramNeg = NGRAM(3, biGramNeg)
 
 ########################
 # process the raw data #
@@ -235,6 +284,8 @@ uniGramNeg.countAll()
 biGramNeg.countAll()
 triGramNeg.countAll()
 
+# print to check
+""" 
 print uniGram.gramCount
 print biGram.gramCount
 print triGram.gramCount
@@ -242,16 +293,37 @@ print "===================="
 print uniGramNeg.gramCount
 print biGramNeg.gramCount
 print triGramNeg.gramCount
+"""
 
 #################
 # start testing #
 #################
 while True:
+
+	# read one line from testFile
 	line = testFile.readline()
-	if line == "":
+	if line == "": # EOF encountered
 		break
-	testList = process_raw_line(line)
-	guess(testList)	
+
+	# get the tagList & the wordCount of each tag
+	tmp = process_raw_line2(line)
+	# tmp[0] would be the tagList
+	# tmp[1] would be the wordCount list
+
+	# get the most likely redundant position
+	index = guess(tmp[0])
+	# print "suspicious tag is the "+str(index)+"-th one."
+
+	# retrieve its real position in the original sentence
+	realStart = 0
+	realEnd = 0
+	for i in range(index):
+		realStart += tmp[1][i]
+	realEnd = realStart+tmp[1][index]
+	realStart += 1
+	# print "suspicious position in the original sentence: %d ~ %d" % (real_start, real_end)
+	print "%d\t%d" % (realStart, realEnd)
+	pass
 
 
 ###############
