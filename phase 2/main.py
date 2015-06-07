@@ -98,7 +98,7 @@ class NGRAM:
 
 		# calculate numerator & denominator
 		length = len(tagList)
-		print "----- before calculation -----"
+		# print "----- before calculation -----"
 		for start in range(length - self.N + 1):
 			tmp = []
 			for index in range(self.N):
@@ -113,12 +113,12 @@ class NGRAM:
 				testTest = self.prefixNGRAM.getProb(prefixGramTuple)
 				denominator *= testTest
 				answer /= testTest
-			print "numerator = %f, denominator = %f, answer = %f" % (numerator, denominator, answer)
-		print "----- after calculation -----"
+			# print "numerator = %f, denominator = %f, answer = %f" % (numerator, denominator, answer)
+		# print "----- after calculation -----"
 		# special case
 		if denominator == 0:
 			return 0
-			
+
 		return answer
 		return float(numerator / denominator)
 
@@ -128,7 +128,7 @@ class NGRAM:
 		totalCount = self.gramCount
 		if gramCount == 0:
 			gramCount += 1
-			print "bug here!"
+			# print "bug here!"
 		return float(float(gramCount) / float(totalCount))
 
 
@@ -182,14 +182,14 @@ def guess(tagList):
 		# utilize NGRAM.getFitness to see how well it fits the models
 		# combine those data from getFitness() => determine the position
 		likelihood = 0.7*(biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList))
-		print "--- first: %f" % likelihood
+		# print "--- first: %f" % likelihood
 		likelihood += 0.3*(triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
-		print "--- second: %f" % likelihood
+		# print "--- second: %f" % likelihood
 		if likelihood > mostLikely:
 			mostLikelyTag = i
 			mostLikely = likelihood
 
-		print "%d-th tag popped, likelihood = %f" % (i, likelihood)
+		# print "%d-th tag popped, likelihood = %f" % (i, likelihood)
 	
 	return mostLikelyTag
 
@@ -223,7 +223,8 @@ except:
 	sys.stderr.write("[Error] test data file: %s does not exist.\n" % sys.argv[2])
 	sys.exit(1)
 
-print("files both opened successfully!")
+# print to check
+# print("files both opened successfully!")
 
 ###############
 # build NGRAM #
@@ -283,6 +284,8 @@ uniGramNeg.countAll()
 biGramNeg.countAll()
 triGramNeg.countAll()
 
+# print to check
+""" 
 print uniGram.gramCount
 print biGram.gramCount
 print triGram.gramCount
@@ -290,6 +293,7 @@ print "===================="
 print uniGramNeg.gramCount
 print biGramNeg.gramCount
 print triGramNeg.gramCount
+"""
 
 #################
 # start testing #
@@ -308,16 +312,17 @@ while True:
 
 	# get the most likely redundant position
 	index = guess(tmp[0])
-	print "suspicious tag is the "+str(index)+"-th one."
+	# print "suspicious tag is the "+str(index)+"-th one."
 
 	# retrieve its real position in the original sentence
-	real_start = 0
-	real_end = 0
+	realStart = 0
+	realEnd = 0
 	for i in range(index):
-		real_start += tmp[1][i]
-	real_end = real_start+tmp[1][index]
-	real_start += 1
-	print "suspicious position in the original sentence: %d ~ %d" % (real_start, real_end)
+		realStart += tmp[1][i]
+	realEnd = realStart+tmp[1][index]
+	realStart += 1
+	# print "suspicious position in the original sentence: %d ~ %d" % (real_start, real_end)
+	print "%d\t%d" % (realStart, realEnd)
 	pass
 
 
