@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILENAME='train_only_correctness_and_pos.txt'
+FILENAME=''
 
 # test if the file exist
 if ! [ -f $FILENAME ]; then
