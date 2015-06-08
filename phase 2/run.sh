@@ -11,5 +11,5 @@ fi
 
 # run it!!!
 
-$MAIN_FILE $TRAIN_FILE $TEST_FILE > testResult/result.txt
+$MAIN_FILE $TRAIN_FILE $TEST_FILE > testResult/answer.txt
 
