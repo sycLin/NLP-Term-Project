@@ -6,19 +6,19 @@ if [ $# != 1 ]; then
 	echo "Usage: $0 <scws|stanford>"
 	exit 1
 elif [ $1 == "scws" ]; then
-	TAG_SCRIPT='get_train_tagged2.sh'
+	TRAIN_FILE='./data/p2.train.tagged.scws.txt'
 elif [ $1 == "stanford" ]; then
-	TAG_SCRIPT='get_train_tagged.sh'
+	TRAIN_FILE='./data/p2.train.tagged.stanford.txt'
 else
 	echo "Usage: $0 <scws|stanford>"
 	exit 1
 fi
 
-# tag the training data
-cd src
-./$TAG_SCRIPT
-cd ..
+# slice the training data
 
+cd src
+./slice $1
+cd ..
 
 # files required
 MAIN_FILE="./src/main.py"

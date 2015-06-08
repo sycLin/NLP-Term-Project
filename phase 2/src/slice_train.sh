@@ -1,6 +1,10 @@
 #!/bin/bash
 
-FILENAME='../data/p2.train.tagged.txt'
+if [ $1 == "scws" ]; then
+	FILENAME='../data/p2.train.tagged.scws.txt'
+else
+	FILENAME='../data/p2.train.tagged.stanford.txt'
+fi
 
 # test if the file exist
 if ! [ -f $FILENAME ]; then
