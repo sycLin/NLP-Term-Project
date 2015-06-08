@@ -176,10 +176,10 @@ def guess(tagList):
 		# utilize NGRAM.getFitness to see how well it fits the models
 		# combine those data from getFitness() => determine the position
 		# likelihood = 0.7*(biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList))
-		likelihood = 0.7*(biGram.getFitness(tmpList))
+		likelihood = -0.7*(biGramNeg.getFitness(tmpList))
 		# print "--- first: %f" % likelihood
 		# likelihood += 0.3*(triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
-		likelihood += 0.3*(triGram.getFitness(tmpList))
+		likelihood += -0.3*(triGramNeg.getFitness(tmpList))
 		# print "--- second: %f" % likelihood
 		if likelihood > mostLikely:
 			mostLikelyTag = i
