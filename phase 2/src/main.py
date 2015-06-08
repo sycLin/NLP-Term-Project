@@ -184,7 +184,7 @@ def guess(tagList):
 			mostLikely = likelihood
 
 		# print "%d-th tag popped, likelihood = %f" % (i, likelihood)
-	
+	sys.stderr.write("Likelyhood = %f\n" % mostLikely)
 	return mostLikelyTag
 
 pass
