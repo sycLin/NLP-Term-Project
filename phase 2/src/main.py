@@ -177,7 +177,7 @@ def guess(tagList):
 		# combine those data from getFitness() => determine the position
 		likelihood = 0.7*(biGram.getFitness(tmpList) - biGramNeg.getFitness(tmpList))
 		# print "--- first: %f" % likelihood
-		likelihood = 0.3*(triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
+		likelihood += 0.3*(triGram.getFitness(tmpList) - triGramNeg.getFitness(tmpList))
 		# print "--- second: %f" % likelihood
 		if likelihood > mostLikely:
 			mostLikelyTag = i
