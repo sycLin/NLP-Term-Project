@@ -121,7 +121,7 @@ class NGRAM:
 		gramCount = self.getGramCount(gramTuple)
 		totalCount = self.gramCount
 		if gramCount == 0:
-			gramCount += 1
+			gramCount = 0.5 # smoothing here
 			# print "bug here!"
 		return float(float(gramCount) / float(totalCount))
 
