@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILENAME='p2.train.tagged.txt'
+FILENAME='../data/p2.train.tagged.txt'
 
 # test if the file exist
 if ! [ -f $FILENAME ]; then
