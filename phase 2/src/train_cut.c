@@ -53,8 +53,9 @@ int main() {
 			// printf("POS tags: ");
 			// for(i=0; i<pos_index; i++)
 				// printf("%s ", all_pos[i]);
-			printf("\n");
+			// printf("\n");
 		}
+		printf("\n");
 		// print_hr(stdout);
 	}
 
