@@ -4,6 +4,7 @@
 #################### Import Modules ####################
 import os
 import sys
+import math
 
 #################### Class Definitions ####################
 
@@ -92,9 +93,7 @@ class NGRAM:
 			tagList.append('$')
 
 		# initialize the variables
-		numerator = float(1.0)
-		denominator = float(1.0)
-		answer = float(100000000000000.0)
+		answer = float(0.0)
 
 		# calculate numerator & denominator
 		length = len(tagList)
@@ -105,22 +104,17 @@ class NGRAM:
 				tmp.append(tagList[start+index]) 
 			gramTuple = tuple(tmp) # now gramTuple is the tuple for this NGRAM (self).
 
-			testTest = self.getProb(gramTuple)
-			numerator *= testTest
-			answer *= testTest
+			gramTupleProb = self.getProb(gramTuple)
+			answer += math.log(gramTupleProb)
 			if start != 0:
 				prefixGramTuple = self.getPrefixGram(gramTuple)
-				testTest = self.prefixNGRAM.getProb(prefixGramTuple)
-				denominator *= testTest
-				answer /= testTest
+				prefixGramTupleProb = self.prefixNGRAM.getProb(prefixGramTuple)
+				answer -= math.log(prefixGramTupleProb)
 			# print "numerator = %f, denominator = %f, answer = %f" % (numerator, denominator, answer)
 		# print "----- after calculation -----"
 		# special casef
-		if denominator == 0:
-			return 0
 
 		return answer
-		return float(numerator / denominator)
 
 	# Returns a float number: the probability of gramTuple in this NGRAM model
 	def getProb(self, gramTuple):
