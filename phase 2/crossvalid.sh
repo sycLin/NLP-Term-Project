@@ -37,7 +37,7 @@ fi
 # run 5 times
 for i in `seq 5`
 do
-	$MAIN_FILE ./data/tmp_train_$i.txt ./data/tmp_test_$i.txt > ./cvResult/tmp_answer_$i.txt
+	$MAIN_FILE ./data/tmp_train_$i.txt ./data/tmp_test_$i.txt > ./cvResult/tmp_answer_$i.txt 2>./cvResult/tmp_likelyhood_$i.txt
 done
 
 # evaluate my answer
