@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # files required
-MAIN_FILE="main.py"
-TRAIN_FILE="p2.train.txt"
+MAIN_FILE="./src/main.py"
+TRAIN_FILE="./data/p2.train.txt"
 
 # check those files required
 if ! [ -f $MAIN_FILE ]; then
@@ -15,17 +15,9 @@ if ! [ -f $TRAIN_FILE ]; then
 	exit 1
 fi
 
-# if the training data not tagged, tag it!
-if ! [ -f p2.train.tagged.txt ]; then
-	./get_train_tagged.sh
-fi
-
-#slice the training data into 5 portions
-./slice.sh
-
 # run 5 times
 for i in `seq 5`
 do
-	./$MAIN_FILE tmp_train_$i.txt tmp_test_$i.txt > tmp_answer_$i.txt
+	$MAIN_FILE ./data/tmp_train_$i.txt ./data/tmp_test_$i.txt > ./data/tmp_answer_$i.txt
 done
 
