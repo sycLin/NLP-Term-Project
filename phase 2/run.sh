@@ -6,27 +6,20 @@ if [ $# != 1 ]; then
 	echo "Usage: $0 <scws|stanford>"
 	exit 1
 elif [ $1 == "scws" ]; then
-	TRAIN_TAG_SCRIPT='get_train_tagged2.sh'
-	TEST_TAG_SCRIPT='get_test_tagged2.sh'
+	TRAIN_FILE='./data/p2.train.tagged.scws.txt'
+	TEST_FILE='./data/p2.test.tagged.scws.txt'
 elif [ $1 == "stanford" ]; then
-	TRAIN_TAG_SCRIPT='get_train_tagged.sh'
-	TEST_TAG_SCRIPT='get_test_tagged.sh'
+	TRAIN_FILE='./data/p2.train.tagged.stanford.txt'
+	TEST_FILE='./data/p2.test.tagged.stanford.txt'
 else
 	echo "Usage: $0 <scws|stanford>"
 	exit 1
 fi
 
-# tag the training data
-cd src
-./$TRAIN_TAG_SCRIPT
-./$TEST_TAG_SCRIPT
-cd ..
 
 # set variables (files)
 
 MAIN_FILE='./src/main.py'
-TRAIN_FILE='./data/p2.train.tagged.txt'
-TEST_FILE='./data/p2.test.tagged.txt'
 
 # check if the directory testResult/ exists or not
 if ! [ -d testResult/ ];then
