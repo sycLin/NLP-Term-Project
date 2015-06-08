@@ -76,4 +76,6 @@ rm -f tmp_portion_3.txt
 rm -f tmp_portion_4.txt
 rm -f tmp_portion_5.txt
 
-
+# move the files to ../data
+mv tmp_test_*.txt ../data/
+mv tmp_train_*.txt ../data/
