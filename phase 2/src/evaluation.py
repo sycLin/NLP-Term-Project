@@ -29,7 +29,7 @@ def get_f1_score(corStart, corEnd, yourStart, yourEnd):
 	# calculate RECALL and PRECISION according to equations provided by TAs
 	recall = float(float(overlapCount) / float(corLen))
 	prec = float(float(overlapCount) / float(yourLen))
-	result = float((recall+prec)/2.0)
+	result = float(2*recall*prec/(recall+prec))
 	if result == 0.0:
 		print "fuck..."
 	else:
@@ -88,5 +88,5 @@ while True:
 	# print "--- Now (finalScore, caseCount) = (%f, %d)" % (finalScore, caseCount)
 	pass
 
-print "The average F1 score: %f" % float(finalScore / float(caseCount))
+print "Of all %d cases, the average F1 score: %f" % (caseCount, float(finalScore / float(caseCount))
 
