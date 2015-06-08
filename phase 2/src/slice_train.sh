@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ $1 == "scws" ]; then
+if [ $1 == 'scws' ]; then
 	FILENAME='../data/p2.train.tagged.scws.txt'
 else
 	FILENAME='../data/p2.train.tagged.stanford.txt'
