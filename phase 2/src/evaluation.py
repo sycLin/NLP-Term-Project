@@ -29,7 +29,10 @@ def get_f1_score(corStart, corEnd, yourStart, yourEnd):
 	# calculate RECALL and PRECISION according to equations provided by TAs
 	recall = float(float(overlapCount) / float(corLen))
 	prec = float(float(overlapCount) / float(yourLen))
-	result = float(2*recall*prec/(recall+prec))
+	try:
+		result = float(2*recall*prec/(recall+prec))
+	except ZeroDivisionError:
+		result = float(0.0)
 	if result == 0.0:
 		print "fuck..."
 	else:
