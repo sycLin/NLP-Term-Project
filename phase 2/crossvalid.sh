@@ -15,6 +15,11 @@ if ! [ -f $TRAIN_FILE ]; then
 	exit 1
 fi
 
+# if ./cvResult/ firectory not exist, create it
+if ! [ -d ./cvResult/ ]; then
+	mkdir cvResult
+fi
+
 # run 5 times
 for i in `seq 5`
 do
