@@ -88,5 +88,5 @@ while True:
 	# print "--- Now (finalScore, caseCount) = (%f, %d)" % (finalScore, caseCount)
 	pass
 
-print "Of all %d cases, the average F1 score: %f" % (caseCount, float(finalScore / float(caseCount))
+print "Of all %d cases, the average F1 score: %f" % (caseCount, float(finalScore / float(caseCount)))
 
