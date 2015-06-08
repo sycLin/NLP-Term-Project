@@ -17,7 +17,7 @@ fi
 # slice the training data
 
 cd src
-./slice.sh $1
+./slice_train.sh $1
 cd ..
 
 # files required
