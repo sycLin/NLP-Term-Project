@@ -19,7 +19,6 @@ cd src
 ./$TAG_SCRIPT
 cd ..
 
-exit 1
 
 # files required
 MAIN_FILE="./src/main.py"
